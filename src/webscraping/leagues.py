@@ -3,6 +3,7 @@ from .constants import URL_FBREF
 class League:
   def __init__(self, countryCode):
     self.countryCode = countryCode
+    self._setLeagueProperties()
     
   def _setLeagueProperties(self) -> None: 
     leagues = {
@@ -15,9 +16,11 @@ class League:
     }
 
     if self.countryCode in leagues:
-      self.name, self.id, self.seasonType = leagues[self.league]
+      self.name, self.id, self.seasonType = leagues[self.countryCode]
 
       _urlName = self.name.replace('_','-').title()
       self.url = f"{URL_FBREF}/en/comps/{self.league_id}/season_placeholder/season_placeholder-{_urlName}-Stats"
 
       self.path = f"datasets/raw_data/{self.name}/"
+    else:
+      raise ValueError(f"Country Code '{self.countryCode}' not supported.")
