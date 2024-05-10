@@ -1,10 +1,10 @@
-from .constants import *
+from .constants import URL_FBREF
 
 class League:
   def __init__(self, countryCode):
     self.countryCode = countryCode
     
-  def _setLeagueProperties(self): 
+  def _setLeagueProperties(self) -> None: 
     leagues = {
       'br': ('brasileirao', '24', 'full_year'),
       'en': ('premier_league', '9', 'split_years'),
