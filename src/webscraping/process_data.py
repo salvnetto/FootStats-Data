@@ -7,7 +7,8 @@ class ProcessData:
     self.file = file
     self._ColumnsToDrop = {
       'standings': ['pts/mp', 'top team scorer', 'goalkeeper', 'notes'],
-      'match_history': ['match report', 'time', 'day']
+      'match_history': ['match report', 'time', 'day'],
+      'squads': []
     }
     self._processData()
    
