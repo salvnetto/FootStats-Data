@@ -1,4 +1,4 @@
-from .constants import URL_FBREF
+from constants import URL_FBREF
 
 class League:
   def __init__(self, countryCode):
@@ -19,7 +19,7 @@ class League:
       self.name, self.id, self.seasonType = leagues[self.countryCode]
 
       _urlName = self.name.replace('_','-').title()
-      self.url = f"{URL_FBREF}/en/comps/{self.league_id}/season_placeholder/season_placeholder-{_urlName}-Stats"
+      self.url = f"{URL_FBREF}/en/comps/{self.id}/season_placeholder/season_placeholder-{_urlName}-Stats"
 
       self.path = f"datasets/raw_data/{self.name}/"
     else:
