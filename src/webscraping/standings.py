@@ -32,5 +32,3 @@ class Standings:
 
     localFile.to_csv(self.infoLeague.path, index= False)
     ProcessData(self.infoLeague, localFile)
-
-Standings('en').update()

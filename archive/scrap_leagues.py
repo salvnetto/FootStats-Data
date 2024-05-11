@@ -1,16 +1,4 @@
-  def _get_team_match_history(self, season, urls):
-    match_history = []
-    for team in urls:
-      team_name = team.split('/')[-1].replace('-Stats', '').replace('-','_').lower()
       team_mh = pd.read_html(team)[1]
-      team_mh['season'] = season
-      team_mh['league_id'] = self.league_id
-      team_mh['league_name'] = self.name
-      team_mh['team'] = team_name
-      print(f'--{team_name}')
-
-      data = requests.get(team)
-      soup = BeautifulSoup(data.text, features= 'lxml')
       anchor = [link.get("href") for link in soup.find_all('a')]
       ##Shooting
       try:
@@ -85,9 +73,4 @@
         pass
 
       match_history.append(team_mh)
-      time.sleep(10)
-    match_history = pd.concat(match_history)
-
-    return match_history
-
 

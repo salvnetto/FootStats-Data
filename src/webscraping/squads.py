@@ -23,8 +23,10 @@ class Squads:
       try:
         teamsUrls = getTeamsUrl(url)
         webFile = []
+
         for team in teamsUrls:
-          teamFile = pd.read_html(team)[0]
+          data = requests.get(team)
+          teamFile = pd.read_html(StringIO(data.text))[0]
           teamFile.columns = teamFile.columns.droplevel()
           teamFile['season'] = season
           teamFile['league_name'] = self.infoLeague.leagueName
@@ -33,15 +35,16 @@ class Squads:
           teamFile['team_name'] = teamName
           teamId = team.split('/')[5]
           teamFile['team_id'] = teamId
+          print(f'--{teamName}')
           webFile.append(teamFile)
           time.sleep(2)
+
         webFile = pd.concat(webFile)
         localFile = pd.concat([localFile, webFile])
+
       except Exception as e:
         warnings.warn(f"Error while downloading data for season {season}: {e}")
       time.sleep(2)
 
     localFile.to_csv(self.infoLeague.path, index= False)
     ProcessData(self.infoLeague, localFile)
-
-Squads('en').update()
