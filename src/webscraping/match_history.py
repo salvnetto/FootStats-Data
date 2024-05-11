@@ -9,10 +9,14 @@ from check_seasons import CheckingSeasons
 from process_data import ProcessData
 
 
-class Standings:
+class MatchHistory:
   def __init__(self, countryCode) -> None:
-    self.infoLeague = CheckingSeasons(countryCode, 'standings')
+    self.infoLeague = CheckingSeasons(countryCode, 'match_history')
     self.missingSeasons = self.infoLeague.getMissingSeasons()
+    #self.infoLeague.file
+    #self.infoLeague.fileName
+    #self.infoLeague.url
+    #self.infoLeague.path
 
   def update(self) -> None:
     localFile = self.infoLeague.file
@@ -33,4 +37,4 @@ class Standings:
     localFile.to_csv(self.infoLeague.path, index= False)
     ProcessData(self.infoLeague, localFile)
 
-Standings('en').update()
+MatchHistory('en').update()
