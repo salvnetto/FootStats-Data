@@ -14,7 +14,7 @@ class ProcessData:
   def _savePath(self) -> None:
     processed_path = f'datasets/processed_data/{self.infoLeague.leagueName}/'
     if not os.path.exists(processed_path):
-      os.makedirs(os.path.dirname(processed_path)
+      os.makedirs(os.path.dirname(processed_path))
     self.file.to_csv(processed_path + f'{self.infoLeague.fileName}.csv', index= False)
 
   def _processData(self) -> None:
