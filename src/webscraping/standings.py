@@ -6,6 +6,7 @@ import pandas as pd
 from io import StringIO
 
 from check_seasons import CheckingSeasons
+from process_data import ProcessData
 
 
 class Standings:
@@ -17,7 +18,7 @@ class Standings:
     #self.infoLeague.url
     #self.infoLeague.path
 
-  def update(self):
+  def update(self) -> None:
     localFile = self.infoLeague.file
     for season in self.missingSeasons:
       url = self.infoLeague.url.replace('season_placeholder', season)
@@ -32,6 +33,8 @@ class Standings:
       except Exception as e:
         warnings.warn(f"Error while downloading data for season {season}: {e}")
       time.sleep(2)
+
     localFile.to_csv(self.infoLeague.path, index= False)
+    ProcessData(self.infoLeague, localFile)
 
 Standings('en').update()

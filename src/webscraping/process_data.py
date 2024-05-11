@@ -2,29 +2,23 @@ import os
 import pandas as pd
 
 class ProcessData:
-  def __init__(self, league, fileName):
-    self._league = league
-    self._fileName = fileName
-    self._dataFrame = pd.read_csv(f'../datasets/raw_data/{self._league}/{self._fileName}.csv')
-    
+  def __init__(self, infoLeague, file):
+    self.infoLeague = infoLeague
+    self.file = file
     self._ColumnsToDrop = {
-      'standing': ['pts/mp', 'top team scorer', 'goalkeeper', 'notes'],
+      'standings': ['pts/mp', 'top team scorer', 'goalkeeper', 'notes'],
       'match_history': ['match report', 'time', 'day']
     }
-
     self._processData()
    
   def _savePath(self) -> None:
-    processed_path = f'../datasets/processed_data/{self._league}/'
+    processed_path = f'datasets/processed_data/{self.infoLeague.leagueName}/'
     if not os.path.exists(processed_path):
-      os.makedirs(processed_path)
-    
-    self._dataFrame.to_csv(processed_path + f'{self._fileName}.csv')
-
+      os.makedirs(os.path.dirname(processed_path)
+    self.file.to_csv(processed_path + f'{self.infoLeague.fileName}.csv', index= False)
 
   def _processData(self) -> None:
-    self._dataFrame.columns = self._dataFrame.columns.str.lower()
-    columns_to_drop = self._ColumnsToDrop.get(self._fileName, [])
-    self._dataFrame = self._dataFrame.drop(columns_to_drop, axis=1)
-
+    self.file.columns = self.file.columns.str.lower()
+    columns_to_drop = self._ColumnsToDrop.get(self.infoLeague.fileName)
+    self.file = self.file.drop(columns_to_drop, axis=1)
     self._savePath()
