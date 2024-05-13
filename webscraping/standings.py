@@ -5,8 +5,8 @@ import time
 import pandas as pd
 from io import StringIO
 
-from check_seasons import CheckingSeasons
-from process_data import ProcessData
+from .check_seasons import CheckingSeasons
+from .process_data import ProcessData
 
 
 class Standings:
@@ -17,7 +17,7 @@ class Standings:
   def update(self) -> None:
     localFile = self.infoLeague.file
     for season in self.missingSeasons:
-      url = self.infoLeague.url.replace('season_placeholder', season)
+      url = self.infoLeague.url.replace('season_placeholder', str(season))
       print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
       try:
         data = requests.get(url)

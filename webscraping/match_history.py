@@ -6,24 +6,20 @@ import pandas as pd
 from io import StringIO
 from bs4 import BeautifulSoup
 
-from check_seasons import CheckingSeasons
-from process_data import ProcessData
-from utils import getTeamsUrl
+from .check_seasons import CheckingSeasons
+from .process_data import ProcessData
+from .utils import getTeamsUrl
 
 
 class MatchHistory:
   def __init__(self, countryCode) -> None:
     self.infoLeague = CheckingSeasons(countryCode, 'match_history')
     self.missingSeasons = self.infoLeague.getMissingSeasons()
-    #self.infoLeague.file
-    #self.infoLeague.fileName
-    #self.infoLeague.url
-    #self.infoLeague.path
 
   def update(self) -> None:
     localFile = self.infoLeague.file
     for season in self.missingSeasons:
-      url = self.infoLeague.url.replace('season_placeholder', season)
+      url = self.infoLeague.url.replace('season_placeholder', str(season))
       print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
       try:
         teamsUrls = getTeamsUrl(url)
@@ -78,5 +74,6 @@ class MatchHistory:
           pass
       except (ValueError, IndexError):
         pass
+      time.sleep(2)
   
     return teamFile

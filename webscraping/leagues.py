@@ -1,4 +1,4 @@
-from constants import URL_FBREF
+from .constants import URL_FBREF
 
 class League:
   def __init__(self, countryCode):

@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-from constants import SEASONS, ACTIVE_SEASON
-from leagues import League
+from .constants import SEASONS, ACTIVE_SEASON
+from .leagues import League
 
 
 class CheckingSeasons:
@@ -32,7 +32,8 @@ class CheckingSeasons:
       
   def getMissingSeasons(self) -> list:
     downloadedSeasons = list(self.file['season'].unique())
-    
+    downloadedSeasons = [str(season) for season in downloadedSeasons]
+
     if not downloadedSeasons:
       missingSeasons = SEASONS[self._league.seasonType]
     else:

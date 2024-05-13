@@ -5,9 +5,9 @@ import time
 import pandas as pd
 from io import StringIO
 
-from check_seasons import CheckingSeasons
-from process_data import ProcessData
-from utils import getTeamsUrl
+from .check_seasons import CheckingSeasons
+from .process_data import ProcessData
+from .utils import getTeamsUrl
 
 
 class Squads:
@@ -18,7 +18,7 @@ class Squads:
   def update(self) -> None:
     localFile = self.infoLeague.file
     for season in self.missingSeasons:
-      url = self.infoLeague.url.replace('season_placeholder', season)
+      url = self.infoLeague.url.replace('season_placeholder', str(season))
       print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
       try:
         teamsUrls = getTeamsUrl(url)
@@ -37,14 +37,14 @@ class Squads:
           teamFile['team_id'] = teamId
           print(f'--{teamName}')
           webFile.append(teamFile)
-          time.sleep(2)
-
-        webFile = pd.concat(webFile)
-        localFile = pd.concat([localFile, webFile])
+          time.sleep(1.5)
+        webFile = pd.concat(webFile, ignore_index= True)
+        webFile.to_excel(f'teste{season}.xlsx')
+        localFile = pd.concat([localFile, webFile], ignore_index= True)
 
       except Exception as e:
         warnings.warn(f"Error while downloading data for season {season}: {e}")
-      time.sleep(2)
+      time.sleep(1.5)
 
     localFile.to_csv(self.infoLeague.path, index= False)
     ProcessData(self.infoLeague, localFile)
