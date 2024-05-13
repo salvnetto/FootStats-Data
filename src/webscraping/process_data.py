@@ -8,7 +8,7 @@ class ProcessData:
     self._ColumnsToDrop = {
       'standings': ['pts/mp', 'top team scorer', 'goalkeeper', 'notes'],
       'match_history': ['match report', 'time', 'day'],
-      'squads': []
+      'squads': ['matches']
     }
     self._processData()
    

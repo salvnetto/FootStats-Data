@@ -80,5 +80,3 @@ class MatchHistory:
         pass
   
     return teamFile
-
-MatchHistory('en').update()
