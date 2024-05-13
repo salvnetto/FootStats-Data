@@ -13,3 +13,17 @@ def getTeamsUrl(url):
   urls = [f"https://fbref.com{link}" for link in links]
   
   return urls
+
+def renameColumns(columns):
+  column_counts = {}
+  new_column_names = []
+  
+  for column in columns:
+      if column not in column_counts:
+          column_counts[column] = 1
+          new_column_names.append(column)
+      else:
+          column_counts[column] += 1
+          new_column_names.append(f"{column}_90")
+  
+  return new_column_names

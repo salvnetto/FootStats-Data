@@ -7,7 +7,7 @@ from io import StringIO
 
 from .check_seasons import CheckingSeasons
 from .process_data import ProcessData
-from .utils import getTeamsUrl
+from .utils import getTeamsUrl, renameColumns
 
 
 class Squads:
@@ -36,10 +36,10 @@ class Squads:
           teamId = team.split('/')[5]
           teamFile['team_id'] = teamId
           print(f'--{teamName}')
+          teamFile.columns = renameColumns(teamFile.columns)
           webFile.append(teamFile)
           time.sleep(1.5)
         webFile = pd.concat(webFile, ignore_index= True)
-        webFile.to_excel(f'teste{season}.xlsx')
         localFile = pd.concat([localFile, webFile], ignore_index= True)
 
       except Exception as e:

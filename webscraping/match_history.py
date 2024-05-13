@@ -38,6 +38,7 @@ class MatchHistory:
           soup = BeautifulSoup(data.text, features= 'lxml')
           anchor = [link.get("href") for link in soup.find_all('a')]
           teamFile = self._appendOtherStats(teamFile, anchor)
+          print(f'--{teamName}')
           webFile.append(teamFile)
           time.sleep(2)
 
@@ -47,8 +48,8 @@ class MatchHistory:
         warnings.warn(f"Error while downloading data for season {season}: {e}")
       time.sleep(2)
 
-    localFile.to_csv(self.infoLeague.path, index= False)
-    ProcessData(self.infoLeague, localFile)
+      localFile.to_csv(self.infoLeague.path, index= False)
+      ProcessData(self.infoLeague, localFile)
 
   def _appendOtherStats(self, teamFile, anchor) -> pd.DataFrame:
     statsNames = {
@@ -67,13 +68,13 @@ class MatchHistory:
         links = [l for l in anchor if l and name in l]
         webFile = pd.read_html(f"https://fbref.com{links[0]}")[0]
         webFile.columns = webFile.columns.droplevel()
-        teamFile = teamFile.merge(webFile[columns], on= 'Date')
+        teamFile = teamFile.merge(webFile[columns[0]], on= 'Date')
         try:
           teamFile.rename(columns=columns[1], inplace=True)
         except TypeError:
           pass
-      except (ValueError, IndexError):
+      except (ValueError, IndexError, KeyError):
         pass
-      time.sleep(2)
+      time.sleep(1)
   
     return teamFile

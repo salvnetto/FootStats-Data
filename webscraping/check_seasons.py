@@ -29,6 +29,8 @@ class CheckingSeasons:
       self.file.to_csv(self.path, index= False)
     else:
       self.file = pd.read_csv(self.path)
+      self.file['season'] = self.file['season'].apply(str)
+      self.file = self.file[self.file['season'] != ACTIVE_SEASON[self._league.seasonType]]
       
   def getMissingSeasons(self) -> list:
     downloadedSeasons = list(self.file['season'].unique())

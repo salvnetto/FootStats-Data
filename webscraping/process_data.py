@@ -24,6 +24,6 @@ class ProcessData:
     self.file = self.file.drop(columns_to_drop, axis=1)
 
     if self.infoLeague.fileName == 'squads':
-      self.file['Age'] = self.file['Age'].str.split('-').str.get(0)
-      self = self.iloc[:-2]
+      self.file['age'] = self.file['age'].str.split('-').str.get(0)
+      self.file = self.file.iloc[:-2]
     self._savePath()

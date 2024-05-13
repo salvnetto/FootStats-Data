@@ -199,183 +199,23 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2023,18.0,Goiás,38.0,9.0,11.0,18.0,36.0,53.0,-17.0,38.0,1.0,10026.0,Guilherme - 6,Tadeu,Relegated,brasileirao,24,36.5,45.9,-9.4,-0.25,
 2023,19.0,Coritiba,38.0,8.0,6.0,24.0,41.0,73.0,-32.0,30.0,0.79,20770.0,Robson - 12,Gabriel,Relegated,brasileirao,24,39.3,60.8,-21.6,-0.57,
 2023,20.0,América (MG),38.0,5.0,9.0,24.0,42.0,81.0,-39.0,24.0,0.63,6373.0,Gonzalo Mastriani - 11,Matheus Cavichioli,Relegated,brasileirao,24,46.9,62.8,-15.9,-0.42,
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
-2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
-2024,1.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
-2024,2.0,Ath Paranaense,5.0,3.0,1.0,1.0,7.0,3.0,4.0,10.0,2.0,9928.0,Agustín Canobbio - 2,Bento,,brasileirao,24,6.5,4.7,1.8,0.37,W L W D W
-2024,3.0,Bahia,5.0,3.0,1.0,1.0,8.0,6.0,2.0,10.0,2.0,11540.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.1,4.9,3.3,0.66,L W D W W
-2024,4.0,Botafogo (RJ),5.0,3.0,0.0,2.0,11.0,6.0,5.0,9.0,1.8,,"Danilo Barbosa, Tiquinho Soares... - 2",Gatito Fernández,,brasileirao,24,7.4,6.4,1.1,0.21,L W W W L
-2024,5.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
-2024,6.0,Red Bull Bragantino,5.0,2.0,3.0,0.0,7.0,5.0,2.0,9.0,1.8,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,3.7,7.6,-3.9,-0.78,D W W D D
-2024,7.0,Palmeiras,5.0,2.0,2.0,1.0,3.0,1.0,2.0,8.0,1.6,14978.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,5.2,3.9,1.3,0.25,W L D D W
-2024,8.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
-2024,9.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
-2024,10.0,Cruzeiro,4.0,2.0,1.0,1.0,7.0,7.0,0.0,7.0,1.75,10351.0,Rafael Silva - 2,Anderson,,brasileirao,24,4.5,4.0,0.4,0.11,W D L W
-2024,11.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
-2024,12.0,Fortaleza,4.0,1.0,3.0,0.0,4.0,3.0,1.0,6.0,1.5,9057.0,"Juan Martín Lucero, Imanol Machuca... - 1",João Ricardo Riedi,,brasileirao,24,3.7,3.7,0.1,0.02,W D D D
-2024,13.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
-2024,14.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
-2024,15.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
-2024,16.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
-2024,17.0,Vasco da Gama,5.0,1.0,0.0,4.0,4.0,10.0,-6.0,3.0,0.6,,Pablo Vegetti - 2,Léo Jardim,,brasileirao,24,6.4,7.2,-0.9,-0.18,W L L L L
-2024,18.0,Vitória,4.0,0.0,1.0,3.0,4.0,9.0,-5.0,1.0,0.25,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,3.5,7.3,-3.9,-0.96,L D L L
-2024,19.0,Atl Goianiense,4.0,0.0,1.0,3.0,2.0,7.0,-5.0,1.0,0.25,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,3.1,5.4,-2.3,-0.58,L L L D
+2024,1.0,Ath Paranaense,6.0,4.0,1.0,1.0,9.0,3.0,6.0,13.0,2.17,9928.0,"Pablo, Agustín Canobbio - 2",Bento,,brasileirao,24,7.2,6.4,0.8,0.14,L W D W W
+2024,2.0,Bahia,6.0,4.0,1.0,1.0,9.0,6.0,3.0,13.0,2.17,7693.0,Everaldo Stum - 3,Marcos Felipe,,brasileirao,24,8.9,5.3,3.6,0.6,W D W W W
+2024,3.0,Flamengo,6.0,3.0,2.0,1.0,7.0,5.0,2.0,11.0,1.83,,"Nicolás De La Cruz, Pedro - 2",Agustín Rossi,,brasileirao,24,6.7,6.0,0.7,0.11,W D L D W
+2024,4.0,Botafogo (RJ),6.0,3.0,1.0,2.0,12.0,7.0,5.0,10.0,1.67,,Danilo Barbosa - 3,"Gatito Fernández, John",,brasileirao,24,7.9,7.0,0.9,0.15,W W W L D
+2024,5.0,Cruzeiro,5.0,3.0,1.0,1.0,8.0,7.0,1.0,10.0,2.0,10351.0,"Rafael Silva, Matheus Pereira - 2",Anderson,,brasileirao,24,5.0,5.2,-0.2,-0.04,W D L W W
+2024,6.0,Atlético Mineiro,5.0,2.0,3.0,0.0,9.0,3.0,6.0,9.0,1.8,19771.0,Eduardo Vargas - 3,Éverson,,brasileirao,24,5.8,3.7,2.1,0.43,D D W W D
+2024,7.0,Red Bull Bragantino,6.0,2.0,3.0,1.0,7.0,6.0,1.0,9.0,1.5,3155.0,"Eduardo Sasha, Vitinho - 2",Cleiton Schwengber,,brasileirao,24,4.2,8.4,-4.2,-0.7,W W D D L
+2024,8.0,Palmeiras,6.0,2.0,2.0,2.0,3.0,3.0,0.0,8.0,1.33,9985.0,"Lázaro, Richard Ríos... - 1",Wéverton,,brasileirao,24,6.9,4.6,2.3,0.38,L D D W L
+2024,9.0,São Paulo,5.0,2.0,1.0,2.0,8.0,5.0,3.0,7.0,1.4,17528.0,Luciano - 3,Rafael Pires,,brasileirao,24,6.6,3.0,3.7,0.73,L L W D W
+2024,10.0,Internacional,4.0,2.0,1.0,1.0,4.0,3.0,1.0,7.0,1.75,,Wesley - 2,Sergio Rochet,,brasileirao,24,6.5,3.3,3.2,0.8,W W L D
+2024,11.0,Fortaleza,5.0,1.0,4.0,0.0,5.0,4.0,1.0,7.0,1.4,11342.0,"Juan Martín Lucero, Tomas Pochettino... - 1",João Ricardo Riedi,,brasileirao,24,4.4,4.1,0.2,0.04,W D D D D
+2024,12.0,Grêmio,4.0,2.0,0.0,2.0,4.0,3.0,1.0,6.0,1.5,6618.0,Franco Cristaldo - 2,Agustín Marchesín,,brasileirao,24,3.1,3.5,-0.5,-0.11,L W W L
+2024,13.0,Vasco da Gama,6.0,2.0,0.0,4.0,6.0,11.0,-5.0,6.0,1.0,,Pablo Vegetti - 3,Léo Jardim,,brasileirao,24,8.2,8.9,-0.8,-0.13,L L L L W
+2024,14.0,Criciúma,3.0,1.0,2.0,0.0,6.0,2.0,4.0,5.0,1.67,,Fellipe Mateus - 2,Alisson,,brasileirao,24,2.5,3.5,-1.0,-0.34,D D W
+2024,15.0,Juventude,4.0,1.0,2.0,1.0,5.0,7.0,-2.0,5.0,1.25,3739.0,Jean Carlos Vicente - 2,Gabriel,,brasileirao,24,3.6,5.8,-2.2,-0.55,D W L D
+2024,16.0,Corinthians,6.0,1.0,2.0,3.0,3.0,5.0,-2.0,5.0,0.83,14152.0,Wesley Ribeiro - 2,"Cássio, Carlos Miguel",,brasileirao,24,7.4,5.2,2.2,0.37,L L W D L
+2024,17.0,Fluminense,5.0,1.0,2.0,2.0,7.0,10.0,-3.0,5.0,1.0,5882.0,"Germán Cano, Lima - 2",Fábio,,brasileirao,24,5.6,6.6,-1.0,-0.2,D L W L D
+2024,18.0,Vitória,5.0,0.0,1.0,4.0,5.0,11.0,-6.0,1.0,0.2,9203.0,"Willian, Wagner... - 1",Lucas Arcanjo,,brasileirao,24,5.2,9.2,-4.0,-0.79,L D L L L
+2024,19.0,Atl Goianiense,5.0,0.0,1.0,4.0,2.0,8.0,-6.0,1.0,0.2,,"Luiz Fernando, Derek - 1",Ronaldo,,brasileirao,24,4.2,5.9,-1.7,-0.34,L L L D L
 2024,20.0,Cuiabá,4.0,0.0,0.0,4.0,0.0,10.0,-10.0,0.0,0.0,,,Walter,,brasileirao,24,2.3,6.5,-4.2,-1.06,L L L L
