@@ -43,13 +43,16 @@ class MatchHistory:
           time.sleep(2)
 
         webFile = pd.concat(webFile)
-        localFile = pd.concat([localFile, webFile])
+        localFile = pd.concat([localFile, webFile], ignore_index= True)
       except Exception as e:
+        self.missingSeasons.append(season)
+        localFile = localFile[localFile['season'] != str(season)]
         warnings.warn(f"Error while downloading data for season {season}: {e}")
-      time.sleep(2)
+      finally:
+        time.sleep(2)
 
       localFile.to_csv(self.infoLeague.path, index= False)
-      ProcessData(self.infoLeague, localFile)
+    ProcessData(self.infoLeague, localFile)
 
   def _appendOtherStats(self, teamFile, anchor) -> pd.DataFrame:
     statsNames = {
@@ -76,5 +79,4 @@ class MatchHistory:
       except (ValueError, IndexError, KeyError):
         pass
       time.sleep(1)
-  
     return teamFile

@@ -1,7 +1,7 @@
 import warnings
-import requests
 import time
 
+import requests
 import pandas as pd
 from io import StringIO
 
@@ -25,10 +25,13 @@ class Standings:
         webFile['season'] = season
         webFile['league_name'] = self.infoLeague.leagueName
         webFile['league_id'] = self.infoLeague.leagueId
-        localFile = pd.concat([localFile, webFile])
+        localFile = pd.concat([localFile, webFile], ignore_index= True)
       except Exception as e:
+        self.missingSeasons.append(season)
+        localFile = localFile[localFile['season'] != str(season)]
         warnings.warn(f"Error while downloading data for season {season}: {e}")
-      time.sleep(2)
+      finally:
+        time.sleep(2)
 
     localFile.to_csv(self.infoLeague.path, index= False)
     ProcessData(self.infoLeague, localFile)
