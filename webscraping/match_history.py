@@ -1,7 +1,8 @@
 import warnings
-import requests
 import time
+import sys
 
+import requests
 import pandas as pd
 from io import StringIO
 from bs4 import BeautifulSoup
@@ -42,8 +43,11 @@ class MatchHistory:
           webFile.append(teamFile)
           time.sleep(2)
 
-        webFile = pd.concat(webFile)
-        localFile = pd.concat([localFile, webFile], ignore_index= True)
+          webFile = pd.concat(webFile)
+          localFile = pd.concat([localFile, webFile], ignore_index= True)
+      except IndexError as e:
+        warnings.warn(f"Error while connecting: Timeout")
+        sys.exit(1)
       except Exception as e:
         self.missingSeasons.append(season)
         localFile = localFile[localFile['season'] != str(season)]

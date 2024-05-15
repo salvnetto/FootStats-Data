@@ -1,7 +1,8 @@
 import warnings
-import requests
 import time
+import sys
 
+import requests
 import pandas as pd
 from io import StringIO
 
@@ -42,6 +43,9 @@ class Squads:
         webFile = pd.concat(webFile, ignore_index= True)
         localFile = pd.concat([localFile, webFile], ignore_index= True)
 
+      except IndexError as e:
+        warnings.warn(f"Error while connecting: Timeout")
+        sys.exit(1)
       except Exception as e:
         self.missingSeasons.append(season)
         localFile = localFile[localFile['season'] != str(season)]
@@ -49,5 +53,5 @@ class Squads:
       finally:
         time.sleep(2)
 
-    localFile.to_csv(self.infoLeague.path, index= False)
-    ProcessData(self.infoLeague, localFile)
+    #localFile.to_csv(self.infoLeague.path, index= False)
+    #ProcessData(self.infoLeague, localFile)

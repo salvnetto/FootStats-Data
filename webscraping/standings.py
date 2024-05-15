@@ -1,5 +1,6 @@
 import warnings
 import time
+import sys
 
 import requests
 import pandas as pd
@@ -26,6 +27,9 @@ class Standings:
         webFile['league_name'] = self.infoLeague.leagueName
         webFile['league_id'] = self.infoLeague.leagueId
         localFile = pd.concat([localFile, webFile], ignore_index= True)
+      except ValueError as e:
+        warnings.warn(f"Error while connecting: Timeout")
+        sys.exit(1)
       except Exception as e:
         self.missingSeasons.append(season)
         localFile = localFile[localFile['season'] != str(season)]
