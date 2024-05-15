@@ -52,18 +52,18 @@ class MatchHistory:
         time.sleep(2)
 
       localFile.to_csv(self.infoLeague.path, index= False)
-    ProcessData(self.infoLeague, localFile)
+      ProcessData(self.infoLeague, localFile)
 
   def _appendOtherStats(self, teamFile, anchor) -> pd.DataFrame:
     statsNames = {
-        'all_comps/shooting/': [['Date', 'Sh', 'SoT'], []],
-        'all_comps/keeper': [['Date', 'Saves'], []],
-        'all_comps/passing': [['Date', 'Cmp', 'Att', 'PrgP', 'KP', '1/3'], {'1/3': 'pass_3rd'}],
-        'all_comps/passing_types': [['Date', 'Sw', 'Crs'], []],
+        'all_comps/shooting/': [['Date', 'Sh', 'SoT', 'SoT%', 'G/Sh', 'G/SoT', 'Dist',], []],
+        'all_comps/keeper': [['Date', 'SoTA', 'Saves', 'Save%', 'PSxG',	'PSxG+/-'], []],
+        'all_comps/passing': [['Date', 'Cmp', 'Att', 'Cmp%', 'TotDist', 'PrgDist', 'Ast', 'xAG', 'xA', 'CrsPA', 'PrgP', 'KP', '1/3'], {'1/3': 'pass_3rd'}],
+        'all_comps/passing_types': [['Date', 'Sw', 'Crs', 'TB', 'CK'], []],
         'all_comps/gca': [['Date', 'SCA', 'GCA'], []],
-        'all_comps/defense': [['Date', 'Tkl', 'TklW', 'Def 3rd', 'Att 3rd', 'Blocks', 'Int'], {'Att 3rd': 'Tkl_Att_3rd', 'Def 3rd': 'Tkl_Def_3rd'}],
-        'all_comps/possession':[['Date', 'Att 3rd'], {'Att 3rd': 'Touches_Att_3rd'}],
-        'all_comps/misc':[['Date', 'Fls', 'Off', 'Recov'], []]
+        'all_comps/defense': [['Date', 'Tkl', 'TklW', 'Def 3rd', 'Att 3rd', 'Blocks', 'Int', 'Clr', 'Err'], {'Att 3rd': 'Tkl_Att_3rd', 'Def 3rd': 'Tkl_Def_3rd'}],
+        'all_comps/possession':[['Date', 'Att 3rd', 'PrgC', '1/3', 'Mis', 'Dis'], {'Att 3rd': 'Touches_Att_3rd', '1/3': 'Carries_Att_3rd'}],
+        'all_comps/misc':[['Date', 'Fls', 'Off', 'Recov', 'Won%'], []]
     }
 
     for name, columns in statsNames.items():
@@ -71,6 +71,7 @@ class MatchHistory:
         links = [l for l in anchor if l and name in l]
         webFile = pd.read_html(f"https://fbref.com{links[0]}")[0]
         webFile.columns = webFile.columns.droplevel()
+        webFile.loc[:,~webFile.columns.duplicated()]
         teamFile = teamFile.merge(webFile[columns[0]], on= 'Date')
         try:
           teamFile.rename(columns=columns[1], inplace=True)
@@ -78,5 +79,5 @@ class MatchHistory:
           pass
       except (ValueError, IndexError, KeyError):
         pass
-      time.sleep(1)
+      time.sleep(1.5)
     return teamFile

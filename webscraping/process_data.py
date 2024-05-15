@@ -26,4 +26,8 @@ class ProcessData:
     if self.infoLeague.fileName == 'squads':
       self.file['age'] = self.file['age'].str.split('-').str.get(0)
       self.file = self.file.iloc[:-2]
+
+    if self.infoLeague.fileName == 'match_history':
+      self.file = self.file[self.file['comp'] == self.infoLeague.FBREFCompName]
+
     self._savePath()

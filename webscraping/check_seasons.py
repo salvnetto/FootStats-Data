@@ -20,6 +20,7 @@ class CheckingSeasons:
     self.url = self._league.url
     self.leagueName = self._league.name
     self.leagueId = self._league.id
+    self.FBREFCompName = self._league.FBREFCompName
   
     if not os.path.exists(self._league.path):
       os.makedirs(os.path.dirname(self._league.path))
