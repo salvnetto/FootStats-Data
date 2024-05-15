@@ -53,5 +53,5 @@ class Squads:
       finally:
         time.sleep(2)
 
-    #localFile.to_csv(self.infoLeague.path, index= False)
-    #ProcessData(self.infoLeague, localFile)
+    localFile.to_csv(self.infoLeague.path, index= False)
+    ProcessData(self.infoLeague, localFile)
