@@ -43,8 +43,8 @@ class MatchHistory:
           webFile.append(teamFile)
           time.sleep(2)
 
-          webFile = pd.concat(webFile)
-          localFile = pd.concat([localFile, webFile], ignore_index= True)
+        webFile = pd.concat(webFile)
+        localFile = pd.concat([localFile, webFile], ignore_index= True)
       except IndexError as e:
         warnings.warn(f"Error while connecting: Timeout")
         sys.exit(1)
@@ -75,7 +75,7 @@ class MatchHistory:
         links = [l for l in anchor if l and name in l]
         webFile = pd.read_html(f"https://fbref.com{links[0]}")[0]
         webFile.columns = webFile.columns.droplevel()
-        webFile.loc[:,~webFile.columns.duplicated()]
+        webFile = webFile.loc[:, ~webFile.columns.duplicated()]
         teamFile = teamFile.merge(webFile[columns[0]], on= 'Date')
         try:
           teamFile.rename(columns=columns[1], inplace=True)
@@ -83,5 +83,5 @@ class MatchHistory:
           pass
       except (ValueError, IndexError, KeyError):
         pass
-      time.sleep(1.5)
+      time.sleep(2)
     return teamFile
