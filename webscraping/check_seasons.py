@@ -41,7 +41,7 @@ class CheckingSeasons:
     if not downloadedSeasons:
       missingSeasons = SEASONS[self._league.seasonType]
     else:
-      missingSeasons = [season for season in downloadedSeasons if season not in SEASONS[self._league.seasonType]]
+      missingSeasons = [season for season in SEASONS[self._league.seasonType] if season not in downloadedSeasons]
       if ACTIVE_SEASON[self._league.seasonType] not in missingSeasons:
         missingSeasons.append(ACTIVE_SEASON[self._league.seasonType])
 

@@ -38,4 +38,5 @@ class Standings:
         time.sleep(2)
 
     localFile.to_csv(self.infoLeague.path, index= False)
-    ProcessData(self.infoLeague, localFile)
+    toProcess = localFile.copy()
+    ProcessData(self.infoLeague, toProcess)

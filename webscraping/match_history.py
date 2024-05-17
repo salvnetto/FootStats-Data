@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 from .check_seasons import CheckingSeasons
 from .process_data import ProcessData
-from .utils import getTeamsUrl
+from .utils import getTeamsUrl, addTeamMetadata
 
 
 class MatchHistory:
@@ -28,18 +28,12 @@ class MatchHistory:
         for team in teamsUrls:
           data = requests.get(team)
           teamFile = pd.read_html(StringIO(data.text))[1]
-          teamFile['season'] = season
-          teamFile['league_name'] = self.infoLeague.leagueName
-          teamFile['league_id'] = self.infoLeague.leagueId
-          teamName = team.split('/')[-1].replace('-Stats', '').replace('-','_').lower()
-          teamFile['team_name'] = teamName
-          teamId = team.split('/')[5]
-          teamFile['team_id'] = teamId
+          teamFile = addTeamMetadata(teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId)
 
           soup = BeautifulSoup(data.text, features= 'lxml')
           anchor = [link.get("href") for link in soup.find_all('a')]
           teamFile = self._appendOtherStats(teamFile, anchor)
-          print(f'--{teamName}')
+          
           webFile.append(teamFile)
           time.sleep(2)
 
@@ -56,7 +50,8 @@ class MatchHistory:
         time.sleep(2)
 
       localFile.to_csv(self.infoLeague.path, index= False)
-      ProcessData(self.infoLeague, localFile)
+      toProcess = localFile.copy()
+      ProcessData(self.infoLeague, toProcess)
 
   def _appendOtherStats(self, teamFile, anchor) -> pd.DataFrame:
     statsNames = {

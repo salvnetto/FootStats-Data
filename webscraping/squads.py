@@ -8,7 +8,7 @@ from io import StringIO
 
 from .check_seasons import CheckingSeasons
 from .process_data import ProcessData
-from .utils import getTeamsUrl, renameColumns
+from .utils import getTeamsUrl, renameColumns, addTeamMetadata
 
 
 class Squads:
@@ -29,14 +29,7 @@ class Squads:
           data = requests.get(team)
           teamFile = pd.read_html(StringIO(data.text))[0]
           teamFile.columns = teamFile.columns.droplevel()
-          teamFile['season'] = season
-          teamFile['league_name'] = self.infoLeague.leagueName
-          teamFile['league_id'] = self.infoLeague.leagueId
-          teamName = team.split('/')[-1].replace('-Stats', '').replace('-','_').lower()
-          teamFile['team_name'] = teamName
-          teamId = team.split('/')[5]
-          teamFile['team_id'] = teamId
-          print(f'--{teamName}')
+          teamFile = addTeamMetadata(teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId)
           teamFile.columns = renameColumns(teamFile.columns)
           webFile.append(teamFile)
           time.sleep(1.5)
@@ -54,4 +47,5 @@ class Squads:
         time.sleep(2)
 
     localFile.to_csv(self.infoLeague.path, index= False)
-    ProcessData(self.infoLeague, localFile)
+    toProcess = localFile.copy()
+    ProcessData(self.infoLeague, toProcess)

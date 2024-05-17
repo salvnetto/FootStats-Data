@@ -1,8 +1,9 @@
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 
-def getTeamsUrl(url):
+def getTeamsUrl(url) -> list:
   data = requests.get(url)
   soup = BeautifulSoup(data.text, features= 'lxml')
   table = soup.select('table.stats_table')[0]           
@@ -13,7 +14,7 @@ def getTeamsUrl(url):
   
   return urls
 
-def renameColumns(columns):
+def renameColumns(columns) -> list:
   column_counts = {}
   new_column_names = []
   
@@ -26,3 +27,16 @@ def renameColumns(columns):
           new_column_names.append(f"{column}_90")
   
   return new_column_names
+
+
+def addTeamMetadata(teamFile, season, teamUrl, leagueName, leagueId) -> pd.DataFrame:
+    teamFile['season'] = season
+    teamFile['league_name'] = leagueName
+    teamFile['league_id'] = leagueId
+    teamName = teamUrl.split('/')[-1].replace('-Stats', '').replace('-', '_').lower()
+    teamFile['team_name'] = teamName
+    teamId = teamUrl.split('/')[5]
+    teamFile['team_id'] = teamId
+
+    print(f'--{teamName}')
+    return teamFile
