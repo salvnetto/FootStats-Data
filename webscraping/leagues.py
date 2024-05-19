@@ -1,5 +1,6 @@
 from .constants import URL_FBREF
 
+
 class League:
   def __init__(self, countryCode):
     self.countryCode = countryCode

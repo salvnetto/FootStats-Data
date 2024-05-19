@@ -162,12 +162,12 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2022-2023,17.0,Schalke 04,34.0,7.0,10.0,17.0,35.0,71.0,-36.0,31.0,0.91,61133.0,Marius Bülter - 11,Alexander Schwolow,Relegated,bundesliga,20,39.6,57.1,-17.6,-0.52,
 2022-2023,18.0,Hertha BSC,34.0,7.0,8.0,19.0,42.0,69.0,-27.0,29.0,0.85,53670.0,Dodi Lukebakio - 11,Oliver Christensen,Relegated,bundesliga,20,39.4,60.0,-20.5,-0.6,
 2023-2024,1.0,Leverkusen,33.0,27.0,6.0,0.0,87.0,23.0,64.0,87.0,2.64,29980.0,Victor Boniface - 13,Lukáš Hrádecký,,bundesliga,20,71.2,28.7,42.5,1.29,W D D W W
-2023-2024,2.0,Bayern Munich,33.0,23.0,3.0,7.0,92.0,41.0,51.0,72.0,2.18,75000.0,Harry Kane - 36,Manuel Neuer,,bundesliga,20,83.6,30.3,53.3,1.62,W W W L W
+2023-2024,2.0,Bayern Munich,33.0,23.0,3.0,7.0,92.0,41.0,51.0,72.0,2.18,75000.0,Harry Kane - 36,Manuel Neuer,,bundesliga,20,83.6,30.4,53.3,1.61,W W W L W
 2023-2024,3.0,Stuttgart,33.0,22.0,4.0,7.0,74.0,39.0,35.0,70.0,2.12,54782.0,Serhou Guirassy - 26,Alexander Nübel,,bundesliga,20,69.3,36.8,32.5,0.98,W L D W W
 2023-2024,4.0,RB Leipzig,33.0,19.0,7.0,7.0,75.0,37.0,38.0,64.0,1.94,44921.0,Loïs Openda - 24,Janis Blaswich,,bundesliga,20,64.0,38.0,26.0,0.79,W W W D D
 2023-2024,5.0,Dortmund,33.0,17.0,9.0,7.0,64.0,43.0,21.0,60.0,1.82,81302.0,"Niclas Füllkrug, Donyell Malen - 12",Gregor Kobel,,bundesliga,20,61.0,51.7,9.3,0.28,W D L W L
 2023-2024,6.0,Eint Frankfurt,33.0,11.0,13.0,9.0,49.0,48.0,1.0,46.0,1.39,56863.0,Omar Marmoush - 11,Kevin Trapp,,bundesliga,20,44.1,50.5,-6.4,-0.19,L W L L D
-2023-2024,7.0,Hoffenheim,33.0,12.0,7.0,14.0,62.0,64.0,-2.0,43.0,1.3,24210.0,Maximilian Beier - 15,Oliver Baumann,,bundesliga,20,52.0,59.3,-7.3,-0.22,L W L D W
+2023-2024,7.0,Hoffenheim,33.0,12.0,7.0,14.0,62.0,64.0,-2.0,43.0,1.3,24210.0,Maximilian Beier - 15,Oliver Baumann,,bundesliga,20,51.9,59.3,-7.4,-0.23,L W L D W
 2023-2024,8.0,Freiburg,33.0,11.0,9.0,13.0,44.0,56.0,-12.0,42.0,1.27,34196.0,Vincenzo Grifo - 8,Noah Atubolu,,bundesliga,20,48.4,48.2,0.2,0.01,W D L D D
 2023-2024,9.0,Heidenheim,33.0,9.0,12.0,12.0,46.0,54.0,-8.0,39.0,1.18,15000.0,Tim Kleindienst - 12,Kevin Müller,,bundesliga,20,38.4,59.6,-21.2,-0.64,D L W D D
 2023-2024,10.0,Augsburg,33.0,10.0,9.0,14.0,49.0,58.0,-9.0,39.0,1.18,29712.0,Ermedin Demirović - 15,Finn Dahmen,,bundesliga,20,44.9,55.0,-10.1,-0.3,W L L L L
@@ -178,4 +178,4 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2023-2024,15.0,Mainz 05,33.0,6.0,14.0,13.0,36.0,50.0,-14.0,32.0,0.97,30690.0,Jonathan Burkardt - 7,Robin Zentner,,bundesliga,20,42.8,43.7,-0.9,-0.03,W D D D W
 2023-2024,16.0,Union Berlin,33.0,8.0,6.0,19.0,31.0,57.0,-26.0,30.0,0.91,21829.0,Robin Gosens - 6,Frederik Rønnow,,bundesliga,20,37.8,49.5,-11.8,-0.36,L L D L L
 2023-2024,17.0,Köln,33.0,5.0,12.0,16.0,27.0,56.0,-29.0,27.0,0.82,49829.0,Davie Selke - 6,Marvin Schwäbe,,bundesliga,20,37.0,63.6,-26.5,-0.8,L L D D W
-2023-2024,18.0,Darmstadt 98,33.0,3.0,8.0,22.0,30.0,82.0,-52.0,17.0,0.52,17730.0,Tim Skarke - 8,Marcel Schuhen,,bundesliga,20,32.0,70.7,-38.7,-1.17,L W L L L
+2023-2024,18.0,Darmstadt 98,33.0,3.0,8.0,22.0,30.0,82.0,-52.0,17.0,0.52,17730.0,Tim Skarke - 8,Marcel Schuhen,,bundesliga,20,32.0,70.6,-38.5,-1.17,L W L L L
