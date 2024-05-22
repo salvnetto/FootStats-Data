@@ -12,40 +12,42 @@ from .utils import getTeamsUrl, renameColumns, addTeamMetadata
 
 
 class Squads:
-  def __init__(self, countryCode) -> None:
-    self.infoLeague = CheckingSeasons(countryCode, 'squads')
-    self.missingSeasons = self.infoLeague.getMissingSeasons()
+    def __init__(self, countryCode) -> None:
+        self.infoLeague = CheckingSeasons(countryCode, 'squads')
+        self.missingSeasons = self.infoLeague.getMissingSeasons()
 
-  def update(self) -> None:
-    localFile = self.infoLeague.file
-    for season in self.missingSeasons:
-      url = self.infoLeague.url.replace('season_placeholder', str(season))
-      print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
-      try:
-        teamsUrls = getTeamsUrl(url)
-        webFile = []
+    def update(self) -> None:
+        localFile = self.infoLeague.file
+        for season in self.missingSeasons:
+            url = self.infoLeague.url.replace('season_placeholder', str(season))
+            print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
+            try:
+                teamsUrls = getTeamsUrl(url)
+                webFile = []
 
-        for team in teamsUrls:
-          data = requests.get(team)
-          teamFile = pd.read_html(StringIO(data.text))[0]
-          teamFile.columns = teamFile.columns.droplevel()
-          teamFile = addTeamMetadata(teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId)
-          teamFile.columns = renameColumns(teamFile.columns)
-          webFile.append(teamFile)
-          time.sleep(1.5)
-        webFile = pd.concat(webFile, ignore_index= True)
-        localFile = pd.concat([localFile, webFile], ignore_index= True)
+                for team in teamsUrls:
+                    data = requests.get(team)
+                    teamFile = pd.read_html(StringIO(data.text))[0]
+                    teamFile.columns = teamFile.columns.droplevel()
+                    teamFile = addTeamMetadata(
+                        teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId
+                    )
+                    teamFile.columns = renameColumns(teamFile.columns)
+                    webFile.append(teamFile)
+                    time.sleep(1.5)
+                webFile = pd.concat(webFile, ignore_index=True)
+                localFile = pd.concat([localFile, webFile], ignore_index=True)
 
-      except IndexError as e:
-        warnings.warn(f"Error while connecting: Timeout")
-        sys.exit(1)
-      except Exception as e:
-        self.missingSeasons.append(season)
-        localFile = localFile[localFile['season'] != str(season)]
-        warnings.warn(f"Error while downloading data for season {season}: {e}")
-      finally:
-        time.sleep(2)
+            except IndexError:
+                warnings.warn("Error while connecting: Timeout")
+                sys.exit(1)
+            except Exception as e:
+                self.missingSeasons.append(season)
+                localFile = localFile[localFile['season'] != str(season)]
+                warnings.warn(f"Error while downloading data for season {season}: {e}")
+            finally:
+                time.sleep(2)
 
-    localFile.to_csv(self.infoLeague.path, index= False)
-    toProcess = localFile.copy()
-    ProcessData(self.infoLeague, toProcess)
+        localFile.to_csv(self.infoLeague.path, index=False)
+        toProcess = localFile.copy()
+        ProcessData(self.infoLeague, toProcess)
