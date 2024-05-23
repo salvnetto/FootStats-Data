@@ -2,24 +2,24 @@
 
 ## Overview
 
-The `GOALS-Data` repository is an auxiliary data source for the `GOALS` package. It contains raw and processed football data for various leagues and competitions. This repository is intended to provide users with easy access to high-quality football data for analysis and research purposes. The data in this repository is collected using a web scraper that extracts football statistics from [fbref.com](https://fbref.com). More info: <https://github.com/salvnetto/GOALS>
+The `GOALS-Data` repository serves as a supplementary data source for the `GOALS` package, providing access to raw and processed football data from various leagues and competitions. Leveraging web scraping techniques, the data is extracted from [fbref.com](https://fbref.com) and curated to ensure high quality. This repository aims to facilitate easy access to comprehensive football datasets for analysis and research purposes.
 
 ## Features
 
-- Raw and processed data for multiple football leagues:
+- Comprehensive data for multiple football leagues:
   - English Premier League
   - Brasileirão
   - Ligue 1
   - Serie A
   - La Liga
   - Bundesliga
-- Data includes match history, league standings, and team squads.
+- Includes match history, league standings, and team squads.
 
 ## Usage
 
-To use the data from the `GOALS-Data` repository, you can leverage the `loadData` function from the `GOALS` package.
+Utilize the `loadData` function from the `GOALS` package to access the data from the `GOALS-Data` repository.
 
-### Example: Load Data with GOALS Package
+### Example: Loading Data with GOALS Package
 
 ```python
 from goals import loadData
@@ -32,3 +32,5 @@ print(df.head())
 df = loadData('en', 'standings', raw=True)
 print(df.head())
 ```
+
+For more details, visit the [GOALS GitHub repository](https://github.com/seu-usuario/nome-do-repositorio).
