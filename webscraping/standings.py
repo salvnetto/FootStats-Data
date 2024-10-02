@@ -22,7 +22,7 @@ class Standings:
             print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
             try:
                 data = requests.get(url)
-                webFile = pd.read_html(StringIO(data.text), match='Regular season')[0]
+                webFile = pd.read_html(StringIO(data.text), match=self.infoLeague.FBREFCompName)[0]
                 webFile['season'] = season
                 webFile['league_name'] = self.infoLeague.leagueName
                 webFile['league_id'] = self.infoLeague.leagueId
@@ -35,7 +35,7 @@ class Standings:
                 localFile = localFile[localFile['season'] != str(season)]
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(2)
+                time.sleep(5)
 
         localFile.to_csv(self.infoLeague.path, index=False)
         toProcess = localFile.copy()

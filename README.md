@@ -22,7 +22,7 @@ Utilize the `loadData` function from the `GOALS` package to access the data from
 ### Example: Loading Data with GOALS Package
 
 ```python
-from goals import loadData
+from goalsdata import loadData
 
 # Load processed match history data for Brasileirão
 df = loadData('br', 'match_history')
@@ -33,4 +33,4 @@ df = loadData('en', 'standings', raw=True)
 print(df.head())
 ```
 
-For more details, visit the [GOALS GitHub repository](https://github.com/seu-usuario/nome-do-repositorio).
+For more details, visit the [GOALS GitHub repository](https://github.com/salvnetto/GOALS-Data).
