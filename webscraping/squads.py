@@ -34,7 +34,7 @@ class Squads:
                     )
                     teamFile.columns = renameColumns(teamFile.columns)
                     webFile.append(teamFile)
-                    time.sleep(1.5)
+                    time.sleep(7)
                 webFile = pd.concat(webFile, ignore_index=True)
                 localFile = pd.concat([localFile, webFile], ignore_index=True)
 
@@ -46,7 +46,7 @@ class Squads:
                 localFile = localFile[localFile['season'] != str(season)]
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(2)
+                time.sleep(7)
 
         localFile.to_csv(self.infoLeague.path, index=False)
         toProcess = localFile.copy()
