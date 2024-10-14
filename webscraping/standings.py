@@ -26,13 +26,13 @@ class Standings:
                 webFile['season'] = season
                 webFile['league_name'] = self.infoLeague.leagueName
                 webFile['league_id'] = self.infoLeague.leagueId
-                localFile = pd.concat([localFile, webFile], ignore_index=True)
+                #localFile = pd.concat([localFile, webFile], ignore_index=True)
             except ValueError as e:
                 warnings.warn(f"Error while connecting: Timeout")
                 sys.exit(1)
             except Exception as e:
                 self.missingSeasons.append(season)
-                localFile = localFile[localFile['season'] != str(season)]
+                #localFile = localFile[localFile['season'] != str(season)]
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
                 time.sleep(7)
