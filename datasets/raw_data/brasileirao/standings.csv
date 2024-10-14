@@ -6,7 +6,7 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2014,5.0,Atlético Mineiro,38.0,17.0,11.0,10.0,51.0,38.0,13.0,62.0,1.63,14132.0,Diego Tardelli - 10,Victor Leandro Bagy,→ Copa Libertadores via cup win 1,brasileirao,24,,,,,
 2014,6.0,Fluminense,38.0,17.0,10.0,11.0,61.0,42.0,19.0,61.0,1.61,21272.0,Fred - 18,Diego Cavalieri,,brasileirao,24,,,,,
 2014,7.0,Grêmio,38.0,17.0,10.0,11.0,36.0,24.0,12.0,61.0,1.61,21028.0,Hernán Barcos - 14,Marcelo Grohe,,brasileirao,24,,,,,
-2014,8.0,Ath Paranaense,38.0,15.0,9.0,14.0,43.0,42.0,1.0,54.0,1.42,9661.0,Cléo - 9,Wéverton,,brasileirao,24,,,,,
+2014,8.0,Ath Paranaense,38.0,15.0,9.0,14.0,43.0,42.0,1.0,54.0,1.42,12237.0,Cléo - 9,Wéverton,,brasileirao,24,,,,,
 2014,9.0,Santos,38.0,15.0,8.0,15.0,42.0,35.0,7.0,53.0,1.39,9243.0,Gabriel Barbosa - 8,Aranha,,brasileirao,24,,,,,
 2014,10.0,Flamengo,38.0,14.0,10.0,14.0,46.0,47.0,-1.0,52.0,1.37,30519.0,Eduardo da Silva - 8,Paulo Victor Vidotti,,brasileirao,24,,,,,
 2014,11.0,Sport Recife,38.0,14.0,10.0,14.0,36.0,46.0,-10.0,52.0,1.37,18220.0,Patric Cabral Lalau - 7,Magrão,,brasileirao,24,,,,,
@@ -16,7 +16,7 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2014,15.0,Chapecoense,38.0,11.0,10.0,17.0,39.0,44.0,-5.0,43.0,1.13,9994.0,Leandro Pereira - 10,Danilo,,brasileirao,24,,,,,
 2014,16.0,Palmeiras,38.0,11.0,7.0,20.0,34.0,59.0,-25.0,40.0,1.05,19755.0,Henrique Dourado - 13,Fábio Szymonek,,brasileirao,24,,,,,
 2014,17.0,Vitória,38.0,10.0,8.0,20.0,37.0,54.0,-17.0,38.0,1.0,10267.0,Dinei - 9,Wilson,Relegated,brasileirao,24,,,,,
-2014,18.0,Bahia,38.0,9.0,10.0,19.0,31.0,43.0,-12.0,37.0,0.97,11917.0,Kieza - 6,Marcelo Lomba,Relegated,brasileirao,24,,,,,
+2014,18.0,Bahia,38.0,9.0,10.0,19.0,31.0,43.0,-12.0,37.0,0.97,12579.0,Kieza - 6,Marcelo Lomba,Relegated,brasileirao,24,,,,,
 2014,19.0,Botafogo (RJ),38.0,9.0,7.0,22.0,31.0,48.0,-17.0,34.0,0.89,12483.0,"Pablo Zeballos, Emerson Sheik - 6",Jefferson,Relegated,brasileirao,24,,,,,
 2014,20.0,Criciúma,38.0,7.0,11.0,20.0,28.0,56.0,-28.0,32.0,0.84,9104.0,Lucca - 5,Bruno Brigido,Relegated,brasileirao,24,,,,,
 2015,1.0,Corinthians,38.0,24.0,9.0,5.0,71.0,31.0,40.0,81.0,2.13,34150.0,Vágner Love - 14,Cássio,→ Copa Libertadores via league finish,brasileirao,24,,,,,
@@ -49,7 +49,7 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2016,8.0,Grêmio,38.0,14.0,11.0,13.0,41.0,44.0,-3.0,53.0,1.39,20448.0,Luan Vieira - 6,Marcelo Grohe,→ Copa Libertadores via cup win 1,brasileirao,24,,,,,
 2016,9.0,Ponte Preta,38.0,15.0,8.0,15.0,48.0,52.0,-4.0,53.0,1.39,5702.0,William Pottker - 14,Aranha,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
 2016,10.0,São Paulo,38.0,14.0,10.0,14.0,44.0,36.0,8.0,52.0,1.37,22553.0,Andrés Chávez - 9,Denis,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2016,11.0,Chapecoense,37.0,13.0,13.0,11.0,49.0,53.0,-4.0,52.0,1.41,7612.0,Bruno Rangel - 10,Danilo,→ Copa Libertadores,brasileirao,24,,,,,
+2016,11.0,Chapecoense,37.0,13.0,13.0,11.0,49.0,53.0,-4.0,52.0,1.41,7211.0,Bruno Rangel - 10,Danilo,→ Copa Libertadores,brasileirao,24,,,,,
 2016,12.0,Cruzeiro,38.0,14.0,9.0,15.0,48.0,49.0,-1.0,51.0,1.34,21085.0,Giorgian De Arrascaeta - 9,Fábio,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
 2016,13.0,Fluminense,38.0,13.0,11.0,14.0,45.0,45.0,0.0,50.0,1.32,10241.0,Cícero Santos - 9,Diego Cavalieri,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
 2016,14.0,Sport Recife,38.0,13.0,8.0,17.0,49.0,55.0,-6.0,47.0,1.24,15706.0,Diego Souza - 14,Magrão,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
@@ -59,6 +59,26 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2016,18.0,Figueirense,38.0,8.0,13.0,17.0,30.0,50.0,-20.0,37.0,0.97,6628.0,Rafael Moura - 8,Gatito Fernández,Relegated,brasileirao,24,,,,,
 2016,19.0,Santa Cruz,38.0,8.0,7.0,23.0,45.0,69.0,-24.0,31.0,0.82,9856.0,Grafite - 13,Tiago Cardoso,Relegated,brasileirao,24,,,,,
 2016,20.0,América (MG),38.0,7.0,7.0,24.0,23.0,58.0,-35.0,28.0,0.74,4301.0,Danilo Barcelos - 4,João Ricardo Riedi,Relegated,brasileirao,24,,,,,
+2017,1.0,Corinthians,38.0,21.0,9.0,8.0,50.0,30.0,20.0,72.0,1.89,38052.0,Jô - 18,Cássio,→ Copa Libertadores via league finish,brasileirao,24,,,,,
+2017,2.0,Palmeiras,38.0,19.0,6.0,13.0,61.0,45.0,16.0,63.0,1.66,28520.0,Dudu - 9,Fernando Prass,→ Copa Libertadores via league finish,brasileirao,24,,,,,
+2017,3.0,Santos,38.0,17.0,12.0,9.0,42.0,32.0,10.0,63.0,1.66,12304.0,"Ricardo Oliveira, Bruno Henrique - 8",Vanderlei,→ Copa Libertadores via league finish,brasileirao,24,,,,,
+2017,4.0,Grêmio,38.0,18.0,8.0,12.0,55.0,36.0,19.0,62.0,1.63,19921.0,Fernandinho - 9,Marcelo Grohe,→ Copa Libertadores,brasileirao,24,,,,,
+2017,5.0,Cruzeiro,38.0,15.0,12.0,11.0,47.0,39.0,8.0,57.0,1.5,17369.0,Thiago Neves - 11,Fábio,→ Copa Libertadores via cup win 1,brasileirao,24,,,,,
+2017,6.0,Flamengo,38.0,15.0,11.0,12.0,49.0,38.0,11.0,56.0,1.47,16486.0,Diego - 10,Diego Alves,→ Copa Libertadores via league finish,brasileirao,24,,,,,
+2017,7.0,Vasco da Gama,38.0,15.0,11.0,12.0,40.0,47.0,-7.0,56.0,1.47,13994.0,"Luís Fabiano, Nenê - 5",Martín Silva,→ Copa Libertadores via league finish,brasileirao,24,,,,,
+2017,8.0,Chapecoense,38.0,15.0,9.0,14.0,47.0,49.0,-2.0,54.0,1.42,10188.0,Wellington Paulista - 9,Jandrei,→ Copa Libertadores via league finish,brasileirao,24,,,,,
+2017,9.0,Atlético Mineiro,38.0,14.0,12.0,12.0,52.0,49.0,3.0,54.0,1.42,15850.0,Fred - 12,Victor Leandro Bagy,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
+2017,10.0,Botafogo (RJ),38.0,14.0,11.0,13.0,45.0,42.0,3.0,53.0,1.39,11661.0,Roger - 10,Gatito Fernández,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
+2017,11.0,Ath Paranaense,38.0,14.0,9.0,15.0,45.0,43.0,2.0,51.0,1.34,13856.0,Sidcley - 6,Wéverton,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
+2017,12.0,Bahia,38.0,13.0,11.0,14.0,50.0,48.0,2.0,50.0,1.32,21541.0,Edigar Junio - 12,Jean,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
+2017,13.0,São Paulo,38.0,13.0,11.0,14.0,48.0,49.0,-1.0,50.0,1.32,35880.0,Hernanes - 9,Renan Ribeiro,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
+2017,14.0,Fluminense,38.0,11.0,14.0,13.0,50.0,53.0,-3.0,47.0,1.24,16253.0,Henrique Dourado - 18,Júlio César,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
+2017,15.0,Sport Recife,38.0,12.0,9.0,17.0,46.0,58.0,-12.0,45.0,1.18,14457.0,André - 16,Magrão,,brasileirao,24,,,,,
+2017,16.0,Vitória,38.0,11.0,10.0,17.0,50.0,58.0,-8.0,43.0,1.13,11079.0,Santiago Tréllez - 10,Fernando Miguel,,brasileirao,24,,,,,
+2017,17.0,Coritiba,38.0,11.0,10.0,17.0,42.0,51.0,-9.0,43.0,1.13,13946.0,Henrique Almeida - 7,Wilson,Relegated,brasileirao,24,,,,,
+2017,18.0,Avaí,38.0,10.0,13.0,15.0,29.0,48.0,-19.0,43.0,1.13,7801.0,Junior Dutra - 9,Douglas Friedrich,Relegated,brasileirao,24,,,,,
+2017,19.0,Ponte Preta,38.0,10.0,9.0,19.0,37.0,52.0,-15.0,39.0,1.03,6632.0,Lucca - 13,Aranha,Relegated,brasileirao,24,,,,,
+2017,20.0,Atl Goianiense,38.0,9.0,9.0,20.0,38.0,56.0,-18.0,36.0,0.95,6434.0,Luiz Fernando - 9,Felipe Garcia,Relegated,brasileirao,24,,,,,
 2018,1.0,Palmeiras,38.0,23.0,11.0,4.0,64.0,26.0,38.0,80.0,2.11,32965.0,Willian - 10,Wéverton,→ Copa Libertadores via league finish,brasileirao,24,,,,,
 2018,2.0,Flamengo,38.0,21.0,9.0,8.0,59.0,29.0,30.0,72.0,1.89,51114.0,Lucas Paquetá - 10,Diego Alves,→ Copa Libertadores via league finish,brasileirao,24,,,,,
 2018,3.0,Internacional,38.0,19.0,12.0,7.0,51.0,29.0,22.0,69.0,1.82,28632.0,Nicolás López - 11,Marcelo Lomba,→ Copa Libertadores via league finish,brasileirao,24,,,,,
@@ -107,10 +127,10 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2020,6.0,Grêmio,38.0,14.0,17.0,7.0,53.0,40.0,13.0,59.0,1.55,,Diego Souza - 13,Vanderlei,→ Copa Libertadores via league finish,brasileirao,24,54.3,41.8,12.5,0.33,
 2020,7.0,Palmeiras,38.0,15.0,13.0,10.0,51.0,37.0,14.0,58.0,1.53,,Raphael Veiga - 11,Wéverton,→ Copa Libertadores via cup win,brasileirao,24,52.6,39.1,13.5,0.36,
 2020,8.0,Santos,38.0,14.0,12.0,12.0,52.0,51.0,1.0,54.0,1.42,,Marinho - 17,João Paulo,→ Copa Libertadores via league finish,brasileirao,24,50.9,56.7,-5.7,-0.15,
-2020,9.0,Ath Paranaense,38.0,15.0,8.0,15.0,38.0,36.0,2.0,53.0,1.39,,Renato Kayser - 8,Santos,→ Copa Sudamericana via league finish,brasileirao,24,45.6,47.1,-1.5,-0.04,
+2020,9.0,Ath Paranaense,38.0,15.0,8.0,15.0,38.0,36.0,2.0,53.0,1.39,,Renato Kayser - 8,Santos,→ Copa Sudamericana via league finish,brasileirao,24,45.6,47.0,-1.4,-0.04,
 2020,10.0,Red Bull Bragantino,38.0,13.0,14.0,11.0,50.0,40.0,10.0,53.0,1.39,,Claudinho - 18,Cleiton Schwengber,→ Copa Sudamericana via league finish,brasileirao,24,53.3,43.3,9.9,0.26,
 2020,11.0,Ceará,38.0,14.0,10.0,14.0,54.0,51.0,3.0,52.0,1.37,,Vinícius - 13,Fernando Prass,→ Copa Sudamericana via league finish,brasileirao,24,51.8,52.6,-0.7,-0.02,
-2020,12.0,Corinthians,38.0,13.0,12.0,13.0,45.0,45.0,0.0,51.0,1.34,,Jô - 6,Cássio,→ Copa Sudamericana via league finish,brasileirao,24,44.1,54.4,-10.2,-0.27,
+2020,12.0,Corinthians,38.0,13.0,12.0,13.0,45.0,45.0,0.0,51.0,1.34,,Jô - 6,Cássio,→ Copa Sudamericana via league finish,brasileirao,24,44.1,54.4,-10.3,-0.27,
 2020,13.0,Atl Goianiense,38.0,12.0,14.0,12.0,40.0,45.0,-5.0,50.0,1.32,,Jean - 5,Jean,→ Copa Sudamericana via league finish,brasileirao,24,44.3,54.5,-10.2,-0.27,
 2020,14.0,Bahia,38.0,12.0,8.0,18.0,48.0,59.0,-11.0,44.0,1.16,,Gilberto - 9,Douglas Friedrich,→ Copa Sudamericana via league finish,brasileirao,24,55.9,57.7,-1.9,-0.05,
 2020,15.0,Sport Recife,38.0,12.0,6.0,20.0,31.0,50.0,-19.0,42.0,1.11,,"Thiago Neves, Iago Maidana - 6",Luan Polli,,brasileirao,24,34.7,58.0,-23.3,-0.61,
@@ -139,83 +159,63 @@ season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeep
 2021,18.0,Bahia,38.0,11.0,10.0,17.0,42.0,51.0,-9.0,43.0,1.13,7738.0,Gilberto - 15,"Danilo Fernandes, Matheus Teixeira",Relegated,brasileirao,24,45.6,46.2,-0.6,-0.02,
 2021,19.0,Sport Recife,38.0,9.0,11.0,18.0,24.0,37.0,-13.0,38.0,1.0,2177.0,Mikael - 8,Mailson,Relegated,brasileirao,24,39.8,50.7,-10.8,-0.28,
 2021,20.0,Chapecoense,38.0,1.0,12.0,25.0,27.0,67.0,-40.0,15.0,0.39,725.0,Mike - 5,João Paulo,Relegated,brasileirao,24,39.5,65.4,-25.8,-0.68,
-2022,1.0,Palmeiras,38.0,23.0,12.0,3.0,66.0,27.0,39.0,81.0,2.13,30792.0,Rony - 12,Wéverton,→ Copa Libertadores via league finish,brasileirao,24,69.3,33.2,36.1,0.95,
-2022,2.0,Internacional,38.0,20.0,13.0,5.0,58.0,31.0,27.0,73.0,1.92,19889.0,Alexandre Alemão - 8,Daniel,→ Copa Sudamericana via league finish,brasileirao,24,55.8,45.1,10.8,0.28,
-2022,3.0,Fluminense,38.0,21.0,7.0,10.0,63.0,41.0,22.0,70.0,1.84,24645.0,Germán Cano - 26,Fábio,→ Copa Sudamericana via league finish,brasileirao,24,50.1,40.3,9.7,0.26,
-2022,4.0,Corinthians,38.0,18.0,11.0,9.0,44.0,36.0,8.0,65.0,1.71,36598.0,Roger Guedes - 10,Cássio,→ Copa Sudamericana via league finish,brasileirao,24,40.9,41.0,-0.2,0.0,
-2022,5.0,Flamengo,38.0,18.0,8.0,12.0,60.0,39.0,21.0,62.0,1.63,45630.0,"Pedro, Gabriel Barbosa - 11",Santos,→ Copa Libertadores via league finish,brasileirao,24,65.4,35.8,29.6,0.78,
-2022,6.0,Ath Paranaense,38.0,16.0,10.0,12.0,48.0,48.0,0.0,58.0,1.53,16584.0,David Terans - 12,Bento,→ Copa Libertadores via league finish,brasileirao,24,47.1,48.4,-1.3,-0.04,
-2022,7.0,Atlético Mineiro,38.0,15.0,13.0,10.0,45.0,37.0,8.0,58.0,1.53,27187.0,Hulk - 12,Éverson,→ Copa Libertadores via league finish,brasileirao,24,54.1,33.7,20.4,0.54,
-2022,8.0,Fortaleza,38.0,15.0,10.0,13.0,46.0,39.0,7.0,55.0,1.45,27488.0,"Moises, Thiago Galhardo - 7",Fernando Miguel,→ Copa Libertadores via league finish,brasileirao,24,44.5,42.9,1.5,0.04,
-2022,9.0,São Paulo,38.0,13.0,15.0,10.0,55.0,42.0,13.0,54.0,1.42,27157.0,Jonathan Calleri - 18,Jandrei,→ Copa Libertadores via league finish,brasileirao,24,49.7,44.4,5.3,0.14,
-2022,10.0,América (MG),38.0,15.0,8.0,15.0,40.0,40.0,0.0,53.0,1.39,2876.0,Henrique Almeida - 6,Matheus Cavichioli,→ Copa Sudamericana via league finish,brasileirao,24,45.6,49.7,-4.1,-0.11,
-2022,11.0,Botafogo (RJ),38.0,15.0,8.0,15.0,41.0,43.0,-2.0,53.0,1.39,20286.0,Erison - 7,Gatito Fernández,→ Copa Sudamericana via league finish,brasileirao,24,40.8,50.4,-9.6,-0.25,
-2022,12.0,Santos,38.0,12.0,11.0,15.0,44.0,41.0,3.0,47.0,1.24,9575.0,Marcos Leonardo - 13,João Paulo,→ Copa Sudamericana via league finish,brasileirao,24,46.2,48.0,-1.8,-0.05,
-2022,13.0,Goiás,38.0,11.0,13.0,14.0,40.0,53.0,-13.0,46.0,1.21,9207.0,Pedro Raul - 19,Tadeu,,brasileirao,24,34.6,61.6,-27.0,-0.71,
-2022,14.0,Red Bull Bragantino,38.0,11.0,11.0,16.0,49.0,59.0,-10.0,44.0,1.16,4219.0,Luan Cândido - 11,Cleiton Schwengber,,brasileirao,24,52.7,49.5,3.1,0.08,
-2022,15.0,Coritiba,38.0,12.0,6.0,20.0,39.0,60.0,-21.0,42.0,1.11,15495.0,Alef Manga - 9,Alex Muralha,,brasileirao,24,42.3,53.6,-11.2,-0.3,
-2022,16.0,Cuiabá,38.0,10.0,11.0,17.0,31.0,42.0,-11.0,41.0,1.08,10912.0,Deyverson - 6,Walter,,brasileirao,24,41.0,47.8,-6.8,-0.18,
-2022,17.0,Ceará,38.0,7.0,16.0,15.0,34.0,41.0,-7.0,37.0,0.97,27297.0,Stiven Mendoza - 10,João Ricardo Riedi,Relegated,brasileirao,24,43.9,48.0,-4.0,-0.11,
-2022,18.0,Atl Goianiense,38.0,8.0,12.0,18.0,39.0,57.0,-18.0,36.0,0.95,5911.0,Wellington Rato - 8,Ronaldo,Relegated,brasileirao,24,43.1,51.2,-8.2,-0.21,
-2022,19.0,Avaí,38.0,9.0,8.0,21.0,34.0,60.0,-26.0,35.0,0.92,7776.0,Guilherme Bissoli - 14,Vladimir,Relegated,brasileirao,24,44.0,62.6,-18.6,-0.49,
-2022,20.0,Juventude,38.0,3.0,13.0,22.0,29.0,69.0,-40.0,22.0,0.58,3200.0,"Óscar Ruiz, Isidro Pitta - 5",César Reis,Relegated,brasileirao,24,33.4,57.1,-23.6,-0.62,
-2023,1.0,Palmeiras,38.0,20.0,10.0,8.0,64.0,33.0,31.0,70.0,1.84,33220.0,Endrick - 11,Wéverton,,brasileirao,24,57.2,39.3,17.9,0.47,
-2023,2.0,Grêmio,38.0,21.0,5.0,12.0,63.0,56.0,7.0,68.0,1.79,34585.0,Luis Suárez - 17,Gabriel Chapecó,,brasileirao,24,50.0,55.3,-5.3,-0.14,
-2023,3.0,Atlético Mineiro,38.0,19.0,9.0,10.0,52.0,32.0,20.0,66.0,1.74,33068.0,Paulinho - 20,Éverson,,brasileirao,24,46.6,40.8,5.8,0.15,
-2023,4.0,Flamengo,38.0,19.0,9.0,10.0,56.0,42.0,14.0,66.0,1.74,57486.0,Pedro - 13,Matheus Cunha,,brasileirao,24,49.8,45.1,4.7,0.12,
-2023,5.0,Botafogo (RJ),38.0,18.0,10.0,10.0,58.0,37.0,21.0,64.0,1.68,27290.0,Tiquinho Soares - 17,Lucas Perri,,brasileirao,24,50.1,48.8,1.3,0.03,
-2023,6.0,Red Bull Bragantino,38.0,17.0,11.0,10.0,49.0,35.0,14.0,62.0,1.63,6051.0,Eduardo Sasha - 11,Cleiton Schwengber,,brasileirao,24,57.8,42.6,15.2,0.4,
-2023,7.0,Fluminense,38.0,16.0,8.0,14.0,51.0,47.0,4.0,56.0,1.47,34431.0,Germán Cano - 10,Fábio,,brasileirao,24,50.3,48.3,2.0,0.05,
+2022,1.0,Palmeiras,38.0,23.0,12.0,3.0,66.0,27.0,39.0,81.0,2.13,36565.0,Rony - 12,Wéverton,→ Copa Libertadores via league finish,brasileirao,24,69.3,33.2,36.1,0.95,
+2022,2.0,Internacional,38.0,20.0,13.0,5.0,58.0,31.0,27.0,73.0,1.92,23618.0,Alexandre Alemão - 8,Daniel,→ Copa Sudamericana via league finish,brasileirao,24,55.8,45.1,10.8,0.28,
+2022,3.0,Fluminense,38.0,21.0,7.0,10.0,63.0,41.0,22.0,70.0,1.84,29266.0,Germán Cano - 26,Fábio,→ Copa Sudamericana via league finish,brasileirao,24,50.1,40.3,9.7,0.26,
+2022,4.0,Corinthians,38.0,18.0,11.0,9.0,44.0,36.0,8.0,65.0,1.71,38631.0,Roger Guedes - 10,Cássio,→ Copa Sudamericana via league finish,brasileirao,24,40.9,41.0,-0.2,0.0,
+2022,5.0,Flamengo,38.0,18.0,8.0,12.0,60.0,39.0,21.0,62.0,1.63,50998.0,"Pedro, Gabriel Barbosa - 11",Santos,→ Copa Libertadores via league finish,brasileirao,24,65.4,35.8,29.6,0.78,
+2022,6.0,Ath Paranaense,38.0,16.0,10.0,12.0,48.0,48.0,0.0,58.0,1.53,19693.0,David Terans - 12,Bento,→ Copa Libertadores via league finish,brasileirao,24,47.1,48.4,-1.3,-0.04,
+2022,7.0,Atlético Mineiro,38.0,15.0,13.0,10.0,45.0,37.0,8.0,58.0,1.53,30386.0,Hulk - 12,Éverson,→ Copa Libertadores via league finish,brasileirao,24,54.1,33.7,20.4,0.54,
+2022,8.0,Fortaleza,38.0,15.0,10.0,13.0,46.0,39.0,7.0,55.0,1.45,32642.0,"Moises, Thiago Galhardo - 7",Fernando Miguel,→ Copa Libertadores via league finish,brasileirao,24,44.5,42.9,1.5,0.04,
+2022,9.0,São Paulo,38.0,13.0,15.0,10.0,55.0,42.0,13.0,54.0,1.42,32249.0,Jonathan Calleri - 18,Jandrei,→ Copa Libertadores via league finish,brasileirao,24,49.7,44.4,5.3,0.14,
+2022,10.0,América (MG),38.0,15.0,8.0,15.0,40.0,40.0,0.0,53.0,1.39,3415.0,Henrique Almeida - 6,Matheus Cavichioli,→ Copa Sudamericana via league finish,brasileirao,24,45.6,49.7,-4.1,-0.11,
+2022,11.0,Botafogo (RJ),38.0,15.0,8.0,15.0,41.0,43.0,-2.0,53.0,1.39,21413.0,Erison - 7,Gatito Fernández,→ Copa Sudamericana via league finish,brasileirao,24,40.8,50.4,-9.6,-0.25,
+2022,12.0,Santos,38.0,12.0,11.0,15.0,44.0,41.0,3.0,47.0,1.24,11370.0,Marcos Leonardo - 13,João Paulo,→ Copa Sudamericana via league finish,brasileirao,24,46.2,48.0,-1.8,-0.05,
+2022,13.0,Goiás,38.0,11.0,13.0,14.0,40.0,53.0,-13.0,46.0,1.21,10290.0,Pedro Raul - 19,Tadeu,,brasileirao,24,34.6,61.6,-27.0,-0.71,
+2022,14.0,Red Bull Bragantino,38.0,11.0,11.0,16.0,49.0,59.0,-10.0,44.0,1.16,5011.0,Luan Cândido - 11,Cleiton Schwengber,,brasileirao,24,52.7,49.5,3.1,0.08,
+2022,15.0,Coritiba,38.0,12.0,6.0,20.0,39.0,60.0,-21.0,42.0,1.11,18400.0,Alef Manga - 9,Alex Muralha,,brasileirao,24,42.3,53.6,-11.3,-0.3,
+2022,16.0,Cuiabá,38.0,10.0,11.0,17.0,31.0,42.0,-11.0,41.0,1.08,13821.0,Deyverson - 6,Walter,,brasileirao,24,41.0,47.8,-6.8,-0.18,
+2022,17.0,Ceará,38.0,7.0,16.0,15.0,34.0,41.0,-7.0,37.0,0.97,28814.0,Stiven Mendoza - 10,João Ricardo Riedi,Relegated,brasileirao,24,43.9,48.0,-4.0,-0.11,
+2022,18.0,Atl Goianiense,38.0,8.0,12.0,18.0,39.0,57.0,-18.0,36.0,0.95,7019.0,Wellington Rato - 8,Ronaldo,Relegated,brasileirao,24,43.1,51.2,-8.2,-0.21,
+2022,19.0,Avaí,38.0,9.0,8.0,21.0,34.0,60.0,-26.0,35.0,0.92,8690.0,Guilherme Bissoli - 14,Vladimir,Relegated,brasileirao,24,44.0,62.6,-18.6,-0.49,
+2022,20.0,Juventude,38.0,3.0,13.0,22.0,29.0,69.0,-40.0,22.0,0.58,3800.0,"Óscar Ruiz, Isidro Pitta - 5",César Reis,Relegated,brasileirao,24,33.4,57.1,-23.6,-0.62,
+2023,1.0,Palmeiras,38.0,20.0,10.0,8.0,64.0,33.0,31.0,70.0,1.84,33220.0,Endrick - 11,Wéverton,,brasileirao,24,57.2,39.4,17.8,0.47,
+2023,2.0,Grêmio,38.0,21.0,5.0,12.0,63.0,56.0,7.0,68.0,1.79,34585.0,Luis Suárez - 17,Gabriel Chapecó,,brasileirao,24,49.9,54.9,-5.0,-0.13,
+2023,3.0,Atlético Mineiro,38.0,19.0,9.0,10.0,52.0,32.0,20.0,66.0,1.74,33068.0,Paulinho - 20,Éverson,,brasileirao,24,46.5,40.9,5.5,0.15,
+2023,4.0,Flamengo,38.0,19.0,9.0,10.0,56.0,42.0,14.0,66.0,1.74,57486.0,Pedro - 13,Matheus Cunha,,brasileirao,24,50.0,44.6,5.4,0.14,
+2023,5.0,Botafogo (RJ),38.0,18.0,10.0,10.0,58.0,37.0,21.0,64.0,1.68,27290.0,Tiquinho Soares - 17,Lucas Perri,,brasileirao,24,50.1,49.0,1.0,0.03,
+2023,6.0,Red Bull Bragantino,38.0,17.0,11.0,10.0,49.0,35.0,14.0,62.0,1.63,6051.0,Eduardo Sasha - 11,Cleiton Schwengber,,brasileirao,24,57.9,42.8,15.1,0.4,
+2023,7.0,Fluminense,38.0,16.0,8.0,14.0,51.0,47.0,4.0,56.0,1.47,34431.0,Germán Cano - 10,Fábio,,brasileirao,24,49.9,48.6,1.3,0.03,
 2023,8.0,Ath Paranaense,38.0,14.0,14.0,10.0,51.0,43.0,8.0,56.0,1.47,22378.0,Vitor Roque - 12,Bento,,brasileirao,24,51.1,46.6,4.5,0.12,
-2023,9.0,Internacional,38.0,15.0,10.0,13.0,46.0,45.0,1.0,55.0,1.45,26675.0,Enner Valencia - 9,Sergio Rochet,,brasileirao,24,42.1,47.1,-5.0,-0.13,
-2023,10.0,Fortaleza,38.0,15.0,9.0,14.0,45.0,44.0,1.0,54.0,1.42,33540.0,Juan Martín Lucero - 9,João Ricardo Riedi,,brasileirao,24,51.5,43.8,7.7,0.2,
-2023,11.0,São Paulo,38.0,14.0,11.0,13.0,40.0,38.0,2.0,53.0,1.39,43800.0,"Luciano, Jonathan Calleri - 9",Rafael Pires,,brasileirao,24,49.0,36.6,12.4,0.33,
-2023,12.0,Cuiabá,38.0,14.0,9.0,15.0,40.0,39.0,1.0,51.0,1.34,16859.0,Deyverson - 12,Walter,,brasileirao,24,38.6,42.2,-3.6,-0.09,
-2023,13.0,Corinthians,38.0,12.0,14.0,12.0,47.0,48.0,-1.0,50.0,1.32,36565.0,"Ángel Romero, Yuri Alberto - 8",Cássio,,brasileirao,24,40.4,49.4,-9.0,-0.24,
-2023,14.0,Cruzeiro,38.0,11.0,14.0,13.0,35.0,32.0,3.0,47.0,1.24,30527.0,Bruno Nascimento - 8,Rafael Cabral,,brasileirao,24,47.8,41.7,6.0,0.16,
-2023,15.0,Vasco da Gama,38.0,12.0,9.0,17.0,41.0,51.0,-10.0,45.0,1.18,21746.0,Pablo Vegetti - 10,Léo Jardim,,brasileirao,24,47.7,46.2,1.5,0.04,
-2023,16.0,Bahia,38.0,12.0,8.0,18.0,50.0,53.0,-3.0,44.0,1.16,36970.0,Everaldo Stum - 9,Marcos Felipe,,brasileirao,24,50.6,51.2,-0.6,-0.02,
-2023,17.0,Santos,38.0,11.0,10.0,17.0,39.0,64.0,-25.0,43.0,1.13,8196.0,Marcos Leonardo - 13,João Paulo,Relegated,brasileirao,24,42.4,51.1,-8.7,-0.23,
-2023,18.0,Goiás,38.0,9.0,11.0,18.0,36.0,53.0,-17.0,38.0,1.0,10026.0,Guilherme - 6,Tadeu,Relegated,brasileirao,24,36.5,45.9,-9.4,-0.25,
+2023,9.0,Internacional,38.0,15.0,10.0,13.0,46.0,45.0,1.0,55.0,1.45,26675.0,Enner Valencia - 9,Sergio Rochet,,brasileirao,24,42.4,47.2,-4.8,-0.13,
+2023,10.0,Fortaleza,38.0,15.0,9.0,14.0,45.0,44.0,1.0,54.0,1.42,33540.0,Juan Martín Lucero - 9,João Ricardo Riedi,,brasileirao,24,51.5,43.7,7.8,0.2,
+2023,11.0,São Paulo,38.0,14.0,11.0,13.0,40.0,38.0,2.0,53.0,1.39,43800.0,"Luciano, Jonathan Calleri - 9",Rafael Pires,,brasileirao,24,49.5,36.7,12.7,0.33,
+2023,12.0,Cuiabá,38.0,14.0,9.0,15.0,40.0,39.0,1.0,51.0,1.34,16859.0,Deyverson - 12,Walter,,brasileirao,24,38.7,42.1,-3.4,-0.09,
+2023,13.0,Corinthians,38.0,12.0,14.0,12.0,47.0,48.0,-1.0,50.0,1.32,36565.0,"Ángel Romero, Yuri Alberto - 8",Cássio,,brasileirao,24,40.5,49.7,-9.2,-0.24,
+2023,14.0,Cruzeiro,38.0,11.0,14.0,13.0,35.0,32.0,3.0,47.0,1.24,30527.0,Bruno Nascimento - 8,Rafael Cabral,,brasileirao,24,48.2,41.8,6.5,0.17,
+2023,15.0,Vasco da Gama,38.0,12.0,9.0,17.0,41.0,51.0,-10.0,45.0,1.18,21746.0,Pablo Vegetti - 10,Léo Jardim,,brasileirao,24,47.6,46.2,1.3,0.03,
+2023,16.0,Bahia,38.0,12.0,8.0,18.0,50.0,53.0,-3.0,44.0,1.16,36970.0,Everaldo Stum - 9,Marcos Felipe,,brasileirao,24,50.6,51.3,-0.6,-0.02,
+2023,17.0,Santos,38.0,11.0,10.0,17.0,39.0,64.0,-25.0,43.0,1.13,8196.0,Marcos Leonardo - 13,João Paulo,Relegated,brasileirao,24,42.6,51.5,-8.9,-0.23,
+2023,18.0,Goiás,38.0,9.0,11.0,18.0,36.0,53.0,-17.0,38.0,1.0,10026.0,Guilherme - 6,Tadeu,Relegated,brasileirao,24,36.6,45.9,-9.3,-0.24,
 2023,19.0,Coritiba,38.0,8.0,6.0,24.0,41.0,73.0,-32.0,30.0,0.79,20770.0,Robson - 12,Gabriel,Relegated,brasileirao,24,39.3,60.8,-21.6,-0.57,
-2023,20.0,América (MG),38.0,5.0,9.0,24.0,42.0,81.0,-39.0,24.0,0.63,6373.0,Gonzalo Mastriani - 11,Matheus Cavichioli,Relegated,brasileirao,24,46.9,62.8,-15.9,-0.42,
-2017,1.0,Corinthians,38.0,21.0,9.0,8.0,50.0,30.0,20.0,72.0,1.89,38052.0,Jô - 18,Cássio,→ Copa Libertadores via league finish,brasileirao,24,,,,,
-2017,2.0,Palmeiras,38.0,19.0,6.0,13.0,61.0,45.0,16.0,63.0,1.66,28520.0,Dudu - 9,Fernando Prass,→ Copa Libertadores via league finish,brasileirao,24,,,,,
-2017,3.0,Santos,38.0,17.0,12.0,9.0,42.0,32.0,10.0,63.0,1.66,12304.0,"Ricardo Oliveira, Bruno Henrique - 8",Vanderlei,→ Copa Libertadores via league finish,brasileirao,24,,,,,
-2017,4.0,Grêmio,38.0,18.0,8.0,12.0,55.0,36.0,19.0,62.0,1.63,19921.0,Fernandinho - 9,Marcelo Grohe,→ Copa Libertadores,brasileirao,24,,,,,
-2017,5.0,Cruzeiro,38.0,15.0,12.0,11.0,47.0,39.0,8.0,57.0,1.5,17369.0,Thiago Neves - 11,Fábio,→ Copa Libertadores via cup win 1,brasileirao,24,,,,,
-2017,6.0,Flamengo,38.0,15.0,11.0,12.0,49.0,38.0,11.0,56.0,1.47,16486.0,Diego - 10,Diego Alves,→ Copa Libertadores via league finish,brasileirao,24,,,,,
-2017,7.0,Vasco da Gama,38.0,15.0,11.0,12.0,40.0,47.0,-7.0,56.0,1.47,13994.0,"Luís Fabiano, Nenê - 5",Martín Silva,→ Copa Libertadores via league finish,brasileirao,24,,,,,
-2017,8.0,Chapecoense,38.0,15.0,9.0,14.0,47.0,49.0,-2.0,54.0,1.42,10188.0,Wellington Paulista - 9,Jandrei,→ Copa Libertadores via league finish,brasileirao,24,,,,,
-2017,9.0,Atlético Mineiro,38.0,14.0,12.0,12.0,52.0,49.0,3.0,54.0,1.42,15850.0,Fred - 12,Victor Leandro Bagy,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2017,10.0,Botafogo (RJ),38.0,14.0,11.0,13.0,45.0,42.0,3.0,53.0,1.39,11661.0,Roger - 10,Gatito Fernández,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2017,11.0,Ath Paranaense,38.0,14.0,9.0,15.0,45.0,43.0,2.0,51.0,1.34,13856.0,Sidcley - 6,Wéverton,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2017,12.0,Bahia,38.0,13.0,11.0,14.0,50.0,48.0,2.0,50.0,1.32,21541.0,Edigar Junio - 12,Jean,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2017,13.0,São Paulo,38.0,13.0,11.0,14.0,48.0,49.0,-1.0,50.0,1.32,35880.0,Hernanes - 9,Renan Ribeiro,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2017,14.0,Fluminense,38.0,11.0,14.0,13.0,50.0,53.0,-3.0,47.0,1.24,16253.0,Henrique Dourado - 18,Júlio César,→ Copa Sudamericana via league finish,brasileirao,24,,,,,
-2017,15.0,Sport Recife,38.0,12.0,9.0,17.0,46.0,58.0,-12.0,45.0,1.18,14457.0,André - 16,Magrão,,brasileirao,24,,,,,
-2017,16.0,Vitória,38.0,11.0,10.0,17.0,50.0,58.0,-8.0,43.0,1.13,11079.0,Santiago Tréllez - 10,Fernando Miguel,,brasileirao,24,,,,,
-2017,17.0,Coritiba,38.0,11.0,10.0,17.0,42.0,51.0,-9.0,43.0,1.13,13946.0,Henrique Almeida - 7,Wilson,Relegated,brasileirao,24,,,,,
-2017,18.0,Avaí,38.0,10.0,13.0,15.0,29.0,48.0,-19.0,43.0,1.13,7801.0,Junior Dutra - 9,Douglas Friedrich,Relegated,brasileirao,24,,,,,
-2017,19.0,Ponte Preta,38.0,10.0,9.0,19.0,37.0,52.0,-15.0,39.0,1.03,6632.0,Lucca - 13,Aranha,Relegated,brasileirao,24,,,,,
-2017,20.0,Atl Goianiense,38.0,9.0,9.0,20.0,38.0,56.0,-18.0,36.0,0.95,6434.0,Luiz Fernando - 9,Felipe Garcia,Relegated,brasileirao,24,,,,,
-2024,1.0,Botafogo (RJ),29.0,18.0,6.0,5.0,47.0,25.0,22.0,60.0,2.07,17320.0,Luiz Henrique - 6,John,,brasileirao,24,41.0,31.0,10.0,0.35,W W W D W
-2024,2.0,Palmeiras,29.0,17.0,6.0,6.0,46.0,20.0,26.0,57.0,1.97,28817.0,"Estevão, José López - 9",Wéverton,,brasileirao,24,50.8,26.7,24.1,0.83,W W W W D
-2024,3.0,Fortaleza,29.0,16.0,7.0,6.0,38.0,29.0,9.0,55.0,1.9,23566.0,Juan Martín Lucero - 8,João Ricardo Riedi,,brasileirao,24,33.9,34.0,-0.1,-0.01,L D W W L
-2024,4.0,Flamengo,28.0,15.0,6.0,7.0,45.0,32.0,13.0,51.0,1.82,53146.0,Pedro - 11,Agustín Rossi,,brasileirao,24,39.4,31.8,7.6,0.27,L D L W W
-2024,5.0,São Paulo,29.0,14.0,5.0,10.0,38.0,32.0,6.0,47.0,1.62,38924.0,Luciano - 8,Rafael Pires,,brasileirao,24,33.2,24.5,8.7,0.3,L W L W L
+2023,20.0,América (MG),38.0,5.0,9.0,24.0,42.0,81.0,-39.0,24.0,0.63,6373.0,Gonzalo Mastriani - 11,Matheus Cavichioli,Relegated,brasileirao,24,46.7,62.9,-16.2,-0.43,
+2024,1.0,Botafogo (RJ),29.0,18.0,6.0,5.0,47.0,25.0,22.0,60.0,2.07,17320.0,Luiz Henrique - 6,John,,brasileirao,24,41.0,30.6,10.4,0.36,W W W D W
+2024,2.0,Palmeiras,29.0,17.0,6.0,6.0,46.0,20.0,26.0,57.0,1.97,28817.0,"Estevão, José López - 9",Wéverton,,brasileirao,24,50.7,26.7,23.9,0.82,W W W W D
+2024,3.0,Fortaleza,29.0,16.0,7.0,6.0,38.0,29.0,9.0,55.0,1.9,23566.0,Juan Martín Lucero - 8,João Ricardo Riedi,,brasileirao,24,34.0,34.4,-0.4,-0.01,L D W W L
+2024,4.0,Flamengo,28.0,15.0,6.0,7.0,45.0,32.0,13.0,51.0,1.82,53146.0,Pedro - 11,Agustín Rossi,,brasileirao,24,39.2,31.6,7.6,0.27,L D L W W
+2024,5.0,São Paulo,29.0,14.0,5.0,10.0,38.0,32.0,6.0,47.0,1.62,38924.0,Luciano - 8,Rafael Pires,,brasileirao,24,33.2,24.6,8.6,0.29,L W L W L
 2024,6.0,Internacional,28.0,12.0,10.0,6.0,37.0,26.0,11.0,46.0,1.64,17997.0,Wesley - 7,Sergio Rochet,,brasileirao,24,43.7,24.5,19.2,0.69,W W D W D
-2024,7.0,Bahia,29.0,13.0,6.0,10.0,39.0,33.0,6.0,45.0,1.55,36034.0,Everaldo Stum - 8,Marcos Felipe,,brasileirao,24,38.1,31.4,6.7,0.23,L W L W L
-2024,8.0,Cruzeiro,29.0,12.0,7.0,10.0,35.0,29.0,6.0,43.0,1.48,26316.0,Matheus Pereira - 6,Anderson,,brasileirao,24,30.2,32.8,-2.6,-0.09,W L D D L
-2024,9.0,Vasco da Gama,28.0,10.0,7.0,11.0,32.0,38.0,-6.0,37.0,1.32,19545.0,Pablo Vegetti - 9,Léo Jardim,,brasileirao,24,27.0,38.0,-11.0,-0.39,W D L D D
-2024,10.0,Atlético Mineiro,27.0,9.0,10.0,8.0,38.0,40.0,-2.0,37.0,1.37,32293.0,Hulk - 9,Éverson,,brasileirao,24,33.6,31.7,1.9,0.07,W L W L D
-2024,11.0,Grêmio,28.0,10.0,5.0,13.0,32.0,35.0,-3.0,35.0,1.25,15968.0,"Martin Braithwaite, Franco Cristaldo - 5",Agustín Marchesín,,brasileirao,24,32.5,32.0,0.5,0.02,D W L D W
+2024,7.0,Bahia,29.0,13.0,6.0,10.0,39.0,33.0,6.0,45.0,1.55,36034.0,Everaldo Stum - 8,Marcos Felipe,,brasileirao,24,37.9,31.2,6.7,0.23,L W L W L
+2024,8.0,Cruzeiro,29.0,12.0,7.0,10.0,35.0,29.0,6.0,43.0,1.48,26316.0,Matheus Pereira - 6,Anderson,,brasileirao,24,30.0,32.8,-2.8,-0.1,W L D D L
+2024,9.0,Atlético Mineiro,28.0,10.0,10.0,8.0,40.0,41.0,-1.0,40.0,1.43,32293.0,Hulk - 10,Éverson,,brasileirao,24,35.4,33.1,2.4,0.08,L W L D W
+2024,10.0,Vasco da Gama,28.0,10.0,7.0,11.0,32.0,38.0,-6.0,37.0,1.32,19545.0,Pablo Vegetti - 9,Léo Jardim,,brasileirao,24,27.1,38.0,-11.0,-0.39,W D L D D
+2024,11.0,Grêmio,29.0,10.0,5.0,14.0,33.0,37.0,-4.0,35.0,1.21,15968.0,"Martin Braithwaite, Franco Cristaldo - 5",Agustín Marchesín,,brasileirao,24,34.2,33.9,0.3,0.01,W L D W L
 2024,12.0,Criciúma,29.0,9.0,8.0,12.0,36.0,42.0,-6.0,35.0,1.21,14455.0,Yannick Bolasie - 6,Gustavo,,brasileirao,24,31.7,39.3,-7.6,-0.26,L D W L W
-2024,13.0,Red Bull Bragantino,29.0,8.0,10.0,11.0,34.0,38.0,-4.0,34.0,1.17,6117.0,Helinho - 7,Cleiton Schwengber,,brasileirao,24,29.8,38.0,-8.2,-0.28,D L D D D
-2024,14.0,Juventude,29.0,8.0,10.0,11.0,33.0,39.0,-6.0,34.0,1.17,6889.0,"Lucas Barbosa, Jean Carlos Vicente - 4",Gabriel,,brasileirao,24,30.3,46.6,-16.4,-0.56,D W L D D
-2024,15.0,Ath Paranaense,27.0,8.0,7.0,12.0,27.0,31.0,-4.0,31.0,1.15,29852.0,"Gonzalo Mastriani, Agustín Canobbio - 4",Leonardo Linck,,brasileirao,24,34.9,34.1,0.8,0.03,L D D L L
-2024,16.0,Fluminense,28.0,8.0,6.0,14.0,22.0,30.0,-8.0,30.0,1.07,23649.0,Kauã Elias - 5,Fábio,,brasileirao,24,24.4,34.0,-9.6,-0.34,W L L L W
+2024,13.0,Red Bull Bragantino,29.0,8.0,10.0,11.0,34.0,38.0,-4.0,34.0,1.17,6117.0,Helinho - 7,Cleiton Schwengber,,brasileirao,24,29.8,37.9,-8.0,-0.28,D L D D D
+2024,14.0,Juventude,29.0,8.0,10.0,11.0,33.0,39.0,-6.0,34.0,1.17,6889.0,"Lucas Barbosa, Jean Carlos Vicente - 4",Gabriel,,brasileirao,24,30.3,46.7,-16.4,-0.56,D W L D D
+2024,15.0,Ath Paranaense,27.0,8.0,7.0,12.0,27.0,31.0,-4.0,31.0,1.15,29852.0,"Gonzalo Mastriani, Agustín Canobbio - 4",Leonardo Linck,,brasileirao,24,34.5,34.1,0.5,0.02,L D D L L
+2024,16.0,Fluminense,28.0,8.0,6.0,14.0,22.0,30.0,-8.0,30.0,1.07,23649.0,Kauã Elias - 5,Fábio,,brasileirao,24,24.5,33.9,-9.4,-0.34,W L L L W
 2024,17.0,Vitória,29.0,8.0,5.0,16.0,32.0,44.0,-12.0,29.0,1.0,21382.0,Alerrandro - 7,Lucas Arcanjo,,brasileirao,24,30.4,35.0,-4.5,-0.16,L W W L D
 2024,18.0,Corinthians,29.0,6.0,11.0,12.0,29.0,38.0,-9.0,29.0,1.0,43241.0,Yuri Alberto - 7,Hugo Souza,,brasileirao,24,33.6,36.1,-2.4,-0.08,W L W L D
-2024,19.0,Cuiabá,28.0,6.0,8.0,14.0,25.0,39.0,-14.0,26.0,0.93,5680.0,Isidro Pitta - 7,Walter,,brasileirao,24,25.5,35.0,-9.6,-0.34,D L D L W
+2024,19.0,Cuiabá,28.0,6.0,8.0,14.0,25.0,39.0,-14.0,26.0,0.93,5680.0,Isidro Pitta - 7,Walter,,brasileirao,24,25.5,34.9,-9.4,-0.34,D L D L W
 2024,20.0,Atl Goianiense,29.0,5.0,6.0,18.0,22.0,47.0,-25.0,21.0,0.72,10370.0,Luiz Fernando - 6,Ronaldo,,brasileirao,24,31.1,38.7,-7.6,-0.26,L L L W L

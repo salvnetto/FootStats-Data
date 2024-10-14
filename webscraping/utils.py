@@ -1,5 +1,7 @@
 import requests
 import pandas as pd
+import hashlib
+import unicodedata
 from bs4 import BeautifulSoup
 
 
@@ -30,14 +32,23 @@ def renameColumns(columns) -> list:
     return new_column_names
 
 
-def addTeamMetadata(teamFile, season, teamUrl, leagueName, leagueId) -> pd.DataFrame:
+def addTeamMetadata(teamFile, season, teamUrl, leagueName, leagueId, data) -> pd.DataFrame:
     teamFile['season'] = season
     teamFile['league_name'] = leagueName
     teamFile['league_id'] = leagueId
     teamName = teamUrl.split('/')[-1].replace('-Stats', '').replace('-', '_').lower()
-    teamFile['team_name'] = teamName
-    teamId = teamUrl.split('/')[5]
-    teamFile['team_id'] = teamId
+    teamFile['team_name'] = BeautifulSoup(data.text, features='lxml').find_all('title')[0].text.split(' Stats')[0]
 
     print(f'--{teamName}')
     return teamFile
+
+
+def create_hash_key(input_string):
+    input_string = input_string.str.tolower()
+    normalized_string = unicodedata.normalize('NFD', input_string)
+    input_string = ''.join(char for char in normalized_string if unicodedata.category(char) != 'Mn')
+    
+    hash_object = hashlib.sha256()
+    hash_object.update(input_string.encode('utf-8'))
+    hash_key = hash_object.hexdigest()
+    return hash_key

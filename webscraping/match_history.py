@@ -29,7 +29,7 @@ class MatchHistory:
                     data = requests.get(team)
                     teamFile = pd.read_html(StringIO(data.text))[1]
                     teamFile = addTeamMetadata(
-                        teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId
+                        teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId, data
                     )
 
                     soup = BeautifulSoup(data.text, features='lxml')

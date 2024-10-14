@@ -1,6 +1,10 @@
 import os
 
+from webscraping.utils import create_hash_key
+
 import pandas as pd
+
+
 
 class ProcessData:
     def __init__(self, infoLeague, file):
@@ -23,12 +27,19 @@ class ProcessData:
         self.file.columns = self.file.columns.str.lower()
         columns_to_drop = self._ColumnsToDrop.get(self.infoLeague.fileName)
         self.file = self.file.drop(columns_to_drop, axis=1)
-
+        
+        if self.infoLeague.fileName == 'standings':
+            self.file['team_id'] = self.file['squad'].apply(create_hash_key)
+            
         if self.infoLeague.fileName == 'squads':
             self.file['age'] = self.file['age'].str.split('-').str.get(0)
             self.file = self.file.iloc[:-2]
+            self.file['team_id'] = self.file['team_name'].apply(create_hash_key)
 
         if self.infoLeague.fileName == 'match_history':
             self.file = self.file[self.file['comp'] == self.infoLeague.FBREFCompName]
+            self.file['round'] = self.file['round'].replace("Matchweek ", "")
+            self.file['team_opp_id'] = self.file['opponent'].apply(create_hash_key)
+            self.file['team_id'] = self.file['team_name'].apply(create_hash_key)
 
         self._savePath()

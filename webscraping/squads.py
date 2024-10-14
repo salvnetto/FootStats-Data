@@ -30,7 +30,7 @@ class Squads:
                     teamFile = pd.read_html(StringIO(data.text))[0]
                     teamFile.columns = teamFile.columns.droplevel()
                     teamFile = addTeamMetadata(
-                        teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId
+                        teamFile, season, team, self.infoLeague.leagueName, self.infoLeague.leagueId, data
                     )
                     teamFile.columns = renameColumns(teamFile.columns)
                     webFile.append(teamFile)
