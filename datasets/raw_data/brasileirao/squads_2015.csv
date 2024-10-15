@@ -1,0 +1,909 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls_90,Ast_90,G+A_90,G-PK_90,G+A-PK,Matches,season,league_name,league_id,team_name
+Cássio,br BRA,GK,27.0,35,35,3105.0,34.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Gil,br BRA,DF,27.0,34,34,3060.0,34.0,2.0,1.0,3.0,2.0,0.0,0.0,7.0,0.0,0.06,0.03,0.09,0.06,0.09,Matches,2015,brasileirao,24,2015 Corinthians
+Jádson,br BRA,MF,31.0,34,34,2961.0,32.9,13.0,13.0,26.0,8.0,5.0,5.0,6.0,0.0,0.4,0.4,0.79,0.24,0.64,Matches,2015,brasileirao,24,2015 Corinthians
+Renato Augusto,br BRA,MF,26.0,30,30,2571.0,28.6,5.0,5.0,10.0,5.0,0.0,0.0,2.0,0.0,0.18,0.18,0.35,0.18,0.35,Matches,2015,brasileirao,24,2015 Corinthians
+Malcom,br BRA,"FW,MF",17.0,31,29,2432.0,27.0,5.0,4.0,9.0,5.0,0.0,0.0,1.0,0.0,0.19,0.15,0.33,0.19,0.33,Matches,2015,brasileirao,24,2015 Corinthians
+Vágner Love,br BRA,FW,30.0,31,28,2355.0,26.2,14.0,3.0,17.0,14.0,0.0,0.0,3.0,0.0,0.54,0.11,0.65,0.54,0.65,Matches,2015,brasileirao,24,2015 Corinthians
+Felipe,br BRA,DF,25.0,26,26,2331.0,25.9,1.0,0.0,1.0,1.0,0.0,0.0,8.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,2015,brasileirao,24,2015 Corinthians
+Fagner,br BRA,DF,25.0,26,26,2172.0,24.1,0.0,2.0,2.0,0.0,0.0,0.0,6.0,1.0,0.0,0.08,0.08,0.0,0.08,Matches,2015,brasileirao,24,2015 Corinthians
+Elías,br BRA,MF,29.0,24,23,1970.0,21.9,5.0,7.0,12.0,5.0,0.0,0.0,4.0,0.0,0.23,0.32,0.55,0.23,0.55,Matches,2015,brasileirao,24,2015 Corinthians
+Ralf,br BRA,MF,30.0,31,21,1963.0,21.8,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.05,0.05,0.09,0.05,0.09,Matches,2015,brasileirao,24,2015 Corinthians
+Bruno Henrique,br BRA,MF,25.0,22,19,1609.0,17.9,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,2015,brasileirao,24,2015 Corinthians
+Uendel,br BRA,DF,26.0,19,19,1527.0,17.0,2.0,4.0,6.0,2.0,0.0,0.0,1.0,0.0,0.12,0.24,0.35,0.12,0.35,Matches,2015,brasileirao,24,2015 Corinthians
+Edu Dracena,br BRA,DF,33.0,16,15,1340.0,14.9,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,2015,brasileirao,24,2015 Corinthians
+Edílson Mendes,br BRA,DF,28.0,18,12,1322.0,14.7,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,2015,brasileirao,24,2015 Corinthians
+Guilherme Arana,br BRA,"DF,MF",17.0,12,10,918.0,10.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,2015,brasileirao,24,2015 Corinthians
+Stiven Mendoza,co COL,"FW,MF",22.0,10,6,578.0,6.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,2015,brasileirao,24,2015 Corinthians
+Ángel Romero,py PAR,"FW,MF",22.0,12,6,561.0,6.2,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.48,0.0,0.48,0.48,0.48,Matches,2015,brasileirao,24,2015 Corinthians
+Fábio Santos,br BRA,DF,29.0,6,6,540.0,6.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.17,0.17,0.33,0.17,0.33,Matches,2015,brasileirao,24,2015 Corinthians
+Rodriguinho Marinho,br BRA,"FW,MF",26.0,12,6,531.0,5.9,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.34,0.0,0.34,0.34,0.34,Matches,2015,brasileirao,24,2015 Corinthians
+Cristian Baroni,br BRA,MF,31.0,13,5,466.0,5.2,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.19,0.0,0.19,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Petros,br BRA,MF,25.0,8,5,441.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Yago,br BRA,DF,22.0,8,4,455.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Luciano,br BRA,"FW,MF",21.0,6,4,412.0,4.6,5.0,0.0,5.0,5.0,0.0,0.0,1.0,0.0,1.09,0.0,1.09,1.09,1.09,Matches,2015,brasileirao,24,2015 Corinthians
+Danilo,br BRA,MF,35.0,29,3,613.0,6.8,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.29,0.29,0.0,0.29,Matches,2015,brasileirao,24,2015 Corinthians
+Walter,br BRA,GK,27.0,4,3,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Marciel,br BRA,MF,19.0,4,3,235.0,2.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.38,0.0,0.38,0.38,0.38,Matches,2015,brasileirao,24,2015 Corinthians
+Lucca,br BRA,"FW,MF",24.0,10,2,278.0,3.1,3.0,2.0,5.0,3.0,0.0,0.0,2.0,0.0,0.97,0.65,1.62,0.97,1.62,Matches,2015,brasileirao,24,2015 Corinthians
+Rildo,br BRA,"FW,MF",25.0,12,2,223.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Paolo Guerrero,pe PER,FW,31.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Emerson Sheik,qa QAT,FW,36.0,3,0,93.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Lincom,br BRA,FW,30.0,3,0,35.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Matheus Pereira da Silva,br BRA,MF,16.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Corinthians
+Matheus Cassini,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Claudinho,br BRA,"FW,MF",18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Caíque França,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Pedro Henrique,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Matheus Caldeira Vidotto de Oliveira,br BRA,GK,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Rodrigo Sam,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Samuel,br BRA,DF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Matheus de Vargas,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Gustavo Viera,py PAR,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Corinthians
+Squad Total,,,27.2,38,418,3420.0,38.0,69.0,46.0,115.0,63.0,6.0,6.0,66.0,2.0,1.82,1.21,3.03,1.66,2.87,,2015,brasileirao,24,2015 Corinthians
+Opponent Total,,,26.4,38,418,3420.0,38.0,31.0,24.0,55.0,31.0,0.0,1.0,100.0,6.0,0.82,0.63,1.45,0.82,1.45,,2015,brasileirao,24,2015 Corinthians
+Victor Leandro Bagy,br BRA,GK,32.0,38,38,3420.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Rafael Carioca,br BRA,MF,25.0,36,36,3162.0,35.1,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Lucas Pratto,ar ARG,FW,26.0,36,36,3114.0,34.6,13.0,4.0,17.0,7.0,6.0,6.0,1.0,0.0,0.38,0.12,0.49,0.2,0.32,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Jemerson,br BRA,DF,22.0,35,35,3150.0,35.0,4.0,0.0,4.0,4.0,0.0,0.0,8.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Giovanni Augusto,br BRA,MF,25.0,35,33,2645.0,29.4,5.0,8.0,13.0,5.0,0.0,0.0,3.0,0.0,0.17,0.27,0.44,0.17,0.44,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Leonardo Silva,br BRA,DF,35.0,32,32,2826.0,31.4,3.0,1.0,4.0,3.0,0.0,0.0,7.0,1.0,0.1,0.03,0.13,0.1,0.13,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Douglas Santos,br BRA,"DF,MF",20.0,31,31,2695.0,29.9,0.0,3.0,3.0,0.0,0.0,0.0,6.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Leandro Donizete,br BRA,MF,32.0,31,27,2416.0,26.8,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Luan,br BRA,"FW,MF",24.0,26,24,2017.0,22.4,7.0,5.0,12.0,7.0,0.0,0.0,7.0,0.0,0.31,0.22,0.54,0.31,0.54,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Thiago Ribeiro,br BRA,FW,28.0,33,24,1945.0,21.6,9.0,1.0,10.0,8.0,1.0,1.0,3.0,0.0,0.42,0.05,0.46,0.37,0.42,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Marcos Rocha,br BRA,DF,26.0,22,22,1892.0,21.0,2.0,3.0,5.0,2.0,0.0,0.0,7.0,1.0,0.1,0.14,0.24,0.1,0.24,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Jesús Dátolo,ar ARG,MF,30.0,26,22,1880.0,20.9,7.0,3.0,10.0,7.0,0.0,0.0,3.0,0.0,0.34,0.14,0.48,0.34,0.48,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Patric Cabral Lalau,br BRA,"DF,MF",25.0,25,18,1675.0,18.6,3.0,4.0,7.0,3.0,0.0,0.0,4.0,1.0,0.16,0.21,0.38,0.16,0.38,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Carlos,br BRA,"FW,MF",19.0,21,8,773.0,8.6,3.0,1.0,4.0,3.0,0.0,0.0,5.0,1.0,0.35,0.12,0.47,0.35,0.47,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Edcarlos,br BRA,DF,29.0,8,7,679.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Maicosuel,br BRA,MF,28.0,12,6,628.0,7.0,2.0,2.0,4.0,2.0,0.0,0.0,1.0,0.0,0.29,0.29,0.57,0.29,0.57,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Carlos César,br BRA,DF,27.0,7,4,390.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Sherman Cárdenas,co COL,MF,25.0,17,3,359.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Guilherme,br BRA,"FW,MF",26.0,10,3,359.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Pedro Botelho,br BRA,"DF,MF",25.0,7,3,351.0,3.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.26,0.26,0.0,0.26,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Tiago Pagnussat,br BRA,DF,24.0,3,2,181.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Josué,br BRA,MF,35.0,13,1,244.0,2.7,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.37,0.37,0.0,0.37,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Jô,br BRA,FW,27.0,3,1,134.0,1.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.67,0.0,0.67,0.67,0.67,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Eduardo Henrique,br BRA,MF,19.0,2,1,95.0,1.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.95,0.95,0.0,0.95,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Lucas Cândido,br BRA,MF,21.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Dodô,br BRA,MF,20.0,12,0,226.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Danilo Pires,br BRA,MF,22.0,3,0,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Mansur,br BRA,DF,21.0,1,0,37.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+André,br BRA,FW,24.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Rodolfo Pereira de Castro,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Jesiel,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Giovanni Santos,br BRA,GK,27.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Uilson,br BRA,GK,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Atlético Mineiro
+Squad Total,,,27.3,38,418,3420.0,38.0,59.0,40.0,99.0,52.0,7.0,7.0,79.0,4.0,1.55,1.05,2.61,1.37,2.42,,2015,brasileirao,24,2015 Atlético Mineiro
+Opponent Total,,,26.6,38,418,3420.0,38.0,46.0,35.0,81.0,42.0,4.0,6.0,82.0,4.0,1.21,0.92,2.13,1.11,2.03,,2015,brasileirao,24,2015 Atlético Mineiro
+Giuliano de Paula,br BRA,"FW,MF",24.0,35,35,3071.0,34.1,6.0,7.0,13.0,6.0,0.0,0.0,0.0,0.0,0.18,0.21,0.38,0.18,0.38,Matches,2015,brasileirao,24,2015 Grêmio
+Walace,br BRA,MF,19.0,34,34,2971.0,33.0,0.0,1.0,1.0,0.0,0.0,0.0,13.0,1.0,0.0,0.03,0.03,0.0,0.03,Matches,2015,brasileirao,24,2015 Grêmio
+Marcelo Oliveira,br BRA,"DF,MF",27.0,33,33,2924.0,32.5,2.0,4.0,6.0,2.0,0.0,0.0,6.0,0.0,0.06,0.12,0.18,0.06,0.18,Matches,2015,brasileirao,24,2015 Grêmio
+Rafael Galhardo,br BRA,DF,23.0,33,33,2866.0,31.8,2.0,1.0,3.0,2.0,0.0,0.0,9.0,0.0,0.06,0.03,0.09,0.06,0.09,Matches,2015,brasileirao,24,2015 Grêmio
+Luan Vieira,br BRA,"FW,MF",21.0,33,33,2767.0,30.7,10.0,7.0,17.0,8.0,2.0,2.0,5.0,0.0,0.33,0.23,0.55,0.26,0.49,Matches,2015,brasileirao,24,2015 Grêmio
+Pedro Geromel,br BRA,DF,29.0,31,31,2739.0,30.4,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Douglas dos Santos,br BRA,MF,32.0,31,30,2369.0,26.3,5.0,5.0,10.0,4.0,1.0,3.0,6.0,0.0,0.19,0.19,0.38,0.15,0.34,Matches,2015,brasileirao,24,2015 Grêmio
+Pedro Rocha Neves,br BRA,"FW,MF",20.0,34,25,1972.0,21.9,5.0,1.0,6.0,5.0,0.0,0.0,3.0,1.0,0.23,0.05,0.27,0.23,0.27,Matches,2015,brasileirao,24,2015 Grêmio
+Marcelo Grohe,br BRA,GK,28.0,23,23,1961.0,21.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Maicon Souza,br BRA,MF,29.0,23,23,1898.0,21.1,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.05,0.09,0.14,0.05,0.14,Matches,2015,brasileirao,24,2015 Grêmio
+Frickson Erazo,ec ECU,DF,26.0,23,22,1987.0,22.1,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.05,0.05,0.09,0.05,0.09,Matches,2015,brasileirao,24,2015 Grêmio
+Tiago Machowski,br BRA,GK,21.0,12,11,1040.0,11.6,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Rhodolfo,br BRA,DF,28.0,11,11,983.0,10.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,2015,brasileirao,24,2015 Grêmio
+Edinho Campos,br BRA,MF,32.0,19,10,1079.0,12.0,0.0,2.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,2015,brasileirao,24,2015 Grêmio
+Bobô,br BRA,FW,30.0,20,9,871.0,9.7,5.0,3.0,8.0,5.0,0.0,0.0,1.0,0.0,0.52,0.31,0.83,0.52,0.83,Matches,2015,brasileirao,24,2015 Grêmio
+Bressan,br BRA,DF,22.0,9,9,810.0,9.0,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 Grêmio
+Everton Soares,br BRA,"FW,MF",18.0,14,6,623.0,6.9,4.0,1.0,5.0,4.0,0.0,0.0,0.0,0.0,0.58,0.14,0.72,0.58,0.72,Matches,2015,brasileirao,24,2015 Grêmio
+Fernandinho,br BRA,"FW,MF",29.0,16,6,590.0,6.6,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,2015,brasileirao,24,2015 Grêmio
+Marcelo Hermes,br BRA,"DF,MF",19.0,7,6,586.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Yuri Mamute,br BRA,FW,19.0,15,4,632.0,7.0,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.43,0.0,0.43,0.43,0.43,Matches,2015,brasileirao,24,2015 Grêmio
+Bruno Grassi,br BRA,GK,27.0,5,4,419.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Ramiro Benetti,br BRA,"DF,MF",21.0,5,4,392.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Rafael Thyere,br BRA,DF,21.0,4,3,321.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Lucas Ramon,br BRA,DF,20.0,6,3,284.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Moisés Wolschick,br BRA,MF,20.0,8,3,253.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Fellipe Bastos,br BRA,MF,24.0,6,1,207.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Maxi Rodríguez,uy URU,"FW,MF",24.0,9,1,186.0,2.1,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.48,0.48,0.97,0.48,0.97,Matches,2015,brasileirao,24,2015 Grêmio
+William Schuster,br BRA,MF,27.0,5,1,112.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Matías Rodríguez,ar ARG,"DF,MF",28.0,2,1,107.0,1.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.84,0.0,0.84,0.84,0.84,Matches,2015,brasileirao,24,2015 Grêmio
+Lincoln,br BRA,MF,16.0,2,1,85.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Júnior Tavares,br BRA,"DF,MF",18.0,2,1,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Araujo,br BRA,MF,19.0,1,1,57.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Braian Rodríguez,uy URU,FW,28.0,14,0,245.0,2.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.37,0.0,0.37,0.37,0.37,Matches,2015,brasileirao,24,2015 Grêmio
+Victor Rangel,br BRA,FW,24.0,6,0,94.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Grêmio
+Balbino,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Wesley Claudio Campos,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Lucas Costa,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Denilson,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Léo Jardim,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Arthur Melo,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Kaio Mendes,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Gabriel Teixeira da Silva,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Léo Tilica,br BRA,"FW,MF",19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Felipe Tontini,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Grêmio
+Squad Total,,,25.4,38,418,3420.0,38.0,50.0,36.0,86.0,47.0,3.0,5.0,97.0,2.0,1.32,0.95,2.26,1.24,2.18,,2015,brasileirao,24,2015 Grêmio
+Opponent Total,,,26.3,38,418,3420.0,38.0,31.0,20.0,51.0,27.0,4.0,4.0,109.0,7.0,0.82,0.53,1.34,0.71,1.24,,2015,brasileirao,24,2015 Grêmio
+Thiago Mendes,br BRA,"DF,MF",22.0,35,30,2737.0,30.4,1.0,3.0,4.0,1.0,0.0,0.0,8.0,0.0,0.03,0.1,0.13,0.03,0.13,Matches,2015,brasileirao,24,2015 São Paulo
+Michel Bastos,br BRA,"DF,MF",31.0,31,30,2581.0,28.7,7.0,0.0,7.0,7.0,0.0,0.0,4.0,0.0,0.24,0.0,0.24,0.24,0.24,Matches,2015,brasileirao,24,2015 São Paulo
+Ganso,br BRA,MF,25.0,31,29,2632.0,29.2,2.0,11.0,13.0,2.0,0.0,0.0,8.0,1.0,0.07,0.38,0.44,0.07,0.44,Matches,2015,brasileirao,24,2015 São Paulo
+Alexandre Pato,br BRA,"FW,MF",25.0,33,29,2474.0,27.5,10.0,6.0,16.0,10.0,0.0,0.0,4.0,0.0,0.36,0.22,0.58,0.36,0.58,Matches,2015,brasileirao,24,2015 São Paulo
+Bruno Vieira,br BRA,DF,29.0,30,28,2190.0,24.3,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Lucão,br BRA,DF,18.0,25,25,2227.0,24.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 São Paulo
+Rodrigo Caio,br BRA,"DF,MF",21.0,24,23,2108.0,23.4,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,2015,brasileirao,24,2015 São Paulo
+Rogério Ceni,br BRA,GK,42.0,23,23,2070.0,23.0,3.0,0.0,3.0,0.0,3.0,3.0,1.0,0.0,0.13,0.0,0.13,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Hudson,br BRA,MF,27.0,29,21,1769.0,19.7,0.0,2.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 São Paulo
+Luís Fabiano,br BRA,FW,34.0,22,18,1556.0,17.3,8.0,2.0,10.0,7.0,1.0,1.0,8.0,1.0,0.46,0.12,0.58,0.4,0.52,Matches,2015,brasileirao,24,2015 São Paulo
+Carlinhos,br BRA,DF,28.0,19,18,1520.0,16.9,2.0,3.0,5.0,2.0,0.0,0.0,2.0,0.0,0.12,0.18,0.3,0.12,0.3,Matches,2015,brasileirao,24,2015 São Paulo
+Reinaldo,br BRA,"DF,MF",25.0,23,17,1526.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Wesley,br BRA,MF,27.0,25,14,1395.0,15.5,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.06,0.13,0.19,0.06,0.19,Matches,2015,brasileirao,24,2015 São Paulo
+Rafael Tolói,it ITA,DF,24.0,13,12,1094.0,12.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Ricardo Centurión,ar ARG,"FW,MF",22.0,25,10,1115.0,12.4,2.0,2.0,4.0,2.0,0.0,0.0,0.0,0.0,0.16,0.16,0.32,0.16,0.32,Matches,2015,brasileirao,24,2015 São Paulo
+Dória,br BRA,DF,20.0,9,9,810.0,9.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 São Paulo
+Renan Ribeiro,br BRA,GK,24.0,9,9,810.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Josef de Souza,br BRA,MF,25.0,8,8,701.0,7.8,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.26,0.13,0.39,0.26,0.39,Matches,2015,brasileirao,24,2015 São Paulo
+Rogério,br BRA,"FW,MF",24.0,14,8,698.0,7.8,4.0,1.0,5.0,4.0,0.0,0.0,1.0,0.0,0.52,0.13,0.64,0.52,0.64,Matches,2015,brasileirao,24,2015 São Paulo
+Edson Silva,br BRA,DF,28.0,12,8,677.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Matheus Reis,br BRA,"DF,MF",19.0,13,7,717.0,8.0,0.0,1.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.13,0.13,0.0,0.13,Matches,2015,brasileirao,24,2015 São Paulo
+Denis,br BRA,GK,27.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Luiz Eduardo,br BRA,DF,27.0,6,6,527.0,5.9,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.17,0.0,0.17,0.17,0.17,Matches,2015,brasileirao,24,2015 São Paulo
+Paulo Miranda,br BRA,DF,26.0,5,4,429.0,4.8,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,2015,brasileirao,24,2015 São Paulo
+Lyanco,br BRA,DF,17.0,9,4,416.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Wilder Guisao,co COL,"FW,MF",23.0,6,4,340.0,3.8,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.26,0.26,0.53,0.26,0.53,Matches,2015,brasileirao,24,2015 São Paulo
+Denílson,br BRA,MF,26.0,4,4,336.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Breno Borges,br BRA,DF,25.0,5,4,266.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.34,0.0,0.34,0.34,0.34,Matches,2015,brasileirao,24,2015 São Paulo
+Alan Kardec,br BRA,FW,26.0,8,3,383.0,4.3,4.0,1.0,5.0,4.0,0.0,1.0,2.0,0.0,0.94,0.23,1.17,0.94,1.17,Matches,2015,brasileirao,24,2015 São Paulo
+Gabriel Boschilia,br BRA,MF,18.0,6,2,218.0,2.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.41,0.0,0.41,0.41,0.41,Matches,2015,brasileirao,24,2015 São Paulo
+João Schmidt,br BRA,MF,21.0,4,2,163.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Auro,br BRA,"DF,MF",19.0,10,1,299.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+João Paulo,br BRA,FW,18.0,4,1,100.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Jonathan Cafu,br BRA,"FW,MF",23.0,2,1,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Daniel,br BRA,MF,21.0,2,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 São Paulo
+Ewandro,br BRA,"FW,MF",18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 São Paulo
+Léo,br BRA,GK,24.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 São Paulo
+Jeferson Lima,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 São Paulo
+Murilo Oliveira,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 São Paulo
+Squad Total,,,26.4,38,418,3420.0,38.0,53.0,37.0,90.0,49.0,4.0,5.0,81.0,5.0,1.39,0.97,2.37,1.29,2.26,,2015,brasileirao,24,2015 São Paulo
+Opponent Total,,,26.6,38,418,3420.0,38.0,47.0,34.0,81.0,45.0,2.0,3.0,79.0,3.0,1.24,0.89,2.13,1.18,2.08,,2015,brasileirao,24,2015 São Paulo
+Ernando,br BRA,DF,26.0,30,30,2663.0,29.6,3.0,1.0,4.0,3.0,0.0,0.0,1.0,0.0,0.1,0.03,0.14,0.1,0.14,Matches,2015,brasileirao,24,2015 Internacional
+William,br BRA,"DF,MF",19.0,29,29,2572.0,28.6,0.0,3.0,3.0,0.0,0.0,0.0,8.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Internacional
+Rodrigo Dourado,br BRA,MF,20.0,30,29,2570.0,28.6,1.0,3.0,4.0,1.0,0.0,0.0,5.0,0.0,0.04,0.11,0.14,0.04,0.14,Matches,2015,brasileirao,24,2015 Internacional
+Alisson,br BRA,GK,22.0,26,26,2265.0,25.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Paulão,br BRA,DF,28.0,24,23,2115.0,23.5,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,0.09,0.04,0.13,0.09,0.13,Matches,2015,brasileirao,24,2015 Internacional
+Anderson,br BRA,MF,26.0,30,22,1950.0,21.7,0.0,4.0,4.0,0.0,0.0,0.0,4.0,1.0,0.0,0.18,0.18,0.0,0.18,Matches,2015,brasileirao,24,2015 Internacional
+Valdívia,br BRA,MF,20.0,26,22,1903.0,21.1,6.0,1.0,7.0,5.0,1.0,1.0,1.0,0.0,0.28,0.05,0.33,0.24,0.28,Matches,2015,brasileirao,24,2015 Internacional
+Nílton,br BRA,MF,27.0,24,21,1835.0,20.4,2.0,1.0,3.0,2.0,0.0,0.0,4.0,1.0,0.1,0.05,0.15,0.1,0.15,Matches,2015,brasileirao,24,2015 Internacional
+Vitinho,br BRA,"FW,MF",21.0,32,20,1804.0,20.0,11.0,2.0,13.0,10.0,1.0,1.0,9.0,0.0,0.55,0.1,0.65,0.5,0.6,Matches,2015,brasileirao,24,2015 Internacional
+Lisandro López,ar ARG,"FW,MF",31.0,24,20,1742.0,19.4,4.0,2.0,6.0,4.0,0.0,0.0,6.0,1.0,0.21,0.1,0.31,0.21,0.31,Matches,2015,brasileirao,24,2015 Internacional
+Alex,br BRA,MF,32.0,24,19,1594.0,17.7,1.0,2.0,3.0,0.0,1.0,1.0,4.0,0.0,0.06,0.11,0.17,0.0,0.11,Matches,2015,brasileirao,24,2015 Internacional
+Réver,br BRA,DF,30.0,17,16,1306.0,14.5,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,2015,brasileirao,24,2015 Internacional
+Nicolás Freitas,uy URU,MF,27.0,16,13,1157.0,12.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Muriel Becker,br BRA,GK,27.0,13,12,1155.0,12.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Andrés D'Alessandro,ar ARG,"FW,MF",33.0,15,12,1086.0,12.1,0.0,2.0,2.0,0.0,0.0,1.0,6.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,2015,brasileirao,24,2015 Internacional
+Geferson,br BRA,"DF,MF",20.0,12,12,976.0,10.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Eduardo Sasha,br BRA,"FW,MF",22.0,14,11,979.0,10.9,2.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,2015,brasileirao,24,2015 Internacional
+Wellington Martins,br BRA,MF,24.0,15,10,898.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Juan,br BRA,DF,35.0,10,10,826.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Artur,br BRA,"DF,MF",20.0,13,9,863.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Alan Costa,br BRA,DF,24.0,10,9,829.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Rafael Moura,br BRA,FW,31.0,21,8,898.0,10.0,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.1,0.1,0.2,0.1,0.2,Matches,2015,brasileirao,24,2015 Internacional
+Nilmar,br BRA,FW,30.0,7,7,568.0,6.3,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.48,0.0,0.48,0.48,0.48,Matches,2015,brasileirao,24,2015 Internacional
+Leonardo Morais,br BRA,DF,23.0,8,7,544.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Jorge Henrique,br BRA,"DF,FW",32.0,5,5,400.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Alan Ruschel,br BRA,"DF,MF",25.0,6,5,392.0,4.4,0.0,1.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.23,0.23,0.0,0.23,Matches,2015,brasileirao,24,2015 Internacional
+Taiberson,br BRA,FW,21.0,13,4,572.0,6.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Alisson Farias,br BRA,"FW,MF",18.0,10,1,224.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Silva,br BRA,MF,19.0,6,1,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Eduardo Gabriel,br BRA,DF,18.0,4,1,163.0,1.8,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.55,0.0,0.55,0.55,0.55,Matches,2015,brasileirao,24,2015 Internacional
+Zé Mário,br BRA,MF,22.0,3,1,113.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Lucas Marques,br BRA,MF,19.0,1,1,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Cláudio Winck,br BRA,"DF,MF",20.0,1,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Carlos Luque,ar ARG,"FW,MF",21.0,1,1,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Matheus Bertotto,br BRA,MF,21.0,5,0,97.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Alex Santana,br BRA,MF,19.0,1,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Andrigo,br BRA,"FW,MF",19.0,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Bruno Baio,br BRA,FW,19.0,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Internacional
+Dida,br BRA,GK,41.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Bruno Gomes,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Jacsson,br BRA,GK,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Jair,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Mila,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Rodrigo Moledo,br BRA,DF,27.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Matheus Oliveira,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Gustavo Ramos,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Ebert Cardoso da Silva,br BRA,DF,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Silas Araújo da Silva,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Eriks de Souza Santos Pereira,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Internacional
+Squad Total,,,25.7,38,418,3420.0,38.0,39.0,24.0,63.0,36.0,3.0,4.0,107.0,6.0,1.03,0.63,1.66,0.95,1.58,,2015,brasileirao,24,2015 Internacional
+Opponent Total,,,26.4,38,419,3420.0,38.0,36.0,20.0,56.0,29.0,7.0,8.0,100.0,7.0,0.95,0.53,1.47,0.76,1.29,,2015,brasileirao,24,2015 Internacional
+Danilo Fernandes,br BRA,GK,26.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Matheus Ferraz,br BRA,DF,29.0,36,36,3206.0,35.6,5.0,1.0,6.0,5.0,0.0,0.0,5.0,0.0,0.14,0.03,0.17,0.14,0.17,Matches,2015,brasileirao,24,2015 Sport Recife
+Durval,br BRA,DF,34.0,36,36,3197.0,35.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,2015,brasileirao,24,2015 Sport Recife
+Francisco Rithely,br BRA,MF,24.0,35,35,3111.0,34.6,1.0,3.0,4.0,1.0,0.0,0.0,8.0,0.0,0.03,0.09,0.12,0.03,0.12,Matches,2015,brasileirao,24,2015 Sport Recife
+Renê,br BRA,DF,22.0,35,34,3015.0,33.5,1.0,4.0,5.0,1.0,0.0,0.0,9.0,0.0,0.03,0.12,0.15,0.03,0.15,Matches,2015,brasileirao,24,2015 Sport Recife
+Diego Souza,br BRA,"FW,MF",29.0,34,32,2825.0,31.4,9.0,8.0,17.0,6.0,3.0,3.0,8.0,1.0,0.29,0.25,0.54,0.19,0.45,Matches,2015,brasileirao,24,2015 Sport Recife
+Samuel Xavier,br BRA,DF,24.0,30,29,2526.0,28.1,1.0,1.0,2.0,1.0,0.0,0.0,6.0,1.0,0.04,0.04,0.07,0.04,0.07,Matches,2015,brasileirao,24,2015 Sport Recife
+Marlone,br BRA,MF,22.0,30,29,2299.0,25.5,3.0,7.0,10.0,3.0,0.0,0.0,3.0,0.0,0.12,0.27,0.39,0.12,0.39,Matches,2015,brasileirao,24,2015 Sport Recife
+André,br BRA,FW,24.0,29,27,2342.0,26.0,13.0,6.0,19.0,10.0,3.0,3.0,5.0,0.0,0.5,0.23,0.73,0.38,0.61,Matches,2015,brasileirao,24,2015 Sport Recife
+Wendel Geraldo,br BRA,MF,32.0,28,26,2069.0,23.0,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,2015,brasileirao,24,2015 Sport Recife
+Maikon Leite,br BRA,"FW,MF",26.0,25,18,1378.0,15.3,4.0,2.0,6.0,4.0,0.0,0.0,0.0,0.0,0.26,0.13,0.39,0.26,0.39,Matches,2015,brasileirao,24,2015 Sport Recife
+Élber,br BRA,"FW,MF",22.0,25,15,1461.0,16.2,5.0,1.0,6.0,5.0,0.0,0.0,2.0,0.0,0.31,0.06,0.37,0.31,0.37,Matches,2015,brasileirao,24,2015 Sport Recife
+Neto Moura,br BRA,MF,18.0,22,11,904.0,10.0,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,2015,brasileirao,24,2015 Sport Recife
+Rodrigo Mancha,br BRA,"DF,MF",28.0,16,8,773.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Ferrugem,br BRA,"DF,MF",26.0,10,7,741.0,8.2,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,2015,brasileirao,24,2015 Sport Recife
+Danilo Barcelos,br BRA,"DF,MF",23.0,12,6,564.0,6.3,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.16,0.16,0.32,0.16,0.32,Matches,2015,brasileirao,24,2015 Sport Recife
+Régis,br BRA,MF,22.0,26,5,861.0,9.6,3.0,2.0,5.0,3.0,0.0,0.0,5.0,0.0,0.31,0.21,0.52,0.31,0.52,Matches,2015,brasileirao,24,2015 Sport Recife
+Samuel,br BRA,FW,23.0,17,5,606.0,6.7,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.15,0.15,0.0,0.15,Matches,2015,brasileirao,24,2015 Sport Recife
+Hernane,br BRA,FW,28.0,14,5,552.0,6.1,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches,2015,brasileirao,24,2015 Sport Recife
+Ewerton Páscoa,br BRA,DF,25.0,7,4,442.0,4.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,2015,brasileirao,24,2015 Sport Recife
+Joelinton,br BRA,"FW,MF",18.0,5,4,366.0,4.1,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,0.25,0.49,0.74,0.25,0.74,Matches,2015,brasileirao,24,2015 Sport Recife
+Ronaldo Henrique,br BRA,MF,20.0,6,3,348.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Mike,br BRA,"FW,MF",21.0,8,3,290.0,3.2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.31,0.31,0.0,0.31,Matches,2015,brasileirao,24,2015 Sport Recife
+Oswaldo,br BRA,DF,22.0,3,2,187.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Magrão,br BRA,GK,37.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Wallace Lucas,br BRA,FW,17.0,2,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Vítor,br BRA,DF,32.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Matheus Galdezani,br BRA,MF,22.0,1,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Sport Recife
+Adryelson,br BRA,DF,16.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Alison Araçoiaba,br BRA,MF,16.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Luiz Carlos Oliveira de Bitencourt,br BRA,GK,26.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+James Dean,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Kelvenny,br BRA,FW,16.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Fabio Matos,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Henrique Mattos,br BRA,DF,24.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Ítalo Pica-Pau,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Willian,br BRA,MF,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Sport Recife
+Squad Total,,,26.5,38,418,3420.0,38.0,52.0,42.0,94.0,46.0,6.0,6.0,73.0,2.0,1.37,1.11,2.47,1.21,2.32,,2015,brasileirao,24,2015 Sport Recife
+Opponent Total,,,26.1,38,418,3420.0,38.0,34.0,24.0,58.0,31.0,3.0,3.0,94.0,7.0,0.89,0.63,1.53,0.82,1.45,,2015,brasileirao,24,2015 Sport Recife
+Ricardo Oliveira,br BRA,FW,34.0,32,31,2737.0,30.4,20.0,2.0,22.0,18.0,2.0,6.0,6.0,0.0,0.66,0.07,0.72,0.59,0.66,Matches,2015,brasileirao,24,2015 Santos
+Lucas Lima,br BRA,MF,24.0,31,31,2697.0,30.0,4.0,6.0,10.0,3.0,1.0,1.0,6.0,0.0,0.13,0.2,0.33,0.1,0.3,Matches,2015,brasileirao,24,2015 Santos
+David Braz,br BRA,DF,27.0,29,29,2588.0,28.8,2.0,1.0,3.0,2.0,0.0,0.0,8.0,2.0,0.07,0.03,0.1,0.07,0.1,Matches,2015,brasileirao,24,2015 Santos
+Victor Ferraz,br BRA,"DF,MF",27.0,29,29,2581.0,28.7,1.0,7.0,8.0,1.0,0.0,0.0,1.0,0.0,0.03,0.24,0.28,0.03,0.28,Matches,2015,brasileirao,24,2015 Santos
+Vanderlei,br BRA,GK,30.0,28,27,2475.0,27.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Gabriel Barbosa,br BRA,"FW,MF",18.0,31,27,2059.0,22.9,10.0,5.0,15.0,9.0,1.0,1.0,4.0,1.0,0.44,0.22,0.66,0.39,0.61,Matches,2015,brasileirao,24,2015 Santos
+Renato,br BRA,MF,35.0,25,25,2186.0,24.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Geuvânio,br BRA,"FW,MF",22.0,28,25,1969.0,21.9,6.0,2.0,8.0,6.0,0.0,0.0,5.0,1.0,0.27,0.09,0.37,0.27,0.37,Matches,2015,brasileirao,24,2015 Santos
+Thiago Maia,br BRA,MF,17.0,28,23,2008.0,22.3,2.0,0.0,2.0,2.0,0.0,0.0,5.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,2015,brasileirao,24,2015 Santos
+Zeca,br BRA,DF,20.0,22,22,1980.0,22.0,0.0,4.0,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.18,0.18,0.0,0.18,Matches,2015,brasileirao,24,2015 Santos
+Werley,br BRA,DF,26.0,23,22,1952.0,21.7,2.0,0.0,2.0,2.0,0.0,0.0,7.0,1.0,0.09,0.0,0.09,0.09,0.09,Matches,2015,brasileirao,24,2015 Santos
+Gustavo Henrique,br BRA,DF,21.0,20,19,1725.0,19.2,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Marquinhos Gabriel,br BRA,"FW,MF",24.0,25,17,1582.0,17.6,3.0,3.0,6.0,3.0,0.0,0.0,2.0,0.0,0.17,0.17,0.34,0.17,0.34,Matches,2015,brasileirao,24,2015 Santos
+Daniel Guedes,br BRA,DF,20.0,18,16,1316.0,14.6,0.0,3.0,3.0,0.0,0.0,0.0,7.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,2015,brasileirao,24,2015 Santos
+Vladimir,br BRA,GK,25.0,11,11,945.0,10.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Lucas Otávio,br BRA,MF,20.0,14,10,938.0,10.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Paulo Ricardo,br BRA,DF,20.0,11,9,791.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Chiquinho,br BRA,"DF,MF",25.0,10,8,755.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Rafael Longuine,br BRA,"FW,MF",24.0,12,6,639.0,7.1,2.0,1.0,3.0,2.0,0.0,0.0,2.0,1.0,0.28,0.14,0.42,0.28,0.42,Matches,2015,brasileirao,24,2015 Santos
+Nilson,br BRA,FW,23.0,13,5,545.0,6.1,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.17,0.17,0.33,0.17,0.33,Matches,2015,brasileirao,24,2015 Santos
+Leandrinho,br BRA,MF,21.0,6,4,361.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Robinho,br BRA,"FW,MF",31.0,4,4,354.0,3.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.51,0.25,0.76,0.51,0.76,Matches,2015,brasileirao,24,2015 Santos
+Cristian Ledesma,it ITA,MF,32.0,4,3,234.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Neto Berola,br BRA,"FW,MF",27.0,19,2,539.0,6.0,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,2015,brasileirao,24,2015 Santos
+Leandro,br BRA,"FW,MF",21.0,14,2,285.0,3.2,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.32,0.63,0.95,0.32,0.95,Matches,2015,brasileirao,24,2015 Santos
+Serginho,br BRA,"FW,MF",19.0,10,2,197.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Elano,br BRA,MF,33.0,5,2,129.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Edwin Valencia,co COL,"DF,MF",29.0,2,2,109.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Marquinhos,br BRA,MF,25.0,5,1,195.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Caju,br BRA,DF,19.0,4,1,157.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Léo Cittadini,br BRA,MF,20.0,6,1,151.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Leonardo José Aparecido Moura,br BRA,DF,28.0,3,1,109.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Alison,br BRA,MF,21.0,3,1,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Vitor Bueno,br BRA,"FW,MF",20.0,4,0,77.0,0.9,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,1.17,2.34,3.51,1.17,3.51,Matches,2015,brasileirao,24,2015 Santos
+Fernando Medeiros,br BRA,MF,18.0,1,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Cicinho,bg BUL,"DF,MF",26.0,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Santos
+Diego Cardoso,br BRA,FW,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Lucas Crispim,br BRA,"DF,MF",20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Diogo Vitor da Cruz,br BRA,FW,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Crystian,br BRA,DF,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Gabriel Gasparotto,br BRA,GK,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+João Paulo,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Wesley Pionteck Souza,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Lucas Veríssimo,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Santos
+Squad Total,,,25.5,38,418,3420.0,38.0,58.0,40.0,98.0,54.0,4.0,8.0,87.0,9.0,1.53,1.05,2.58,1.42,2.47,,2015,brasileirao,24,2015 Santos
+Opponent Total,,,26.5,38,418,3420.0,38.0,40.0,26.0,66.0,35.0,5.0,5.0,109.0,7.0,1.05,0.68,1.74,0.92,1.61,,2015,brasileirao,24,2015 Santos
+Fábio,br BRA,GK,34.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Manoel,br BRA,DF,24.0,36,36,3240.0,36.0,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,0.03,0.06,0.08,0.03,0.08,Matches,2015,brasileirao,24,2015 Cruzeiro
+Henrique Pacheco Lima,br BRA,MF,29.0,31,31,2613.0,29.0,1.0,0.0,1.0,1.0,0.0,0.0,7.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,2015,brasileirao,24,2015 Cruzeiro
+Willians,br BRA,MF,29.0,29,29,2502.0,27.8,2.0,2.0,4.0,1.0,1.0,1.0,14.0,2.0,0.07,0.07,0.14,0.04,0.11,Matches,2015,brasileirao,24,2015 Cruzeiro
+Willian,br BRA,"FW,MF",28.0,30,27,2387.0,26.5,11.0,5.0,16.0,11.0,0.0,1.0,7.0,0.0,0.41,0.19,0.6,0.41,0.6,Matches,2015,brasileirao,24,2015 Cruzeiro
+Fabrício,br BRA,"DF,MF",28.0,25,23,2113.0,23.5,1.0,1.0,2.0,1.0,0.0,0.0,9.0,1.0,0.04,0.04,0.09,0.04,0.09,Matches,2015,brasileirao,24,2015 Cruzeiro
+Bruno Rodrigo,br BRA,DF,29.0,22,22,1853.0,20.6,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Ceará,br BRA,DF,34.0,19,18,1488.0,16.5,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,0.06,0.12,0.18,0.06,0.18,Matches,2015,brasileirao,24,2015 Cruzeiro
+Charles Fernando Basílio da Silva,br BRA,MF,29.0,25,17,1539.0,17.1,3.0,1.0,4.0,3.0,0.0,0.0,5.0,0.0,0.18,0.06,0.23,0.18,0.23,Matches,2015,brasileirao,24,2015 Cruzeiro
+Ariel Cabral,ar ARG,MF,27.0,18,17,1458.0,16.2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,2015,brasileirao,24,2015 Cruzeiro
+Paulo André,br BRA,DF,31.0,17,15,1428.0,15.9,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Giorgian De Arrascaeta,uy URU,"FW,MF",20.0,23,14,1364.0,15.2,4.0,1.0,5.0,4.0,0.0,0.0,3.0,0.0,0.26,0.07,0.33,0.26,0.33,Matches,2015,brasileirao,24,2015 Cruzeiro
+Alisson,br BRA,"FW,MF",21.0,17,13,1181.0,13.1,3.0,3.0,6.0,3.0,0.0,0.0,0.0,0.0,0.23,0.23,0.46,0.23,0.46,Matches,2015,brasileirao,24,2015 Cruzeiro
+Marquinhos,br BRA,"DF,FW",25.0,23,13,1134.0,12.6,1.0,5.0,6.0,1.0,0.0,0.0,0.0,0.0,0.08,0.4,0.48,0.08,0.48,Matches,2015,brasileirao,24,2015 Cruzeiro
+Mayke,br BRA,"DF,MF",22.0,17,13,1118.0,12.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Leandro Damião,br BRA,FW,25.0,23,12,1177.0,13.1,4.0,2.0,6.0,4.0,0.0,0.0,3.0,0.0,0.31,0.15,0.46,0.31,0.46,Matches,2015,brasileirao,24,2015 Cruzeiro
+Marcos Vinícius,br BRA,MF,20.0,20,12,1069.0,11.9,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,0.25,0.08,0.34,0.25,0.34,Matches,2015,brasileirao,24,2015 Cruzeiro
+Pará,br BRA,DF,19.0,11,11,939.0,10.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Cruzeiro
+Allano,br BRA,"FW,MF",19.0,16,11,915.0,10.2,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Cruzeiro
+Marinho,br BRA,"FW,MF",24.0,12,8,711.0,7.9,1.0,0.0,1.0,1.0,0.0,1.0,4.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,2015,brasileirao,24,2015 Cruzeiro
+Vinícius Araújo,br BRA,FW,21.0,12,8,566.0,6.3,2.0,1.0,3.0,2.0,0.0,0.0,2.0,0.0,0.32,0.16,0.48,0.32,0.48,Matches,2015,brasileirao,24,2015 Cruzeiro
+Eugenio Mena,cl CHI,"DF,MF",26.0,6,6,482.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Fabiano Leismann,br BRA,DF,23.0,12,4,550.0,6.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,2015,brasileirao,24,2015 Cruzeiro
+Gabriel Xavier,br BRA,"FW,MF",21.0,12,4,502.0,5.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,2015,brasileirao,24,2015 Cruzeiro
+Diederrick Joel,cm CMR,FW,21.0,11,4,440.0,4.9,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,2015,brasileirao,24,2015 Cruzeiro
+Léo,br BRA,DF,27.0,5,4,379.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Henrique Dourado,br BRA,FW,25.0,5,3,272.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Rafael Pires,br BRA,GK,25.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Willian Farias,br BRA,MF,25.0,3,2,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Eurico,br BRA,MF,20.0,3,1,174.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Douglas Grolli,br BRA,DF,25.0,2,1,135.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Bruno Ramires,br BRA,"DF,MF",20.0,3,1,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Neílton,br BRA,"FW,MF",20.0,1,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Júlio Baptista,br BRA,"FW,MF",33.0,2,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Uillian Correia,br BRA,MF,25.0,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Judivan,br BRA,"FW,MF",19.0,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Duvier Riascos,co COL,FW,28.0,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Cruzeiro
+Dedé,br BRA,DF,26.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Cruzeiro
+Elisson,br BRA,GK,27.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Cruzeiro
+Alex Flávio Santos Luz,br BRA,DF,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Cruzeiro
+Felipe Seymour,cl CHI,MF,27.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Cruzeiro
+Bruno Viana,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Cruzeiro
+Squad Total,,,27.1,38,418,3420.0,38.0,41.0,29.0,70.0,40.0,1.0,3.0,96.0,5.0,1.08,0.76,1.84,1.05,1.82,,2015,brasileirao,24,2015 Cruzeiro
+Opponent Total,,,26.1,38,418,3420.0,38.0,35.0,24.0,59.0,34.0,1.0,1.0,93.0,4.0,0.92,0.63,1.55,0.89,1.53,,2015,brasileirao,24,2015 Cruzeiro
+Fernando Prass,br BRA,GK,36.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Vitor Hugo,br BRA,"DF,MF",23.0,30,29,2584.0,28.7,4.0,1.0,5.0,4.0,0.0,0.0,3.0,0.0,0.14,0.03,0.17,0.14,0.17,Matches,2015,brasileirao,24,2015 Palmeiras
+Rafael Marques,br BRA,FW,31.0,32,28,2379.0,26.4,7.0,3.0,10.0,7.0,0.0,0.0,0.0,0.0,0.26,0.11,0.38,0.26,0.38,Matches,2015,brasileirao,24,2015 Palmeiras
+Lucas Marques,br BRA,DF,26.0,28,28,2373.0,26.4,2.0,3.0,5.0,2.0,0.0,0.0,10.0,0.0,0.08,0.11,0.19,0.08,0.19,Matches,2015,brasileirao,24,2015 Palmeiras
+Egídio Pereira Júnior,br BRA,DF,28.0,30,28,2313.0,25.7,1.0,5.0,6.0,1.0,0.0,0.0,9.0,0.0,0.04,0.19,0.23,0.04,0.23,Matches,2015,brasileirao,24,2015 Palmeiras
+Dudu,br BRA,"FW,MF",23.0,28,26,2230.0,24.8,10.0,8.0,18.0,10.0,0.0,0.0,6.0,0.0,0.4,0.32,0.73,0.4,0.73,Matches,2015,brasileirao,24,2015 Palmeiras
+Robinho,br BRA,MF,27.0,25,23,1959.0,21.8,3.0,5.0,8.0,3.0,0.0,0.0,4.0,1.0,0.14,0.23,0.37,0.14,0.37,Matches,2015,brasileirao,24,2015 Palmeiras
+Zé Roberto,br BRA,"DF,MF",40.0,26,22,1956.0,21.7,2.0,4.0,6.0,1.0,1.0,1.0,1.0,0.0,0.09,0.18,0.28,0.05,0.23,Matches,2015,brasileirao,24,2015 Palmeiras
+Arouca,br BRA,"DF,MF",28.0,22,21,1734.0,19.3,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,2015,brasileirao,24,2015 Palmeiras
+Victor Ramos Ferreira,br BRA,DF,25.0,17,17,1529.0,17.0,2.0,1.0,3.0,2.0,0.0,0.0,6.0,1.0,0.12,0.06,0.18,0.12,0.18,Matches,2015,brasileirao,24,2015 Palmeiras
+Jackson de Souza,br BRA,DF,24.0,17,16,1438.0,16.0,3.0,0.0,3.0,3.0,0.0,0.0,5.0,1.0,0.19,0.0,0.19,0.19,0.19,Matches,2015,brasileirao,24,2015 Palmeiras
+Gabriel,br BRA,MF,22.0,16,16,1306.0,14.5,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.07,0.07,0.14,0.07,0.14,Matches,2015,brasileirao,24,2015 Palmeiras
+Gabriel Jesus,br BRA,"FW,MF",17.0,20,12,1304.0,14.5,4.0,3.0,7.0,4.0,0.0,0.0,5.0,0.0,0.28,0.21,0.48,0.28,0.48,Matches,2015,brasileirao,24,2015 Palmeiras
+Leandro Almeida Silva,br BRA,DF,27.0,13,12,1081.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Thiago dos Santos,br BRA,"DF,MF",25.0,13,12,1072.0,11.9,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Alecsandro,br BRA,FW,33.0,18,11,1000.0,11.1,2.0,2.0,4.0,2.0,0.0,0.0,2.0,0.0,0.18,0.18,0.36,0.18,0.36,Matches,2015,brasileirao,24,2015 Palmeiras
+Leandro Pereira,br BRA,FW,23.0,11,11,744.0,8.3,6.0,0.0,6.0,6.0,0.0,0.0,3.0,0.0,0.73,0.0,0.73,0.73,0.73,Matches,2015,brasileirao,24,2015 Palmeiras
+Amaral,br BRA,MF,28.0,15,9,833.0,9.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+João Pedro,br BRA,DF,18.0,11,7,790.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Lucas Barrios,py PAR,FW,30.0,13,7,652.0,7.2,5.0,1.0,6.0,5.0,0.0,0.0,0.0,0.0,0.69,0.14,0.83,0.69,0.83,Matches,2015,brasileirao,24,2015 Palmeiras
+Andrei Girotto,br BRA,"DF,MF",22.0,12,7,545.0,6.1,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,2015,brasileirao,24,2015 Palmeiras
+Kelvin,br BRA,"FW,MF",21.0,16,6,818.0,9.1,0.0,4.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.44,0.44,0.0,0.44,Matches,2015,brasileirao,24,2015 Palmeiras
+Jonatan Cristaldo,ar ARG,FW,25.0,22,5,788.0,8.8,6.0,1.0,7.0,6.0,0.0,0.0,0.0,1.0,0.69,0.11,0.8,0.69,0.8,Matches,2015,brasileirao,24,2015 Palmeiras
+Agustín Allione,ar ARG,MF,20.0,12,5,448.0,5.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,2015,brasileirao,24,2015 Palmeiras
+João Paulo,br BRA,DF,28.0,6,4,402.0,4.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.22,0.22,0.0,0.22,Matches,2015,brasileirao,24,2015 Palmeiras
+Matheus Sales,br BRA,MF,19.0,4,4,288.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Pablo Mouche,ar ARG,"FW,MF",27.0,5,4,272.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Jorge Valdivia,cl CHI,MF,31.0,4,3,284.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Nathan Cardoso,br BRA,DF,19.0,3,3,224.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Cleiton Xavier,br BRA,MF,31.0,10,2,307.0,3.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.29,0.0,0.29,Matches,2015,brasileirao,24,2015 Palmeiras
+Fábio Szymonek,br BRA,GK,24.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Lucas Taylor,br BRA,"DF,MF",19.0,3,1,162.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Ayrton Ganino,br BRA,DF,29.0,3,1,117.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Juninho,br BRA,MF,19.0,2,0,51.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Fernando Tobio,ar ARG,DF,25.0,1,0,43.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Alan Patrick,br BRA,MF,23.0,2,0,32.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Fellype Gabriel,br BRA,"FW,MF",29.0,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Jobson,br BRA,MF,19.0,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Leandro,br BRA,"FW,MF",21.0,2,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Palmeiras
+Francisco Arancibia,cl CHI,"FW,MF",18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Aranha,br BRA,GK,34.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Daniel,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Jailson,br BRA,GK,33.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Kauê,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Maikon Leite,br BRA,"FW,MF",26.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Victor Luis,br BRA,DF,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Ryder Matos,br BRA,"FW,MF",21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Julen Sandy,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Augusto Silva,br BRA,DF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Vinicius Silvestre,br BRA,GK,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Wellington,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Palmeiras
+Squad Total,,,27.6,38,418,3420.0,38.0,59.0,46.0,105.0,58.0,1.0,1.0,92.0,5.0,1.55,1.21,2.76,1.53,2.74,,2015,brasileirao,24,2015 Palmeiras
+Opponent Total,,,26.5,38,418,3420.0,38.0,49.0,36.0,85.0,45.0,4.0,6.0,115.0,5.0,1.29,0.95,2.24,1.18,2.13,,2015,brasileirao,24,2015 Palmeiras
+Wéverton,br BRA,GK,27.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Eduardo,br BRA,DF,28.0,34,33,2820.0,31.3,0.0,4.0,4.0,0.0,0.0,0.0,7.0,0.0,0.0,0.13,0.13,0.0,0.13,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Otávio,br BRA,MF,20.0,32,32,2826.0,31.4,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Kadu,br BRA,"DF,MF",28.0,31,31,2672.0,29.7,1.0,1.0,2.0,1.0,0.0,0.0,9.0,0.0,0.03,0.03,0.07,0.03,0.07,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Walter,br BRA,FW,25.0,32,27,2543.0,28.3,9.0,4.0,13.0,7.0,2.0,2.0,4.0,2.0,0.32,0.14,0.46,0.25,0.39,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Nikão,br BRA,"FW,MF",22.0,31,27,2214.0,24.6,4.0,7.0,11.0,3.0,1.0,1.0,6.0,0.0,0.16,0.28,0.45,0.12,0.41,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Hernani,br BRA,MF,20.0,30,25,2231.0,24.8,3.0,0.0,3.0,3.0,0.0,0.0,8.0,1.0,0.12,0.0,0.12,0.12,0.12,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Marcos Guilherme,br BRA,"FW,MF",19.0,26,25,2091.0,23.2,4.0,4.0,8.0,4.0,0.0,0.0,4.0,2.0,0.17,0.17,0.34,0.17,0.34,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Christian Vilches,cl CHI,DF,31.0,21,21,1890.0,21.0,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Sidcley,br BRA,"DF,MF",21.0,24,21,1833.0,20.4,2.0,2.0,4.0,2.0,0.0,0.0,5.0,0.0,0.1,0.1,0.2,0.1,0.2,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Gustavo,br BRA,DF,32.0,14,13,1242.0,13.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Natanael,br BRA,"DF,MF",24.0,13,12,1128.0,12.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Deivid,br BRA,MF,26.0,13,12,939.0,10.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Bruno Mota,br BRA,MF,19.0,13,11,835.0,9.3,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Ytalo,br BRA,"FW,MF",27.0,16,9,773.0,8.6,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.12,0.12,0.23,0.12,0.23,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Roberto Heuchayer,br BRA,"DF,MF",24.0,10,9,719.0,8.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Douglas Coutinho,br BRA,"FW,MF",20.0,13,8,706.0,7.8,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.25,0.13,0.38,0.25,0.38,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Crysan,br BRA,"FW,MF",18.0,14,8,662.0,7.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Daniel Alejandro Hernández,co COL,MF,24.0,19,7,955.0,10.6,0.0,3.0,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.28,0.28,0.0,0.28,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Wellington,br BRA,DF,23.0,7,6,564.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Ewandro,br BRA,"FW,MF",18.0,14,6,536.0,6.0,5.0,0.0,5.0,5.0,0.0,0.0,2.0,0.0,0.84,0.0,0.84,0.84,0.84,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Fernando Barrientos,ar ARG,MF,23.0,8,5,544.0,6.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Jadson,br BRA,MF,21.0,10,5,495.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Cléo,br BRA,FW,29.0,8,5,444.0,4.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Cleberson,br BRA,DF,22.0,4,4,360.0,4.0,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.75,0.0,0.75,0.75,0.75,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Felipe Silva,br BRA,MF,24.0,6,4,324.0,3.6,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.28,0.0,0.28,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Matheus Ribeiro,br BRA,DF,21.0,5,3,303.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Bruno Pereirinha,pt POR,"DF,MF",26.0,7,3,241.0,2.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.37,0.0,0.37,0.37,0.37,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Giovanni Piccolomo,br BRA,"FW,MF",20.0,8,2,267.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Dellatorre,br BRA,FW,22.0,9,1,210.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Ricardo Silva,br BRA,DF,22.0,4,1,166.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Guilherme Arana,br BRA,"DF,MF",17.0,3,1,137.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Rodolfo de Melo,br BRA,GK,23.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Santos,br BRA,GK,24.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Alan Ruschel,br BRA,"DF,MF",25.0,1,1,89.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Marco Damasceno,br BRA,MF,18.0,2,1,78.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Alessandro,br BRA,DF,37.0,1,1,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Edigar Junio,br BRA,FW,23.0,5,0,139.0,1.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.65,0.0,0.65,0.65,0.65,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Bady,br BRA,MF,25.0,2,0,59.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Caíque,br BRA,FW,21.0,1,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Paulinho Dias,br BRA,MF,26.0,2,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+André Luis,br BRA,"FW,MF",17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Bruno Nascimento,br BRA,"FW,MF",17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+João Pedro Heinen,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Wagner da Silva,br BRA,DF,25.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Taiberson,br BRA,FW,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Athletico Paranaense
+Squad Total,,,24.6,38,418,3420.0,38.0,42.0,31.0,73.0,38.0,4.0,4.0,91.0,7.0,1.11,0.82,1.92,1.0,1.82,,2015,brasileirao,24,2015 Athletico Paranaense
+Opponent Total,,,26.2,38,418,3420.0,38.0,48.0,35.0,83.0,46.0,2.0,5.0,87.0,9.0,1.26,0.92,2.18,1.21,2.13,,2015,brasileirao,24,2015 Athletico Paranaense
+Marcelo Lomba,br BRA,GK,28.0,37,37,3330.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Rodinei,br BRA,DF,23.0,35,35,3147.0,35.0,0.0,4.0,4.0,0.0,0.0,0.0,6.0,1.0,0.0,0.11,0.11,0.0,0.11,Matches,2015,brasileirao,24,2015 Ponte Preta
+Fernando Bob,br BRA,MF,27.0,34,34,3026.0,33.6,3.0,2.0,5.0,0.0,3.0,3.0,11.0,0.0,0.09,0.06,0.15,0.0,0.06,Matches,2015,brasileirao,24,2015 Ponte Preta
+Gilson,br BRA,DF,28.0,32,32,2873.0,31.9,0.0,2.0,2.0,0.0,0.0,0.0,11.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,2015,brasileirao,24,2015 Ponte Preta
+Felipe Azevedo,br BRA,"FW,MF",28.0,31,29,2203.0,24.5,4.0,3.0,7.0,4.0,0.0,0.0,5.0,0.0,0.16,0.12,0.29,0.16,0.29,Matches,2015,brasileirao,24,2015 Ponte Preta
+Renato Chaves,br BRA,DF,24.0,29,28,2565.0,28.5,2.0,1.0,3.0,2.0,0.0,0.0,8.0,0.0,0.07,0.04,0.11,0.07,0.11,Matches,2015,brasileirao,24,2015 Ponte Preta
+Biro Biro,br BRA,FW,20.0,29,28,2451.0,27.2,7.0,5.0,12.0,7.0,0.0,0.0,9.0,1.0,0.26,0.18,0.44,0.26,0.44,Matches,2015,brasileirao,24,2015 Ponte Preta
+Pablo,br BRA,DF,23.0,18,18,1620.0,18.0,1.0,0.0,1.0,1.0,0.0,0.0,7.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,2015,brasileirao,24,2015 Ponte Preta
+Josimar,br BRA,MF,28.0,19,18,1451.0,16.1,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Diego Oliveira,br BRA,FW,24.0,30,17,1687.0,18.7,3.0,1.0,4.0,3.0,0.0,0.0,7.0,1.0,0.16,0.05,0.21,0.16,0.21,Matches,2015,brasileirao,24,2015 Ponte Preta
+Elton,br BRA,MF,24.0,20,17,1539.0,17.1,1.0,0.0,1.0,1.0,0.0,0.0,4.0,1.0,0.06,0.0,0.06,0.06,0.06,Matches,2015,brasileirao,24,2015 Ponte Preta
+Humberlito Borges,br BRA,FW,34.0,28,17,1400.0,15.6,5.0,1.0,6.0,5.0,0.0,1.0,3.0,0.0,0.32,0.06,0.39,0.32,0.39,Matches,2015,brasileirao,24,2015 Ponte Preta
+Ferron,br BRA,DF,29.0,15,15,1350.0,15.0,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,2015,brasileirao,24,2015 Ponte Preta
+Renato Cajá,br BRA,MF,30.0,12,12,983.0,10.9,5.0,2.0,7.0,5.0,0.0,0.0,4.0,0.0,0.46,0.18,0.64,0.46,0.64,Matches,2015,brasileirao,24,2015 Ponte Preta
+Cristian,br BRA,MF,35.0,13,12,898.0,10.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Ponte Preta
+Juninho,br BRA,MF,27.0,21,11,1157.0,12.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Tiago Alves,br BRA,DF,30.0,12,11,868.0,9.6,2.0,0.0,2.0,2.0,0.0,0.0,4.0,1.0,0.21,0.0,0.21,0.21,0.21,Matches,2015,brasileirao,24,2015 Ponte Preta
+Bady,br BRA,MF,25.0,11,8,558.0,6.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,2015,brasileirao,24,2015 Ponte Preta
+Cesinha,br BRA,"FW,MF",25.0,17,6,686.0,7.6,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.13,0.13,0.0,0.13,Matches,2015,brasileirao,24,2015 Ponte Preta
+Alexandro,br BRA,FW,28.0,12,6,676.0,7.5,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.4,0.0,0.4,0.4,0.4,Matches,2015,brasileirao,24,2015 Ponte Preta
+Clayson,br BRA,"FW,MF",19.0,12,5,505.0,5.6,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.36,0.36,0.0,0.36,Matches,2015,brasileirao,24,2015 Ponte Preta
+Fábio Ferreira,br BRA,DF,30.0,5,3,283.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Felipe Silva,br BRA,MF,24.0,5,3,247.0,2.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.36,0.36,0.0,0.36,Matches,2015,brasileirao,24,2015 Ponte Preta
+Jeferson,br BRA,"DF,FW",18.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Vitor Xavier,br BRA,MF,20.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Rildo,br BRA,"FW,MF",25.0,2,2,143.0,1.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.63,0.0,0.63,0.63,0.63,Matches,2015,brasileirao,24,2015 Ponte Preta
+Paulinho,br BRA,MF,25.0,4,2,124.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Diego Ivo,br BRA,DF,25.0,3,1,217.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Leandrinho,br BRA,MF,16.0,8,1,200.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Roni,br BRA,MF,24.0,8,1,176.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Jerffeson de Recife,br BRA,DF,21.0,3,1,145.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Adrianinho,at AUT,MF,34.0,4,1,114.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+João Carlos,br BRA,GK,26.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+João Paulo,br BRA,DF,24.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Marcos Serrato,br BRA,MF,20.0,1,1,88.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Keno,br BRA,"FW,MF",25.0,12,0,265.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Léo Costa,br BRA,MF,28.0,2,0,32.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Ponte Preta
+Giovanny,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Ponte Preta
+Matheus Inacio,br BRA,GK,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Ponte Preta
+Indio,br BRA,MF,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Ponte Preta
+Ivan,br BRA,GK,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Ponte Preta
+Ravanelli,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Ponte Preta
+Guilherme Silva Nogueira,br BRA,GK,15.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Ponte Preta
+Squad Total,,,26.5,38,418,3420.0,38.0,39.0,26.0,65.0,36.0,3.0,4.0,107.0,5.0,1.03,0.68,1.71,0.95,1.63,,2015,brasileirao,24,2015 Ponte Preta
+Opponent Total,,,26.4,38,418,3420.0,38.0,40.0,30.0,70.0,38.0,2.0,3.0,95.0,3.0,1.05,0.79,1.84,1.0,1.79,,2015,brasileirao,24,2015 Ponte Preta
+Éverton,br BRA,MF,26.0,33,32,2695.0,29.9,4.0,2.0,6.0,4.0,0.0,0.0,9.0,1.0,0.13,0.07,0.2,0.13,0.2,Matches,2015,brasileirao,24,2015 Flamengo
+Márcio Araújo,br BRA,"DF,MF",30.0,33,30,2743.0,30.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Héctor Canteros,ar ARG,MF,25.0,34,30,2540.0,28.2,2.0,4.0,6.0,2.0,0.0,0.0,9.0,1.0,0.07,0.14,0.21,0.07,0.21,Matches,2015,brasileirao,24,2015 Flamengo
+Wallace Reis,br BRA,DF,27.0,28,28,2425.0,26.9,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,0.04,0.04,0.07,0.04,0.07,Matches,2015,brasileirao,24,2015 Flamengo
+Pará,br BRA,"DF,MF",28.0,29,28,2388.0,26.5,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.04,0.08,0.11,0.04,0.11,Matches,2015,brasileirao,24,2015 Flamengo
+Paulo Victor Vidotti,br BRA,GK,28.0,24,24,2160.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Alan Patrick,br BRA,MF,23.0,26,22,2028.0,22.5,7.0,5.0,12.0,7.0,0.0,1.0,5.0,0.0,0.31,0.22,0.53,0.31,0.53,Matches,2015,brasileirao,24,2015 Flamengo
+Jorge,br BRA,DF,18.0,22,22,1964.0,21.8,0.0,1.0,1.0,0.0,0.0,0.0,8.0,1.0,0.0,0.05,0.05,0.0,0.05,Matches,2015,brasileirao,24,2015 Flamengo
+Emerson Sheik,qa QAT,FW,36.0,22,22,1826.0,20.3,5.0,1.0,6.0,5.0,0.0,0.0,6.0,0.0,0.25,0.05,0.3,0.25,0.3,Matches,2015,brasileirao,24,2015 Flamengo
+Samir Santos,br BRA,DF,20.0,20,19,1625.0,18.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+César,br BRA,DF,22.0,20,18,1692.0,18.8,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,2015,brasileirao,24,2015 Flamengo
+Jonas,br BRA,MF,23.0,19,15,1153.0,12.8,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+César,br BRA,GK,23.0,14,14,1260.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Paolo Guerrero,pe PER,FW,31.0,15,14,1241.0,13.8,3.0,4.0,7.0,3.0,0.0,0.0,8.0,1.0,0.22,0.29,0.51,0.22,0.51,Matches,2015,brasileirao,24,2015 Flamengo
+Gabriel,br BRA,"FW,MF",25.0,24,14,1217.0,13.5,4.0,1.0,5.0,4.0,0.0,0.0,0.0,0.0,0.3,0.07,0.37,0.3,0.37,Matches,2015,brasileirao,24,2015 Flamengo
+Paulinho,br BRA,"FW,MF",26.0,25,11,1218.0,13.5,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,2015,brasileirao,24,2015 Flamengo
+Marcelo Cirino,br BRA,"FW,MF",23.0,21,10,1086.0,12.1,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,0.08,0.17,0.25,0.08,0.25,Matches,2015,brasileirao,24,2015 Flamengo
+Kayke Rodrigues,br BRA,FW,26.0,16,10,974.0,10.8,6.0,3.0,9.0,6.0,0.0,0.0,2.0,0.0,0.55,0.28,0.83,0.55,0.83,Matches,2015,brasileirao,24,2015 Flamengo
+Ayrton Ganino,br BRA,DF,29.0,13,9,882.0,9.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,2015,brasileirao,24,2015 Flamengo
+Marcelo,br BRA,DF,23.0,11,8,822.0,9.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Luiz Antônio,br BRA,"DF,MF",23.0,14,6,743.0,8.3,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.12,0.12,0.24,0.12,0.24,Matches,2015,brasileirao,24,2015 Flamengo
+Víctor Cáceres,py PAR,"DF,MF",29.0,5,5,412.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Alecsandro,br BRA,FW,33.0,4,4,360.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.25,0.25,0.5,0.25,0.5,Matches,2015,brasileirao,24,2015 Flamengo
+Eduardo da Silva,hr CRO,FW,31.0,9,4,317.0,3.5,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.57,0.28,0.85,0.57,0.85,Matches,2015,brasileirao,24,2015 Flamengo
+Pablo Armero,co COL,"DF,MF",28.0,4,4,294.0,3.3,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.61,0.0,0.61,Matches,2015,brasileirao,24,2015 Flamengo
+Anderson Pico,br BRA,DF,26.0,4,4,262.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Bressan,br BRA,DF,22.0,4,3,277.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Jajá,br BRA,MF,19.0,5,3,193.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Ederson,br BRA,MF,29.0,8,2,289.0,3.2,3.0,1.0,4.0,3.0,0.0,0.0,0.0,0.0,0.93,0.31,1.25,0.93,1.25,Matches,2015,brasileirao,24,2015 Flamengo
+Almir Lopes de Luna,br BRA,"FW,MF",32.0,7,2,174.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Arthur Maia,br BRA,MF,22.0,5,1,171.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Thiago Santos,br BRA,FW,19.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Lucas Mugni,ar ARG,MF,23.0,1,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Rodrigo Frauches,br BRA,DF,22.0,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Matheus Sávio,br BRA,MF,17.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Ronaldo,br BRA,MF,18.0,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Flamengo
+Douglas Baggio,br BRA,"FW,MF",19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Flamengo
+Daniel,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Flamengo
+Rafael Dumas,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Flamengo
+Mosquito,br BRA,GK,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Flamengo
+Thallyson,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Flamengo
+Squad Total,,,26.4,38,418,3420.0,38.0,45.0,33.0,78.0,45.0,0.0,1.0,94.0,6.0,1.18,0.87,2.05,1.18,2.05,,2015,brasileirao,24,2015 Flamengo
+Opponent Total,,,26.4,38,418,3420.0,38.0,49.0,32.0,81.0,43.0,6.0,6.0,98.0,5.0,1.29,0.84,2.13,1.13,1.97,,2015,brasileirao,24,2015 Flamengo
+Diego Cavalieri,br BRA,GK,32.0,35,35,3150.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Jean,br BRA,"DF,MF",28.0,32,32,2843.0,31.6,4.0,1.0,5.0,2.0,2.0,2.0,4.0,0.0,0.13,0.03,0.16,0.06,0.09,Matches,2015,brasileirao,24,2015 Fluminense
+Gum,br BRA,DF,29.0,29,29,2573.0,28.6,1.0,1.0,2.0,1.0,0.0,0.0,7.0,2.0,0.03,0.03,0.07,0.03,0.07,Matches,2015,brasileirao,24,2015 Fluminense
+Wellington Silva,br BRA,DF,26.0,28,25,2264.0,25.2,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,0.04,0.04,0.08,0.04,0.08,Matches,2015,brasileirao,24,2015 Fluminense
+Edson,br BRA,"DF,MF",23.0,26,25,2237.0,24.9,2.0,0.0,2.0,2.0,0.0,0.0,9.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,2015,brasileirao,24,2015 Fluminense
+Gerson,br BRA,"FW,MF",17.0,29,25,1826.0,20.3,1.0,2.0,3.0,1.0,0.0,0.0,6.0,1.0,0.05,0.1,0.15,0.05,0.15,Matches,2015,brasileirao,24,2015 Fluminense
+Gustavo Scarpa,br BRA,"DF,FW",21.0,28,24,2181.0,24.2,5.0,3.0,8.0,5.0,0.0,0.0,3.0,0.0,0.21,0.12,0.33,0.21,0.33,Matches,2015,brasileirao,24,2015 Fluminense
+Marcos Júnior,br BRA,"FW,MF",22.0,30,23,1919.0,21.3,5.0,1.0,6.0,5.0,0.0,0.0,13.0,1.0,0.23,0.05,0.28,0.23,0.28,Matches,2015,brasileirao,24,2015 Fluminense
+Fred,br BRA,FW,31.0,23,23,1868.0,20.8,9.0,5.0,14.0,7.0,2.0,3.0,5.0,0.0,0.43,0.24,0.67,0.34,0.58,Matches,2015,brasileirao,24,2015 Fluminense
+Marlon,br BRA,"DF,MF",19.0,24,22,1951.0,21.7,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,2015,brasileirao,24,2015 Fluminense
+Cícero Santos,br BRA,MF,30.0,19,18,1649.0,18.3,3.0,1.0,4.0,2.0,1.0,1.0,5.0,0.0,0.16,0.05,0.22,0.11,0.16,Matches,2015,brasileirao,24,2015 Fluminense
+Antônio Carlos,br BRA,DF,31.0,17,16,1405.0,15.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Pierre,br BRA,MF,33.0,18,15,1133.0,12.6,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Giovanni Palmieri,br BRA,DF,25.0,12,12,969.0,10.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Vinícius,br BRA,"FW,MF",23.0,20,11,949.0,10.5,3.0,2.0,5.0,3.0,0.0,0.0,3.0,0.0,0.28,0.19,0.47,0.28,0.47,Matches,2015,brasileirao,24,2015 Fluminense
+Osvaldo,br BRA,"FW,MF",27.0,20,10,856.0,9.5,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 Fluminense
+Renato,br BRA,"DF,FW",25.0,12,9,798.0,8.9,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.11,0.11,0.0,0.11,Matches,2015,brasileirao,24,2015 Fluminense
+Wágner,br BRA,MF,30.0,9,7,657.0,7.3,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,2015,brasileirao,24,2015 Fluminense
+Magno Alves,br BRA,FW,39.0,18,6,700.0,7.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.13,0.13,0.0,0.13,Matches,2015,brasileirao,24,2015 Fluminense
+Wellington Paulista,br BRA,FW,30.0,17,6,687.0,7.6,1.0,3.0,4.0,1.0,0.0,0.0,5.0,0.0,0.13,0.39,0.52,0.13,0.52,Matches,2015,brasileirao,24,2015 Fluminense
+Henrique,br BRA,DF,31.0,8,6,617.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Ronaldinho,br BRA,"FW,MF",34.0,7,6,465.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Léo Pelé,br BRA,DF,18.0,6,5,449.0,5.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,2015,brasileirao,24,2015 Fluminense
+Breno Lopes,br BRA,DF,24.0,5,5,370.0,4.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.24,0.24,0.0,0.24,Matches,2015,brasileirao,24,2015 Fluminense
+Higor,br BRA,MF,21.0,8,4,400.0,4.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.23,0.23,0.0,0.23,Matches,2015,brasileirao,24,2015 Fluminense
+Victor Oliveira,br BRA,DF,20.0,6,4,287.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Douglas,br BRA,MF,18.0,3,3,240.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Ayrton Lucas,br BRA,"DF,MF",17.0,4,3,235.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Michael,br BRA,FW,21.0,5,2,248.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Jonathan Moreira,br BRA,DF,28.0,3,2,205.0,2.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.44,0.44,0.0,0.44,Matches,2015,brasileirao,24,2015 Fluminense
+Júlio César,br BRA,GK,28.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Ygor Nogueira,br BRA,DF,19.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Rafinha,br BRA,MF,21.0,3,1,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Artur Jesus Vieira,br BRA,DF,24.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Kenedy,br BRA,"FW,MF",18.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Kléver,br BRA,GK,25.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Lucas Gomes,br BRA,FW,24.0,15,0,361.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,0.25,0.25,0.5,0.25,0.5,Matches,2015,brasileirao,24,2015 Fluminense
+Robert,br BRA,MF,18.0,4,0,156.0,1.7,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.58,0.0,0.58,0.58,0.58,Matches,2015,brasileirao,24,2015 Fluminense
+Marlone,br BRA,MF,22.0,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Fluminense
+Luiz Fernando,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Fluminense
+Alejandro Martinuccio,ar ARG,"FW,MF",27.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Fluminense
+Matheus,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Fluminense
+Willian,br BRA,MF,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Fluminense
+Squad Total,,,26.6,38,421,3420.0,38.0,39.0,28.0,67.0,34.0,5.0,6.0,104.0,10.0,1.03,0.74,1.76,0.89,1.63,,2015,brasileirao,24,2015 Fluminense
+Opponent Total,,,26.6,38,421,3420.0,38.0,48.0,33.0,81.0,44.0,4.0,5.0,109.0,5.0,1.26,0.87,2.13,1.16,2.03,,2015,brasileirao,24,2015 Fluminense
+Dener Assunção Braz,br BRA,DF,23.0,35,35,3150.0,35.0,0.0,2.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,2015,brasileirao,24,2015 Chapecoense
+Apodi,br BRA,"DF,MF",28.0,34,34,3003.0,33.4,4.0,1.0,5.0,4.0,0.0,0.0,8.0,1.0,0.12,0.03,0.15,0.12,0.15,Matches,2015,brasileirao,24,2015 Chapecoense
+Danilo,br BRA,GK,29.0,33,33,2970.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Elicarlos,br BRA,MF,29.0,30,30,2454.0,27.3,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,2015,brasileirao,24,2015 Chapecoense
+Bruno Silva,br BRA,MF,28.0,31,28,2323.0,25.8,1.0,0.0,1.0,1.0,0.0,0.0,8.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,2015,brasileirao,24,2015 Chapecoense
+Ananias,br BRA,MF,26.0,30,25,1933.0,21.5,3.0,1.0,4.0,3.0,0.0,0.0,4.0,0.0,0.14,0.05,0.19,0.14,0.19,Matches,2015,brasileirao,24,2015 Chapecoense
+Fernando Camilo Farias,br BRA,"FW,MF",28.0,31,23,2181.0,24.2,3.0,3.0,6.0,3.0,0.0,0.0,1.0,0.0,0.12,0.12,0.25,0.12,0.25,Matches,2015,brasileirao,24,2015 Chapecoense
+Rafael Lima,br BRA,DF,28.0,24,23,2104.0,23.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 Chapecoense
+Neto,br BRA,DF,29.0,23,22,1971.0,21.9,3.0,1.0,4.0,3.0,0.0,0.0,6.0,0.0,0.14,0.05,0.18,0.14,0.18,Matches,2015,brasileirao,24,2015 Chapecoense
+Cléber Santana,br BRA,MF,33.0,26,21,2033.0,22.6,1.0,4.0,5.0,1.0,0.0,0.0,6.0,0.0,0.04,0.18,0.22,0.04,0.22,Matches,2015,brasileirao,24,2015 Chapecoense
+Gil,br BRA,MF,27.0,23,19,1579.0,17.5,1.0,1.0,2.0,1.0,0.0,0.0,6.0,0.0,0.06,0.06,0.11,0.06,0.11,Matches,2015,brasileirao,24,2015 Chapecoense
+Vilson,br BRA,"DF,MF",26.0,18,18,1591.0,17.7,0.0,1.0,1.0,0.0,0.0,0.0,7.0,2.0,0.0,0.06,0.06,0.0,0.06,Matches,2015,brasileirao,24,2015 Chapecoense
+Bruno Rangel,br BRA,FW,33.0,19,15,1360.0,15.1,9.0,0.0,9.0,6.0,3.0,3.0,1.0,0.0,0.6,0.0,0.6,0.4,0.4,Matches,2015,brasileirao,24,2015 Chapecoense
+Thiego,br BRA,DF,28.0,13,13,1170.0,13.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,2015,brasileirao,24,2015 Chapecoense
+Tiago Luís,br BRA,"FW,MF",25.0,22,13,1068.0,11.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,2015,brasileirao,24,2015 Chapecoense
+Maranhão,br BRA,"FW,MF",24.0,24,9,1039.0,11.5,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.26,0.26,0.0,0.26,Matches,2015,brasileirao,24,2015 Chapecoense
+Túlio de Melo,br BRA,FW,30.0,13,8,788.0,8.8,5.0,1.0,6.0,4.0,1.0,1.0,3.0,0.0,0.57,0.11,0.69,0.46,0.57,Matches,2015,brasileirao,24,2015 Chapecoense
+William Barbio,br BRA,"FW,MF",22.0,12,8,710.0,7.9,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.13,0.13,0.0,0.13,Matches,2015,brasileirao,24,2015 Chapecoense
+Wagner,br BRA,MF,23.0,19,7,728.0,8.1,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,2015,brasileirao,24,2015 Chapecoense
+Hyoran,br BRA,MF,21.0,17,6,578.0,6.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Edmilson,br BRA,FW,32.0,7,6,572.0,6.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Roger,br BRA,FW,30.0,7,6,493.0,5.5,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.18,0.18,0.37,0.18,0.37,Matches,2015,brasileirao,24,2015 Chapecoense
+Nivaldo,br BRA,GK,40.0,5,4,411.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Mateus Caramelo,br BRA,DF,20.0,4,3,299.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Odair Souza,br BRA,MF,32.0,11,2,291.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Abuda,br BRA,MF,26.0,4,2,221.0,2.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.41,0.41,0.0,0.41,Matches,2015,brasileirao,24,2015 Chapecoense
+Tiago Costa,br BRA,DF,27.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Wanderson,br BRA,MF,34.0,6,1,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+João Afonso Crispim,br BRA,MF,19.0,3,1,110.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Sílvio,br BRA,GK,26.0,1,1,39.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Maylson,br BRA,MF,25.0,2,0,70.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Flavinho,br BRA,MF,31.0,1,0,26.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+Mailson,br BRA,MF,24.0,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Chapecoense
+João Paulo Azevedo Barbosa,br BRA,GK,33.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Chapecoense
+Richarlyson,br BRA,"DF,MF",32.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Chapecoense
+Squad Total,,,28.2,38,418,3420.0,38.0,34.0,23.0,57.0,30.0,4.0,4.0,87.0,3.0,0.89,0.61,1.5,0.79,1.39,,2015,brasileirao,24,2015 Chapecoense
+Opponent Total,,,26.4,38,418,3420.0,38.0,41.0,30.0,71.0,38.0,3.0,5.0,103.0,7.0,1.08,0.79,1.87,1.0,1.79,,2015,brasileirao,24,2015 Chapecoense
+João Paulo,br BRA,MF,29.0,32,31,2696.0,30.0,1.0,0.0,1.0,1.0,0.0,0.0,9.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,2015,brasileirao,24,2015 Coritiba
+Leandro Silva,br BRA,DF,28.0,28,28,2394.0,26.6,0.0,1.0,1.0,0.0,0.0,0.0,10.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 Coritiba
+Wilson,br BRA,GK,31.0,27,27,2430.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Lúcio Flávio,br BRA,MF,35.0,25,21,1781.0,19.8,0.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Coritiba
+Carlinhos,br BRA,DF,28.0,20,20,1758.0,19.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,2015,brasileirao,24,2015 Coritiba
+Henrique Almeida,br BRA,FW,23.0,20,20,1678.0,18.6,12.0,1.0,13.0,11.0,1.0,1.0,4.0,1.0,0.64,0.05,0.7,0.59,0.64,Matches,2015,brasileirao,24,2015 Coritiba
+Juninho,br BRA,DF,19.0,19,19,1686.0,18.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Rafhael Lucas,br BRA,FW,22.0,24,17,1483.0,16.5,2.0,2.0,4.0,2.0,0.0,0.0,2.0,0.0,0.12,0.12,0.24,0.12,0.24,Matches,2015,brasileirao,24,2015 Coritiba
+Walisson Maia,br BRA,DF,23.0,16,16,1408.0,15.6,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Thiago Galhardo,br BRA,"FW,MF",25.0,25,15,1503.0,16.7,1.0,2.0,3.0,1.0,0.0,0.0,7.0,0.0,0.06,0.12,0.18,0.06,0.18,Matches,2015,brasileirao,24,2015 Coritiba
+Ruy,br BRA,MF,26.0,18,15,1397.0,15.5,1.0,1.0,2.0,1.0,0.0,0.0,9.0,0.0,0.06,0.06,0.13,0.06,0.13,Matches,2015,brasileirao,24,2015 Coritiba
+Luccas Claro,br BRA,DF,23.0,16,14,1291.0,14.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Alan Santos,br BRA,"DF,MF",23.0,16,14,1020.0,11.3,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,2015,brasileirao,24,2015 Coritiba
+Negueba,br BRA,"FW,MF",22.0,24,13,1307.0,14.5,2.0,4.0,6.0,2.0,0.0,0.0,5.0,0.0,0.14,0.28,0.41,0.14,0.41,Matches,2015,brasileirao,24,2015 Coritiba
+Kléber,br BRA,FW,31.0,13,13,1042.0,11.6,1.0,0.0,1.0,0.0,1.0,2.0,3.0,0.0,0.09,0.0,0.09,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Luis Cáceres,py PAR,MF,26.0,16,12,755.0,8.4,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,2015,brasileirao,24,2015 Coritiba
+Norberto,br BRA,DF,24.0,11,10,937.0,10.4,0.0,1.0,1.0,0.0,0.0,0.0,6.0,1.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Coritiba
+Juan,br BRA,"DF,MF",32.0,15,10,930.0,10.3,3.0,2.0,5.0,3.0,0.0,0.0,1.0,0.0,0.29,0.19,0.48,0.29,0.48,Matches,2015,brasileirao,24,2015 Coritiba
+Esquerdinha,br BRA,MF,25.0,14,10,923.0,10.3,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,2015,brasileirao,24,2015 Coritiba
+Bruno Brigido,br BRA,GK,23.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Ivan,br BRA,DF,22.0,13,10,854.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Henrique,br BRA,DF,20.0,10,10,774.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Marcos Aurélio,br BRA,"FW,MF",30.0,14,8,864.0,9.6,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.1,0.21,0.31,0.1,0.31,Matches,2015,brasileirao,24,2015 Coritiba
+Hélder,br BRA,MF,30.0,10,8,735.0,8.2,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Rafael Marques,br BRA,DF,31.0,9,8,656.0,7.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Leandro Almeida Silva,br BRA,DF,27.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Welinton,br BRA,DF,25.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Wellington Paulista,br BRA,FW,30.0,6,5,465.0,5.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.19,0.0,0.19,0.19,0.19,Matches,2015,brasileirao,24,2015 Coritiba
+Rodrigo Ramos,br BRA,DF,19.0,9,5,430.0,4.8,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,2015,brasileirao,24,2015 Coritiba
+Thiago Lopes,br BRA,MF,18.0,7,3,343.0,3.8,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.52,0.52,0.0,0.52,Matches,2015,brasileirao,24,2015 Coritiba
+Misael Bueno,br BRA,MF,20.0,7,3,323.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Rosinei,br BRA,MF,31.0,3,3,236.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Fabrício Baiano,br BRA,"DF,MF",22.0,5,3,184.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Evandro da Silva,br BRA,FW,18.0,10,2,391.0,4.3,3.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.69,0.0,0.69,0.69,0.69,Matches,2015,brasileirao,24,2015 Coritiba
+Guilherme Parede,br BRA,"FW,MF",19.0,5,2,232.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Paulinho Moccelin,br BRA,"FW,MF",20.0,10,1,297.0,3.3,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.3,0.0,0.3,0.3,0.3,Matches,2015,brasileirao,24,2015 Coritiba
+Vaná,br BRA,GK,23.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Pedro Ken,br BRA,MF,27.0,1,1,84.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Keirrison,br BRA,FW,26.0,1,1,64.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Rodolfo,br BRA,MF,21.0,3,0,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Ícaro,br BRA,DF,21.0,3,0,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Giva,br BRA,FW,22.0,1,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Wallyson,br BRA,"FW,MF",26.0,2,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Mateus Oliveira,br BRA,FW,19.0,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Coritiba
+Bonfim,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Coritiba
+Ednei,br BRA,DF,24.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Coritiba
+Michel,br BRA,FW,25.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Coritiba
+Squad Total,,,26.5,38,421,3420.0,38.0,30.0,25.0,55.0,28.0,2.0,3.0,116.0,5.0,0.79,0.66,1.45,0.74,1.39,,2015,brasileirao,24,2015 Coritiba
+Opponent Total,,,26.2,38,421,3420.0,38.0,40.0,31.0,71.0,37.0,3.0,3.0,105.0,5.0,1.05,0.82,1.87,0.97,1.79,,2015,brasileirao,24,2015 Coritiba
+Alex Muralha,br BRA,GK,25.0,35,35,3150.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Leandro Silva,br BRA,DF,26.0,32,32,2835.0,31.5,1.0,1.0,2.0,1.0,0.0,0.0,12.0,1.0,0.03,0.03,0.06,0.03,0.06,Matches,2015,brasileirao,24,2015 Figueirense
+Fábio Gonçalves,br BRA,MF,28.0,33,32,2778.0,30.9,1.0,0.0,1.0,1.0,0.0,0.0,7.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,2015,brasileirao,24,2015 Figueirense
+Clayton,br BRA,"FW,MF",19.0,29,29,2448.0,27.2,7.0,5.0,12.0,4.0,3.0,3.0,9.0,1.0,0.26,0.18,0.44,0.15,0.33,Matches,2015,brasileirao,24,2015 Figueirense
+Thiago Heleno,br BRA,DF,26.0,25,25,2250.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Bruno Fabiano Alves,br BRA,DF,23.0,22,21,1897.0,21.1,1.0,0.0,1.0,1.0,0.0,0.0,9.0,1.0,0.05,0.0,0.05,0.05,0.05,Matches,2015,brasileirao,24,2015 Figueirense
+Paulo Roberto,br BRA,MF,27.0,24,21,1793.0,19.9,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,2015,brasileirao,24,2015 Figueirense
+Marquinhos,br BRA,DF,32.0,20,20,1780.0,19.8,3.0,2.0,5.0,3.0,0.0,0.0,9.0,0.0,0.15,0.1,0.25,0.15,0.25,Matches,2015,brasileirao,24,2015 Figueirense
+João Vitor,br BRA,MF,26.0,22,20,1649.0,18.3,1.0,0.0,1.0,1.0,0.0,0.0,7.0,1.0,0.05,0.0,0.05,0.05,0.05,Matches,2015,brasileirao,24,2015 Figueirense
+Marquinhos Pedroso,br BRA,DF,21.0,23,19,1718.0,19.1,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,0.05,0.05,0.1,0.05,0.1,Matches,2015,brasileirao,24,2015 Figueirense
+Rafael Bastos,br BRA,"FW,MF",30.0,25,19,1411.0,15.7,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,0.06,0.13,0.19,0.06,0.19,Matches,2015,brasileirao,24,2015 Figueirense
+Yago,br BRA,MF,19.0,28,18,1555.0,17.3,1.0,3.0,4.0,1.0,0.0,0.0,7.0,0.0,0.06,0.17,0.23,0.06,0.23,Matches,2015,brasileirao,24,2015 Figueirense
+Dudu,br BRA,"FW,MF",24.0,21,15,1384.0,15.4,6.0,1.0,7.0,6.0,0.0,0.0,6.0,0.0,0.39,0.07,0.46,0.39,0.46,Matches,2015,brasileirao,24,2015 Figueirense
+Marcão,br BRA,FW,29.0,25,12,1276.0,14.2,3.0,0.0,3.0,3.0,0.0,0.0,5.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,2015,brasileirao,24,2015 Figueirense
+Roberto Cereceda,cl CHI,"DF,MF",30.0,13,12,1035.0,11.5,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Dener,br BRA,MF,19.0,15,11,1013.0,11.3,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,2015,brasileirao,24,2015 Figueirense
+Carlos Alberto,br BRA,MF,30.0,14,11,950.0,10.6,3.0,0.0,3.0,3.0,0.0,0.0,5.0,1.0,0.28,0.0,0.28,0.28,0.28,Matches,2015,brasileirao,24,2015 Figueirense
+Ricardinho,br BRA,MF,29.0,13,11,928.0,10.3,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.1,0.19,0.29,0.1,0.29,Matches,2015,brasileirao,24,2015 Figueirense
+Juninho,br BRA,DF,25.0,12,9,880.0,9.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Saimon Tormen,br BRA,DF,23.0,10,9,847.0,9.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Thiago Santana,br BRA,FW,21.0,25,7,1045.0,11.6,4.0,1.0,5.0,4.0,0.0,0.0,0.0,0.0,0.34,0.09,0.43,0.34,0.43,Matches,2015,brasileirao,24,2015 Figueirense
+Everaldo Stum,br BRA,FW,23.0,11,6,520.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Elias,br BRA,FW,27.0,9,5,396.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Sueliton Pereira,br BRA,DF,28.0,10,4,425.0,4.7,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,2015,brasileirao,24,2015 Figueirense
+Celsinho,br BRA,MF,26.0,7,4,346.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Jefferson,br BRA,MF,21.0,6,2,263.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Felipe,br BRA,GK,30.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Alemão,br BRA,FW,25.0,4,2,172.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+William Cordeiro,br BRA,DF,21.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Luan Polli,br BRA,GK,21.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+França,br BRA,MF,23.0,2,1,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Nirley,br BRA,DF,26.0,1,1,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Jean Deretti,br BRA,MF,21.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Mazola,br BRA,FW,25.0,4,0,97.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Bruno Dybal,br BRA,MF,20.0,3,0,55.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Léo Lisboa,br BRA,MF,20.0,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Marcelinho,br BRA,FW,20.0,2,0,41.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Carlos Henrique,br BRA,FW,19.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Figueirense
+Hyago Engelmann,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Jackson,br BRA,MF,24.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Jatoba,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Guilherme Lazaroni,br BRA,"DF,MF",22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Luan,br BRA,MF,23.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Matheusinho,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Júnior Oliveira,br BRA,GK,25.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Léo Rodrigues,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Maicon Talhetti,br BRA,MF,24.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Henrique Trevisan,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Figueirense
+Squad Total,,,25.7,38,418,3420.0,38.0,35.0,20.0,55.0,32.0,3.0,3.0,121.0,5.0,0.92,0.53,1.45,0.84,1.37,,2015,brasileirao,24,2015 Figueirense
+Opponent Total,,,26.5,38,418,3420.0,38.0,49.0,31.0,80.0,41.0,8.0,8.0,99.0,3.0,1.29,0.82,2.11,1.08,1.89,,2015,brasileirao,24,2015 Figueirense
+Nino Paraíba,br BRA,DF,29.0,35,35,3108.0,34.5,0.0,4.0,4.0,0.0,0.0,0.0,8.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,2015,brasileirao,24,2015 Avaí
+Vagner,br BRA,GK,25.0,33,33,2970.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Romário,br BRA,DF,22.0,31,29,2654.0,29.5,0.0,1.0,1.0,0.0,0.0,0.0,9.0,1.0,0.0,0.03,0.03,0.0,0.03,Matches,2015,brasileirao,24,2015 Avaí
+Antonio Carlos,br BRA,DF,21.0,29,29,2609.0,29.0,1.0,1.0,2.0,1.0,0.0,0.0,6.0,1.0,0.03,0.03,0.07,0.03,0.07,Matches,2015,brasileirao,24,2015 Avaí
+Eduardo Neto,br BRA,"DF,MF",26.0,28,27,2264.0,25.2,0.0,1.0,1.0,0.0,0.0,0.0,14.0,1.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 Avaí
+Emerson,br BRA,DF,31.0,26,26,2295.0,25.5,2.0,0.0,2.0,2.0,0.0,0.0,8.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,2015,brasileirao,24,2015 Avaí
+Renan,br BRA,MF,17.0,21,21,1789.0,19.9,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,2015,brasileirao,24,2015 Avaí
+Anderson Lopes,br BRA,"FW,MF",21.0,26,19,1807.0,20.1,5.0,2.0,7.0,4.0,1.0,1.0,6.0,0.0,0.25,0.1,0.35,0.2,0.3,Matches,2015,brasileirao,24,2015 Avaí
+Jeci,br BRA,DF,34.0,19,19,1595.0,17.7,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Pablo,br BRA,"DF,FW",25.0,27,17,1735.0,19.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Renan Oliveira,br BRA,"FW,MF",25.0,23,17,1456.0,16.2,1.0,4.0,5.0,1.0,0.0,0.0,1.0,0.0,0.06,0.25,0.31,0.06,0.31,Matches,2015,brasileirao,24,2015 Avaí
+Rômulo,br BRA,"FW,MF",19.0,29,15,1490.0,16.6,3.0,1.0,4.0,3.0,0.0,0.0,4.0,0.0,0.18,0.06,0.24,0.18,0.24,Matches,2015,brasileirao,24,2015 Avaí
+André Lima,br BRA,FW,29.0,25,14,1302.0,14.5,10.0,2.0,12.0,10.0,0.0,1.0,5.0,0.0,0.69,0.14,0.83,0.69,0.83,Matches,2015,brasileirao,24,2015 Avaí
+Adriano Bispo,br BRA,MF,27.0,16,14,1134.0,12.6,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Marquinhos,br BRA,MF,33.0,14,13,1053.0,11.7,2.0,1.0,3.0,2.0,0.0,0.0,5.0,0.0,0.17,0.09,0.26,0.17,0.26,Matches,2015,brasileirao,24,2015 Avaí
+Léo Gamalho,br BRA,FW,29.0,14,12,1019.0,11.3,5.0,1.0,6.0,4.0,1.0,2.0,0.0,0.0,0.44,0.09,0.53,0.35,0.44,Matches,2015,brasileirao,24,2015 Avaí
+Tinga,br BRA,MF,24.0,19,9,1075.0,11.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Everton Silva,br BRA,DF,26.0,16,9,783.0,8.7,1.0,0.0,1.0,1.0,0.0,0.0,7.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 Avaí
+Néstor Camacho,py PAR,"FW,MF",27.0,12,9,771.0,8.6,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,0.12,0.23,0.35,0.12,0.35,Matches,2015,brasileirao,24,2015 Avaí
+Eltinho,br BRA,DF,27.0,8,7,580.0,6.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Jubal,br BRA,DF,21.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Claudinei,br BRA,MF,26.0,7,6,441.0,4.9,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,2015,brasileirao,24,2015 Avaí
+Diego,br BRA,GK,32.0,5,5,450.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+William,br BRA,"FW,MF",31.0,7,5,442.0,4.9,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,2015,brasileirao,24,2015 Avaí
+Hugo,br BRA,FW,26.0,7,5,389.0,4.3,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.46,0.0,0.46,0.46,0.46,Matches,2015,brasileirao,24,2015 Avaí
+Roberto César,br BRA,"FW,MF",29.0,19,4,689.0,7.7,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.13,0.26,0.39,0.13,0.39,Matches,2015,brasileirao,24,2015 Avaí
+Rudnei da Rosa,br BRA,MF,30.0,6,4,241.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Tauã,br BRA,FW,21.0,5,3,240.0,2.7,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.37,0.37,0.0,0.37,Matches,2015,brasileirao,24,2015 Avaí
+Juninho,tl TLS,MF,25.0,4,2,151.0,1.7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Denner,br BRA,MF,20.0,4,1,158.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Lucas Lovat,br BRA,DF,18.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Uelliton,br BRA,MF,27.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Marrone,br BRA,DF,22.0,2,1,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Conrado,br BRA,FW,23.0,3,0,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Iury de Castilho,br BRA,"FW,MF",19.0,1,0,35.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Eduardo Costa,br BRA,MF,32.0,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Avaí
+Philipe Maia,br BRA,DF,19.0,0,0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Wilker Cruz,br BRA,FW,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Kevin,br BRA,DF,17.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Bruno Mendes,br BRA,FW,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Vitor Prada,br BRA,GK,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Raphinha,br BRA,"FW,MF",18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Toshiya Tojo,jp JPN,FW,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Avaí
+Squad Total,,,26.1,38,418,3420.0,38.0,37.0,23.0,60.0,35.0,2.0,6.0,121.0,3.0,0.97,0.61,1.58,0.92,1.53,,2015,brasileirao,24,2015 Avaí
+Opponent Total,,,26.2,38,418,3420.0,38.0,58.0,41.0,99.0,55.0,3.0,4.0,91.0,5.0,1.53,1.08,2.61,1.45,2.53,,2015,brasileirao,24,2015 Avaí
+Rodrigo,br BRA,DF,34.0,34,34,3015.0,33.5,4.0,0.0,4.0,4.0,0.0,0.0,10.0,2.0,0.12,0.0,0.12,0.12,0.12,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Mádson,br BRA,"DF,MF",23.0,33,33,2955.0,32.8,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Luan Garcia,br BRA,DF,21.0,25,25,2250.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Serginho,br BRA,MF,28.0,26,24,1981.0,22.0,0.0,2.0,2.0,0.0,0.0,0.0,12.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Júlio César,br BRA,DF,32.0,24,23,1990.0,22.1,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Martín Silva,uy URU,GK,31.0,21,21,1845.0,20.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Julio dos Santos,py PAR,MF,31.0,26,21,1652.0,18.4,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Nenê,br BRA,"FW,MF",33.0,20,20,1754.0,19.5,9.0,4.0,13.0,3.0,6.0,6.0,2.0,0.0,0.46,0.21,0.67,0.15,0.36,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Christianno,br BRA,DF,23.0,20,20,1736.0,19.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Pablo Guiñazú,ar ARG,MF,36.0,21,19,1676.0,18.6,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Duvier Riascos,co COL,FW,28.0,26,17,1470.0,16.3,4.0,0.0,4.0,4.0,0.0,0.0,5.0,0.0,0.24,0.0,0.24,0.24,0.24,Matches,2015,brasileirao,24,2015 Vasco da Gama
+André Luiz Tavares,br BRA,MF,31.0,21,16,1535.0,17.1,1.0,3.0,4.0,1.0,0.0,0.0,3.0,0.0,0.06,0.18,0.23,0.06,0.23,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jorge Henrique,br BRA,"DF,FW",32.0,14,13,879.0,9.8,0.0,2.0,2.0,0.0,0.0,0.0,1.0,3.0,0.0,0.2,0.2,0.0,0.2,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Rafael Silva,br BRA,FW,24.0,25,11,1322.0,14.7,3.0,1.0,4.0,3.0,0.0,0.0,6.0,3.0,0.2,0.07,0.27,0.2,0.27,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Anderson Salles,br BRA,DF,26.0,12,11,965.0,10.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Bruno Gallo,br BRA,MF,26.0,13,11,943.0,10.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Gilberto,br BRA,FW,25.0,12,11,885.0,9.8,0.0,1.0,1.0,0.0,0.0,1.0,4.0,1.0,0.0,0.1,0.1,0.0,0.1,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Leandrão,br BRA,FW,31.0,11,10,795.0,8.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Diguinho,br BRA,MF,31.0,13,10,752.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jordi Almeida,br BRA,GK,21.0,10,9,793.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jhon Cley,br BRA,MF,20.0,14,9,771.0,8.6,1.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,0.12,0.0,0.12,0.12,0.12,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Dagoberto,br BRA,"FW,MF",31.0,9,9,581.0,6.5,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.15,0.15,0.0,0.15,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Charles,br BRA,GK,20.0,9,8,781.0,8.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Germán Herrera,ar ARG,FW,31.0,13,7,683.0,7.6,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Lucas,br BRA,MF,26.0,13,6,516.0,5.7,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Rafael Vaz,br BRA,DF,26.0,9,4,448.0,5.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Emanuel Biancucchi,ar ARG,MF,26.0,7,4,346.0,3.8,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jomar,br BRA,DF,22.0,4,3,288.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Aislan,br BRA,"DF,MF",27.0,4,3,233.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Bruno Ferreira,br BRA,DF,20.0,3,2,225.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jean Patrick,br BRA,MF,22.0,2,2,149.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Thalles,br BRA,FW,19.0,14,1,404.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jackson Caucaia,br BRA,MF,28.0,3,1,167.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Marcinho,br BRA,MF,30.0,3,1,97.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Yago Moreira Silva,br BRA,FW,20.0,4,0,145.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Éder Luís,br BRA,"FW,MF",29.0,5,0,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Bernardo,br BRA,MF,24.0,3,0,74.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Mateus Vital,br BRA,"FW,MF",16.0,1,0,61.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Felipe Seymour,cl CHI,MF,27.0,1,0,34.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Romarinho,br BRA,FW,21.0,2,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Renato Kayser,br BRA,"FW,MF",18.0,2,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Vasco da Gama
+João Carlos,br BRA,DF,33.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Gabriel Félix,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Henrique,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Índio,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jéferson,br BRA,MF,30.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Nei,br BRA,DF,29.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Jonatas Paulista,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Douglas da Silva,br BRA,DF,30.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Bruno Teles,br BRA,DF,28.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Vasco da Gama
+Squad Total,,,28.4,38,419,3420.0,38.0,28.0,15.0,43.0,22.0,6.0,7.0,121.0,14.0,0.74,0.39,1.13,0.58,0.97,,2015,brasileirao,24,2015 Vasco da Gama
+Opponent Total,,,26.2,38,418,3420.0,38.0,53.0,36.0,89.0,48.0,5.0,7.0,99.0,7.0,1.39,0.95,2.34,1.26,2.21,,2015,brasileirao,24,2015 Vasco da Gama
+Renan Brito Soares,br BRA,GK,30.0,35,35,3150.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Fred,br BRA,DF,29.0,33,31,2797.0,31.1,6.0,0.0,6.0,6.0,0.0,0.0,2.0,0.0,0.19,0.0,0.19,0.19,0.19,Matches,2015,brasileirao,24,2015 Goiás
+Bruno Henrique,br BRA,"FW,MF",24.0,33,31,2756.0,30.6,7.0,7.0,14.0,7.0,0.0,0.0,13.0,1.0,0.23,0.23,0.46,0.23,0.46,Matches,2015,brasileirao,24,2015 Goiás
+Rodrigo,br BRA,MF,20.0,30,29,2575.0,28.6,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.03,0.03,0.07,0.03,0.07,Matches,2015,brasileirao,24,2015 Goiás
+Felipe Macedo,br BRA,DF,20.0,29,29,2508.0,27.9,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Patrick,br BRA,"FW,MF",22.0,31,29,2390.0,26.6,0.0,1.0,1.0,0.0,0.0,0.0,11.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 Goiás
+Diogo Barbosa,br BRA,DF,22.0,26,26,2318.0,25.8,0.0,1.0,1.0,0.0,0.0,0.0,6.0,1.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 Goiás
+David,br BRA,MF,32.0,26,26,2231.0,24.8,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,0.04,0.08,0.12,0.04,0.12,Matches,2015,brasileirao,24,2015 Goiás
+Erik Lima,br BRA,"FW,MF",20.0,26,25,2031.0,22.6,10.0,2.0,12.0,6.0,4.0,4.0,4.0,0.0,0.44,0.09,0.53,0.27,0.35,Matches,2015,brasileirao,24,2015 Goiás
+Felipe Menezes,br BRA,MF,27.0,25,25,1894.0,21.0,5.0,4.0,9.0,3.0,2.0,3.0,2.0,0.0,0.24,0.19,0.43,0.14,0.33,Matches,2015,brasileirao,24,2015 Goiás
+Gimenez,br BRA,DF,19.0,23,22,1933.0,21.5,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Rafael Forster,br BRA,DF,24.0,18,15,1401.0,15.6,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Zé Eduardo,br BRA,FW,27.0,15,15,1191.0,13.2,3.0,0.0,3.0,2.0,1.0,1.0,4.0,0.0,0.23,0.0,0.23,0.15,0.15,Matches,2015,brasileirao,24,2015 Goiás
+Alex Alves Cardoso,br BRA,DF,22.0,17,14,1366.0,15.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Murilo Henrique,br BRA,MF,20.0,18,9,802.0,8.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.11,0.11,0.0,0.11,Matches,2015,brasileirao,24,2015 Goiás
+Liniker,br BRA,MF,21.0,19,8,880.0,9.8,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,0.1,0.2,0.31,0.1,0.31,Matches,2015,brasileirao,24,2015 Goiás
+Everton Pereira,br BRA,DF,19.0,10,7,691.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Ygor Santiago,br BRA,MF,30.0,12,7,650.0,7.2,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Clayton Sales,br BRA,DF,21.0,7,7,604.0,6.7,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Wesley Pacheco,br BRA,FW,24.0,12,6,593.0,6.6,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.15,0.15,0.3,0.15,0.3,Matches,2015,brasileirao,24,2015 Goiás
+Carlos Eduardo,br BRA,"FW,MF",18.0,16,5,623.0,6.9,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.29,0.14,0.43,0.29,0.43,Matches,2015,brasileirao,24,2015 Goiás
+Arthur,br BRA,MF,20.0,12,4,402.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Péricles,br BRA,MF,20.0,7,4,265.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Paulinho,br BRA,GK,20.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+William Kozlowski,br BRA,MF,31.0,11,2,376.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Juliano,br BRA,MF,24.0,8,2,252.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Valmir Lucas,br BRA,DF,26.0,3,2,163.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Lucas Coelho,br BRA,FW,20.0,9,0,156.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Robert Geannine,br BRA,MF,23.0,3,0,108.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Ruan Carlos,br BRA,FW,21.0,7,0,85.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Jarlan,br BRA,MF,20.0,2,0,40.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Juba,br BRA,FW,30.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+David Duarte,br BRA,DF,20.0,2,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Gelson,br BRA,MF,21.0,1,0,5.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Esquerdinha,br BRA,MF,25.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Goiás
+Wallace Andrade,br BRA,GK,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Goiás
+Baiano,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Goiás
+Bocão,br BRA,DF,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Goiás
+Paulo Henrique Oliveira da Silva,br BRA,MF,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Goiás
+Tulio,br BRA,DF,21.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Goiás
+Squad Total,,,24.4,38,418,3420.0,38.0,37.0,23.0,60.0,30.0,7.0,8.0,98.0,3.0,0.97,0.61,1.58,0.79,1.39,,2015,brasileirao,24,2015 Goiás
+Opponent Total,,,26.6,38,418,3420.0,38.0,49.0,33.0,82.0,47.0,2.0,3.0,97.0,8.0,1.29,0.87,2.16,1.24,2.11,,2015,brasileirao,24,2015 Goiás
+Gutieri Tomelin,it ITA,DF,23.0,34,33,2908.0,32.3,1.0,0.0,1.0,1.0,0.0,0.0,10.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,2015,brasileirao,24,2015 Joinville
+Agenor Detofol,br BRA,GK,25.0,32,32,2880.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Anselmo de Moraes,br BRA,MF,25.0,29,28,2429.0,27.0,0.0,1.0,1.0,0.0,0.0,0.0,9.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2015,brasileirao,24,2015 Joinville
+Diego,br BRA,DF,19.0,25,25,2083.0,23.1,0.0,4.0,4.0,0.0,0.0,0.0,5.0,2.0,0.0,0.17,0.17,0.0,0.17,Matches,2015,brasileirao,24,2015 Joinville
+Marcelinho Paraíba,br BRA,"FW,MF",39.0,29,22,1802.0,20.0,5.0,5.0,10.0,4.0,1.0,1.0,5.0,0.0,0.25,0.25,0.5,0.2,0.45,Matches,2015,brasileirao,24,2015 Joinville
+Naldo,br BRA,MF,24.0,24,22,1761.0,19.6,0.0,1.0,1.0,0.0,0.0,0.0,8.0,1.0,0.0,0.05,0.05,0.0,0.05,Matches,2015,brasileirao,24,2015 Joinville
+Kempes,br BRA,FW,32.0,30,21,2005.0,22.3,6.0,1.0,7.0,6.0,0.0,0.0,8.0,0.0,0.27,0.04,0.31,0.27,0.31,Matches,2015,brasileirao,24,2015 Joinville
+Mario Sérgio,br BRA,DF,23.0,22,20,1822.0,20.2,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,2015,brasileirao,24,2015 Joinville
+Kadu,br BRA,MF,18.0,20,19,1368.0,15.2,1.0,1.0,2.0,1.0,0.0,0.0,9.0,1.0,0.07,0.07,0.13,0.07,0.13,Matches,2015,brasileirao,24,2015 Joinville
+Bruno Aguiar,br BRA,DF,28.0,18,18,1620.0,18.0,2.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,2015,brasileirao,24,2015 Joinville
+Lucas Crispim,br BRA,"DF,MF",20.0,20,17,1461.0,16.2,0.0,1.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.06,0.06,0.0,0.06,Matches,2015,brasileirao,24,2015 Joinville
+Willian Popp,br BRA,FW,20.0,25,15,1346.0,15.0,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,0.07,0.13,0.2,0.07,0.2,Matches,2015,brasileirao,24,2015 Joinville
+Edson Ratinho,br BRA,"DF,MF",28.0,14,14,1205.0,13.4,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Edigar Junio,br BRA,FW,23.0,20,13,1292.0,14.4,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.07,0.14,0.21,0.07,0.21,Matches,2015,brasileirao,24,2015 Joinville
+Rafael Donato,br BRA,DF,25.0,9,9,781.0,8.7,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.23,0.0,0.23,0.23,0.23,Matches,2015,brasileirao,24,2015 Joinville
+Rogério,br BRA,DF,30.0,9,8,732.0,8.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Douglas da Silva,br BRA,DF,30.0,8,8,720.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Marion,br BRA,FW,23.0,14,7,723.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Marcelo Costa,br BRA,MF,34.0,12,7,694.0,7.7,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.13,0.13,0.0,0.13,Matches,2015,brasileirao,24,2015 Joinville
+Danrlei,br BRA,DF,20.0,10,6,639.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Fabrício de Souza,br BRA,"DF,MF",32.0,9,6,622.0,6.9,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,2015,brasileirao,24,2015 Joinville
+Dankler,br BRA,DF,23.0,9,6,581.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Oliveira,br BRA,GK,33.0,6,6,540.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Augusto César Moreira,br BRA,MF,22.0,7,6,467.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Fernando Viana,br BRA,FW,22.0,11,4,522.0,5.8,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,2015,brasileirao,24,2015 Joinville
+Domingues,br BRA,DF,26.0,7,4,463.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Sueliton Pereira,br BRA,DF,28.0,5,4,349.0,3.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.26,0.0,0.26,Matches,2015,brasileirao,24,2015 Joinville
+Italo Melo,br BRA,"FW,MF",21.0,7,4,332.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Silvio Junior,br BRA,"FW,MF",24.0,9,3,399.0,4.4,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.23,0.0,0.23,0.23,0.23,Matches,2015,brasileirao,24,2015 Joinville
+Arnaldo,br BRA,DF,22.0,4,3,309.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Niltinho,br BRA,MF,21.0,5,3,286.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Ricardo Bueno,br BRA,FW,27.0,5,3,271.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches,2015,brasileirao,24,2015 Joinville
+Héracles,br BRA,DF,22.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Rafael Costa,br BRA,FW,27.0,4,3,231.0,2.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.39,0.0,0.39,0.39,0.39,Matches,2015,brasileirao,24,2015 Joinville
+Tiago Luís,br BRA,"FW,MF",25.0,5,3,230.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+William Henrique,br BRA,FW,23.0,3,3,166.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Alef Vieira Santos,br BRA,DF,21.0,3,2,214.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Renato,br BRA,MF,23.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Welinton Júnior,br BRA,"FW,MF",21.0,3,2,117.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Jael Ferreira,br BRA,FW,26.0,3,1,130.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Mariano Trípodi,ar ARG,FW,27.0,3,1,122.0,1.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.74,0.0,0.74,0.74,0.74,Matches,2015,brasileirao,24,2015 Joinville
+Wellington Saci,br BRA,DF,30.0,2,1,97.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Juninho,br BRA,MF,19.0,2,1,81.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Yuri Naves Roberto,br BRA,MF,25.0,4,0,100.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Luiz Meneses,br BRA,MF,18.0,3,0,55.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Matheus Albino,br BRA,GK,19.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2015,brasileirao,24,2015 Joinville
+Adriano,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Joinville
+Zé Arthur,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Joinville
+Eusébio,br BRA,"DF,MF",29.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Joinville
+Bruno Furlan,br BRA,FW,22.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Joinville
+Jhonatan,br BRA,GK,23.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Joinville
+Jonathan,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,2015,brasileirao,24,2015 Joinville
+Squad Total,,,25.7,38,418,3420.0,38.0,25.0,21.0,46.0,24.0,1.0,1.0,106.0,8.0,0.66,0.55,1.21,0.63,1.18,,2015,brasileirao,24,2015 Joinville
+Opponent Total,,,26.5,38,418,3420.0,38.0,47.0,33.0,80.0,43.0,4.0,6.0,80.0,2.0,1.24,0.87,2.11,1.13,2.0,,2015,brasileirao,24,2015 Joinville

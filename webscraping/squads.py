@@ -6,9 +6,10 @@ import requests
 import pandas as pd
 from io import StringIO
 
-from .check_seasons import CheckingSeasons
-from .process_data import ProcessData
-from .utils import getTeamsUrl, renameColumns, addTeamMetadata
+from webscraping.check_seasons import CheckingSeasons
+from webscraping.process_data import ProcessData
+from webscraping.utils import getTeamsUrl, renameColumns, addTeamMetadata
+from webscraping.constants import FORMAT
 
 
 class Squads:
@@ -17,7 +18,6 @@ class Squads:
         self.missingSeasons = self.infoLeague.getMissingSeasons()
 
     def update(self) -> None:
-        localFile = self.infoLeague.file
         for season in self.missingSeasons:
             url = self.infoLeague.url.replace('season_placeholder', str(season))
             print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
@@ -34,20 +34,15 @@ class Squads:
                     )
                     teamFile.columns = renameColumns(teamFile.columns)
                     webFile.append(teamFile)
-                    time.sleep(7)
+                    time.sleep(6.2)
                 webFile = pd.concat(webFile, ignore_index=True)
-                localFile = pd.concat([localFile, webFile], ignore_index=True)
-
+                webFile.to_csv(f"{self.infoLeague.path}_{season}{FORMAT}", index=False)
             except IndexError:
                 warnings.warn("Error while connecting: Timeout")
                 sys.exit(1)
             except Exception as e:
                 self.missingSeasons.append(season)
-                localFile = localFile[localFile['season'] != str(season)]
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(7)
+                time.sleep(6.2)
 
-        localFile.to_csv(self.infoLeague.path, index=False)
-        toProcess = localFile.copy()
-        ProcessData(self.infoLeague, toProcess)

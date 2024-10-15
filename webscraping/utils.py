@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import hashlib
 import unicodedata
+import base64
 from bs4 import BeautifulSoup
 
 
@@ -44,11 +45,12 @@ def addTeamMetadata(teamFile, season, teamUrl, leagueName, leagueId, data) -> pd
 
 
 def create_hash_key(input_string):
-    input_string = input_string.str.tolower()
+    input_string = input_string.lower()
     normalized_string = unicodedata.normalize('NFD', input_string)
     input_string = ''.join(char for char in normalized_string if unicodedata.category(char) != 'Mn')
     
     hash_object = hashlib.sha256()
     hash_object.update(input_string.encode('utf-8'))
-    hash_key = hash_object.hexdigest()
-    return hash_key
+    hash_bytes = hash_object.digest()
+    hash_base64 = base64.urlsafe_b64encode(hash_bytes).decode('utf-8').rstrip('=')
+    return f"{hash_base64[:9]}{input_string[:3]}"

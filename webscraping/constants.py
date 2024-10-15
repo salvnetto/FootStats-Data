@@ -1,7 +1,8 @@
 from datetime import datetime
 
 URL_FBREF = 'https://fbref.com'
-
+FORMAT = '.csv'
+SUPPORTED_FILES = ['standings', 'match_history', 'squads']
 
 now = datetime.now()
 

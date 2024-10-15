@@ -7,9 +7,10 @@ import pandas as pd
 from io import StringIO
 from bs4 import BeautifulSoup
 
-from .check_seasons import CheckingSeasons
-from .process_data import ProcessData
-from .utils import getTeamsUrl, addTeamMetadata
+from webscraping.check_seasons import CheckingSeasons
+from webscraping.process_data import ProcessData
+from webscraping.utils import getTeamsUrl, addTeamMetadata
+from webscraping.constants import FORMAT
 
 
 class MatchHistory:
@@ -18,7 +19,6 @@ class MatchHistory:
         self.missingSeasons = self.infoLeague.getMissingSeasons()
 
     def update(self) -> None:
-        localFile = self.infoLeague.file
         for season in self.missingSeasons:
             url = self.infoLeague.url.replace('season_placeholder', str(season))
             print(f'{self.infoLeague.leagueName} - {season} ({self.infoLeague.path})')
@@ -37,23 +37,19 @@ class MatchHistory:
                     teamFile = self._appendOtherStats(teamFile, anchor)
                     
                     webFile.append(teamFile)
-                    time.sleep(7)
+                    time.sleep(6.2)
 
                 webFile = pd.concat(webFile)
-                localFile = pd.concat([localFile, webFile], ignore_index=True)
+                webFile.to_csv(f"{self.infoLeague.path}_{season}{FORMAT}", index=False)
             except IndexError:
                 warnings.warn("Error while connecting: Timeout")
                 sys.exit(1)
             except Exception as e:
                 self.missingSeasons.append(season)
-                localFile = localFile[localFile['season'] != str(season)]
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(7)
+                time.sleep(6.2)
 
-            localFile.to_csv(self.infoLeague.path, index=False)
-            toProcess = localFile.copy()
-            ProcessData(self.infoLeague, toProcess)
 
     def _appendOtherStats(self, teamFile, anchor) -> pd.DataFrame:
         statsNames = {

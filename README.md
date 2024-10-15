@@ -7,12 +7,8 @@ The `GOALS-Data` repository serves as a supplementary data source for the `GOALS
 ## Features
 
 - Comprehensive data for multiple football leagues:
-  - English Premier League
   - Brasileirão
-  - Ligue 1
-  - Serie A
-  - La Liga
-  - Bundesliga
+  - Premier League *Under development*
 - Includes match history, league standings, and team squads.
 
 ## Usage
@@ -29,7 +25,7 @@ df = loadData('br', 'match_history')
 print(df.head())
 
 # Load raw standings data for the Premier League
-df = loadData('en', 'standings', raw=True)
+df = loadData('br', 'standings', raw=True)
 print(df.head())
 ```
 
