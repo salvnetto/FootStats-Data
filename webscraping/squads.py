@@ -34,7 +34,7 @@ class Squads:
                     )
                     teamFile.columns = renameColumns(teamFile.columns)
                     webFile.append(teamFile)
-                    time.sleep(6.2)
+                    time.sleep(7)
                 webFile = pd.concat(webFile, ignore_index=True)
                 webFile.to_csv(f"{self.infoLeague.path}_{season}{FORMAT}", index=False)
             except IndexError:
@@ -44,5 +44,5 @@ class Squads:
                 self.missingSeasons.append(season)
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(6.2)
+                time.sleep(7)
 

@@ -37,7 +37,7 @@ class MatchHistory:
                     teamFile = self._appendOtherStats(teamFile, anchor)
                     
                     webFile.append(teamFile)
-                    time.sleep(6.2)
+                    time.sleep(7)
 
                 webFile = pd.concat(webFile)
                 webFile.to_csv(f"{self.infoLeague.path}_{season}{FORMAT}", index=False)
@@ -48,7 +48,7 @@ class MatchHistory:
                 self.missingSeasons.append(season)
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(6.2)
+                time.sleep(7)
 
 
     def _appendOtherStats(self, teamFile, anchor) -> pd.DataFrame:

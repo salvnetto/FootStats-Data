@@ -30,7 +30,8 @@ class CheckingSeasons:
         
         for filename in os.listdir(self._league.path):
             if filename.endswith('.csv') and filename.startswith(f'{self.fileName}_'):
-                match = re.search(r'standings_(\d{4})\.csv', filename)
+                pattern = self.fileName + r'_(\d{4})\.csv'
+                match = re.search(pattern, filename)
                 if match:
                     self.downloadedSeasons.add(match.group(1))
             

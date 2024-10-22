@@ -34,7 +34,7 @@ class Standings:
                 self.missingSeasons.append(season)
                 warnings.warn(f"Error while downloading data for season {season}: {e}")
             finally:
-                time.sleep(6.2)
+                time.sleep(7)
 
         #localFile.to_csv(self.infoLeague.path, index=False)
         #toProcess = localFile.copy()
