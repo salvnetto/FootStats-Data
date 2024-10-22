@@ -8,7 +8,6 @@ from io import StringIO
 from bs4 import BeautifulSoup
 
 from webscraping.check_seasons import CheckingSeasons
-from webscraping.process_data import ProcessData
 from webscraping.utils import getTeamsUrl, addTeamMetadata
 from webscraping.constants import FORMAT
 

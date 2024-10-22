@@ -1,21 +1,21 @@
 Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Last 5,Attendance,Top Team Scorer,Goalkeeper,Notes,season,league_name,league_id
-1,Botafogo (RJ),29,18,6,5,47,25,22,60,2.07,41.0,30.6,10.4,0.36,W W W D W,17320,Luiz Henrique - 6,John,,2024,brasileirao,24
-2,Palmeiras,29,17,6,6,46,20,26,57,1.97,50.7,26.7,23.9,0.82,W W W W D,28817,"Estevão, José López - 9",Wéverton,,2024,brasileirao,24
-3,Fortaleza,29,16,7,6,38,29,9,55,1.9,34.0,34.4,-0.4,-0.01,L D W W L,23566,Juan Martín Lucero - 8,João Ricardo Riedi,,2024,brasileirao,24
-4,Flamengo,28,15,6,7,45,32,13,51,1.82,39.2,31.6,7.6,0.27,L D L W W,53146,Pedro - 11,Agustín Rossi,,2024,brasileirao,24
-5,São Paulo,29,14,5,10,38,32,6,47,1.62,33.2,24.6,8.6,0.29,L W L W L,38924,Luciano - 8,Rafael Pires,,2024,brasileirao,24
-6,Internacional,28,12,10,6,37,26,11,46,1.64,43.7,24.5,19.2,0.69,W W D W D,17997,Wesley - 7,Sergio Rochet,,2024,brasileirao,24
-7,Bahia,29,13,6,10,39,33,6,45,1.55,37.9,31.2,6.7,0.23,L W L W L,36034,Everaldo Stum - 8,Marcos Felipe,,2024,brasileirao,24
-8,Cruzeiro,29,12,7,10,35,29,6,43,1.48,30.0,32.8,-2.8,-0.1,W L D D L,26316,Matheus Pereira - 6,Anderson,,2024,brasileirao,24
-9,Atlético Mineiro,28,10,10,8,40,41,-1,40,1.43,35.4,33.1,2.4,0.08,L W L D W,32293,Hulk - 10,Éverson,,2024,brasileirao,24
-10,Vasco da Gama,28,10,7,11,32,38,-6,37,1.32,27.1,38.0,-11.0,-0.39,W D L D D,19545,Pablo Vegetti - 9,Léo Jardim,,2024,brasileirao,24
-11,Grêmio,29,10,5,14,33,37,-4,35,1.21,34.2,33.9,0.3,0.01,W L D W L,15968,"Martin Braithwaite, Franco Cristaldo - 5",Agustín Marchesín,,2024,brasileirao,24
-12,Criciúma,29,9,8,12,36,42,-6,35,1.21,31.7,39.3,-7.6,-0.26,L D W L W,14455,Yannick Bolasie - 6,Gustavo,,2024,brasileirao,24
-13,Red Bull Bragantino,29,8,10,11,34,38,-4,34,1.17,29.8,37.9,-8.0,-0.28,D L D D D,6117,Helinho - 7,Cleiton Schwengber,,2024,brasileirao,24
-14,Juventude,29,8,10,11,33,39,-6,34,1.17,30.3,46.7,-16.4,-0.56,D W L D D,6889,"Lucas Barbosa, Jean Carlos Vicente - 4",Gabriel,,2024,brasileirao,24
-15,Ath Paranaense,27,8,7,12,27,31,-4,31,1.15,34.5,34.1,0.5,0.02,L D D L L,29852,"Gonzalo Mastriani, Agustín Canobbio - 4",Leonardo Linck,,2024,brasileirao,24
-16,Fluminense,28,8,6,14,22,30,-8,30,1.07,24.5,33.9,-9.4,-0.34,W L L L W,23649,Kauã Elias - 5,Fábio,,2024,brasileirao,24
-17,Vitória,29,8,5,16,32,44,-12,29,1.0,30.4,35.0,-4.5,-0.16,L W W L D,21382,Alerrandro - 7,Lucas Arcanjo,,2024,brasileirao,24
-18,Corinthians,29,6,11,12,29,38,-9,29,1.0,33.6,36.1,-2.4,-0.08,W L W L D,43241,Yuri Alberto - 7,Hugo Souza,,2024,brasileirao,24
-19,Cuiabá,28,6,8,14,25,39,-14,26,0.93,25.5,34.9,-9.4,-0.34,D L D L W,5680,Isidro Pitta - 7,Walter,,2024,brasileirao,24
-20,Atl Goianiense,29,5,6,18,22,47,-25,21,0.72,31.1,38.7,-7.6,-0.26,L L L W L,10370,Luiz Fernando - 6,Ronaldo,,2024,brasileirao,24
+1,Botafogo (RJ),30,18,7,5,48,26,22,61,2.03,43.5,30.9,12.6,0.42,W W D W D,17320,Luiz Henrique - 6,John,,2024,brasileirao,24
+2,Palmeiras,30,18,6,6,51,23,28,60,2.0,53.2,28.8,24.4,0.81,W W W D W,28817,Estevão - 10,Wéverton,,2024,brasileirao,24
+3,Fortaleza,30,16,8,6,39,30,9,56,1.87,34.7,35.7,-1.1,-0.04,D W W L D,23566,Juan Martín Lucero - 8,João Ricardo Riedi,,2024,brasileirao,24
+4,Flamengo,29,15,6,8,45,34,11,51,1.76,40.8,33.3,7.4,0.26,D L W W L,53146,Pedro - 11,Agustín Rossi,,2024,brasileirao,24
+5,São Paulo,30,15,5,10,41,32,9,50,1.67,34.5,25.6,8.9,0.3,W L W L W,38924,Luciano - 9,Rafael Pires,,2024,brasileirao,24
+6,Internacional,29,13,10,6,38,26,12,49,1.69,45.5,25.0,20.5,0.71,W D W D W,17997,"Wesley, Rafael Borré - 7",Sergio Rochet,,2024,brasileirao,24
+7,Bahia,30,13,7,10,40,34,6,46,1.53,39.2,32.5,6.7,0.22,W L W L D,36034,Everaldo Stum - 8,Marcos Felipe,,2024,brasileirao,24
+8,Cruzeiro,30,12,8,10,36,30,6,44,1.47,31.3,34.1,-2.8,-0.09,L D D L D,26316,Matheus Pereira - 6,"Cássio, Anderson",,2024,brasileirao,24
+9,Atlético Mineiro,29,10,11,8,41,42,-1,41,1.41,36.8,33.7,3.0,0.1,W L D W D,32293,Hulk - 10,Éverson,,2024,brasileirao,24
+10,Vasco da Gama,29,10,7,12,32,41,-9,37,1.28,28.1,39.3,-11.3,-0.39,D L D D L,19545,Pablo Vegetti - 9,Léo Jardim,,2024,brasileirao,24
+11,Criciúma,30,9,9,12,37,43,-6,36,1.2,32.0,41.8,-9.8,-0.33,D W L W D,14455,Yannick Bolasie - 6,Gustavo,,2024,brasileirao,24
+12,Grêmio,30,10,5,15,33,38,-5,35,1.17,34.7,35.7,-1.0,-0.03,L D W L L,15968,"Martin Braithwaite, Franco Cristaldo - 5",Agustín Marchesín,,2024,brasileirao,24
+13,Red Bull Bragantino,30,8,10,12,34,39,-5,34,1.13,30.5,39.1,-8.6,-0.29,L D D D L,6117,Helinho - 7,Cleiton Schwengber,,2024,brasileirao,24
+14,Juventude,30,8,10,12,36,44,-8,34,1.13,32.4,49.3,-16.8,-0.56,W L D D L,6889,"Lucas Barbosa, Jean Carlos Vicente - 4",Gabriel,,2024,brasileirao,24
+15,Fluminense,29,9,6,14,24,30,-6,33,1.14,26.2,35.4,-9.2,-0.32,L L L W W,23649,"Jhon Arias, Kauã Elias - 5",Fábio,,2024,brasileirao,24
+16,Vitória,30,9,5,16,33,44,-11,32,1.07,31.7,35.7,-4.0,-0.13,W W L D W,21382,Alerrandro - 7,Lucas Arcanjo,,2024,brasileirao,24
+17,Corinthians,30,7,11,12,34,40,-6,32,1.07,35.4,37.6,-2.2,-0.07,L W L D W,43241,Yuri Alberto - 8,Hugo Souza,,2024,brasileirao,24
+18,Ath Paranaense,28,8,7,13,29,36,-7,31,1.11,36.1,35.8,0.3,0.01,D D L L L,29852,"Gonzalo Mastriani, Agustín Canobbio - 4",Leonardo Linck,,2024,brasileirao,24
+19,Cuiabá,29,6,9,14,25,39,-14,27,0.93,26.0,36.1,-10.1,-0.35,L D L W D,5680,Isidro Pitta - 7,Walter,,2024,brasileirao,24
+20,Atl Goianiense,30,5,7,18,22,47,-25,22,0.73,32.2,39.1,-6.9,-0.23,L L W L D,10370,Luiz Fernando - 6,Ronaldo,,2024,brasileirao,24

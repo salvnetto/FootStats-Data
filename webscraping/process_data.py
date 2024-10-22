@@ -2,7 +2,6 @@ import os
 
 from webscraping.leagues import League
 from webscraping.utils import create_hash_key
-from webscraping.constants import SUPPORTED_FILES
 
 import pandas as pd
 
