@@ -19,5 +19,5 @@ def CompileData(country_code):
             df = pd.read_csv(file_path)
             dataframes.append(df)
         concatenated_df = pd.concat(dataframes, ignore_index=True)
-        concatenated_df.to_csv(f'{output_folder_path}\{SUPPORTED_FILE}{FORMAT}', index=False)
+        concatenated_df.to_csv(f'{output_folder_path}/{SUPPORTED_FILE}{FORMAT}', index=False)
 
