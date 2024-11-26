@@ -1,32 +1,28 @@
-# GOALS-Data
+# DYNMO - Dynamic Linear Models for Football
 
 ## Overview
 
-The `GOALS-Data` repository serves as a supplementary data source for the `GOALS` package, providing access to raw and processed football data from various leagues and competitions. Leveraging web scraping techniques, the data is extracted from [fbref.com](https://fbref.com) and curated to ensure high quality. This repository aims to facilitate easy access to comprehensive football datasets for analysis and research purposes.
+The `DYNMO` package facilitates game outcome analysis using statistical learning techniques. It is designed for modeling and predicting football match results based on various statistical features.
 
 ## Features
 
-- Comprehensive data for multiple football leagues:
-  - Brasileirão
-  - Premier League *Under development*
-- Includes match history, league standings, and team squads.
+- Web scraping techniques to gather football data.
+- Preprocessing functions for cleaning and transforming data.
 
 ## Usage
 
-Utilize the `loadData` function from the `GOALS` package to access the data from the `GOALS-Data` repository.
+To use the `DYNMO` package, install it via pip:
 
-### Example: Loading Data with GOALS Package
+```
+pip install DYNMO
+```
+
+### Example: Loading Data
 
 ```python
-from goalsdata import loadData
+from DYNMO import loadData
 
 # Load processed match history data for Brasileirão
 df = loadData('br', 'match_history')
 print(df.head())
-
-# Load raw standings data for the Premier League
-df = loadData('br', 'standings', raw=True)
-print(df.head())
 ```
-
-For more details, visit the [GOALS GitHub repository](https://github.com/salvnetto/GOALS-Data).

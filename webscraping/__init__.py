@@ -4,4 +4,4 @@ from webscraping.standings import Standings
 from webscraping.process_data import ProcessData
 from webscraping.compile_data import CompileData
 
-__all__ = ['MatchHistory', 'Squads', 'Standings', 'ProcessData', 'CompileData']
+__all__ = ['MatchHistory', 'Squads', 'Standings', 'ProcessData', 'CompileData', 'load_data']
