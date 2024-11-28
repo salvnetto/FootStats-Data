@@ -1,4 +1,5 @@
 import requests
+import re
 import pandas as pd
 import hashlib
 import unicodedata
@@ -54,3 +55,6 @@ def create_hash_key(input_string):
     hash_bytes = hash_object.digest()
     hash_base64 = base64.urlsafe_b64encode(hash_bytes).decode('utf-8').rstrip('=')
     return f"{hash_base64[:9]}{input_string[:3]}"
+
+def remove_numbers_from_string(text):
+    return re.sub(r'^\d{4}\s+', '', text)

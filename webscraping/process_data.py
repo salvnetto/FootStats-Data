@@ -1,7 +1,7 @@
 import os
 
 from webscraping.leagues import League
-from webscraping.utils import create_hash_key
+from webscraping.utils import create_hash_key, remove_numbers_from_string
 
 import pandas as pd
 
@@ -54,12 +54,14 @@ class ProcessData:
         if self.fileName == 'squads':
             self.file['age'] = self.file['age'].str.split('-').str.get(0)
             self.file = self.file.iloc[:-2]
+            self.file['team_name'] = self.file['team_name'].apply(remove_numbers_from_string)
             self.file['team_id'] = self.file['team_name'].apply(create_hash_key)
 
         if self.fileName == 'match_history':
             self.file = self.file[self.file['comp'] == self.infoLeague.FBREFCompName]
             self.file['round'] = self.file['round'].str.replace("Matchweek ", "", regex=False)
             self.file['round'] = self.file['round'].astype(int)
+            self.file['team_name'] = self.file['team_name'].apply(remove_numbers_from_string)
             self.file['team_opp_id'] = self.file['opponent'].apply(create_hash_key)
             self.file['team_id'] = self.file['team_name'].apply(create_hash_key)
 
