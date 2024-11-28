@@ -6,7 +6,7 @@ for country in countryCode:
     #ws.Standings(country).update()
     #ws.Squads(country).update()
     #ws.MatchHistory(country).update()
+    ws.CompileData(country)
     ws.ProcessData(country, 'standings')
     ws.ProcessData(country, 'match_history')
     ws.ProcessData(country, 'squads')
-    ws.CompileData(country)
