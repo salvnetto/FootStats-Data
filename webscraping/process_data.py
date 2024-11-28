@@ -58,7 +58,8 @@ class ProcessData:
 
         if self.fileName == 'match_history':
             self.file = self.file[self.file['comp'] == self.infoLeague.FBREFCompName]
-            self.file['round'] = self.file['round'].replace("Matchweek ", "")
+            self.file['round'] = self.file['round'].str.replace("Matchweek ", "", regex=False)
+            self.file['round'] = self.file['round'].astype(int)
             self.file['team_opp_id'] = self.file['opponent'].apply(create_hash_key)
             self.file['team_id'] = self.file['team_name'].apply(create_hash_key)
 
