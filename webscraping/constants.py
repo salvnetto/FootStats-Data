@@ -19,3 +19,9 @@ ACTIVE_SEASON = {
     'full_year': str(now.year),
     'split_years': f"{now.year-1}-{now.year}" if now.month < 7 else f"{now.year}-{now.year+1}"
 }
+
+
+NAME_CHANGES = {
+    "Ath Paranaense": "Athletico Paranaense",
+    "Atl Goianiense": "Atlético Goianiense"
+}

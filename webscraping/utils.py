@@ -6,6 +6,7 @@ import unicodedata
 import base64
 from bs4 import BeautifulSoup
 
+from webscraping.constants import NAME_CHANGES
 
 def getTeamsUrl(url) -> list:
     data = requests.get(url)
@@ -58,3 +59,6 @@ def create_hash_key(input_string):
 
 def remove_numbers_from_string(text):
     return re.sub(r'^\d{4}\s+', '', text)
+
+def change_opponent(team_name):
+    return NAME_CHANGES.get(team_name, team_name)
