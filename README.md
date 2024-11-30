@@ -1,4 +1,4 @@
-# DYNMO - Dynamic Linear Models for Football
+# DYNMO - Datasets and Predictive Models for Football
 
 ## Overview
 
