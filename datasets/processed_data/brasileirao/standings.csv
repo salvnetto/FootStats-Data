@@ -199,23 +199,23 @@ rk,squad,mp,w,d,l,gf,ga,gd,pts,attendance,season,league_name,league_id,xg,xga,xg
 18,Goiás,38,9,11,18,36,53,-17,38,10026.0,2023,brasileirao,24,36.6,45.9,-9.3,-0.24,,zNWwmgc57goi
 19,Coritiba,38,8,6,24,41,73,-32,30,20770.0,2023,brasileirao,24,39.3,60.8,-21.6,-0.57,,-h1YOO8kscor
 20,América (MG),38,5,9,24,42,81,-39,24,6373.0,2023,brasileirao,24,46.7,62.9,-16.2,-0.43,,2U6wVG_HHame
-1,Palmeiras,35,21,7,7,57,28,29,70,28817.0,2024,brasileirao,24,62.3,33.2,29.0,0.83,D L W W W,KsQpbQduTpal
-2,Botafogo (RJ),35,20,10,5,53,27,26,70,17320.0,2024,brasileirao,24,53.8,32.5,21.4,0.61,W W D D D,KyC2yE-rlbot
-3,Internacional,35,18,11,6,51,29,22,65,17997.0,2024,brasileirao,24,55.5,30.2,25.2,0.72,D W W W W,jSlOtVbffint
-4,Fortaleza,34,18,10,6,49,34,15,64,23566.0,2024,brasileirao,24,40.0,41.8,-1.8,-0.05,D D W W D,1RNuk-ZMkfor
-5,Flamengo,34,18,8,8,53,38,15,62,53146.0,2024,brasileirao,24,49.3,37.4,11.9,0.35,W D W D W,1Y1zbHqWffla
+1,Botafogo (RJ),36,21,10,5,56,28,28,73,17320.0,2024,brasileirao,24,55.4,34.0,21.4,0.59,W D D D W,KyC2yE-rlbot
+2,Palmeiras,36,21,7,8,58,31,27,70,29184.0,2024,brasileirao,24,63.8,34.8,29.0,0.81,L W W W L,KsQpbQduTpal
+3,Internacional,35,18,11,6,51,29,22,65,17997.0,2024,brasileirao,24,55.3,30.0,25.3,0.72,D W W W W,jSlOtVbffint
+4,Fortaleza,35,18,11,6,49,34,15,65,23566.0,2024,brasileirao,24,40.2,43.1,-2.9,-0.08,D W W D D,1RNuk-ZMkfor
+5,Flamengo,35,18,9,8,53,38,15,63,53146.0,2024,brasileirao,24,50.6,37.6,12.9,0.37,D W D W D,1Y1zbHqWffla
 6,São Paulo,35,17,8,10,50,37,13,59,38924.0,2024,brasileirao,24,39.2,30.7,8.5,0.24,D W W D D,ha9Y83MKzsao
-7,Cruzeiro,34,13,8,13,39,37,2,47,26316.0,2024,brasileirao,24,35.6,40.1,-4.5,-0.13,D L L W L,pnPoeRFJfcru
-8,Bahia,35,13,8,14,45,45,0,47,36034.0,2024,brasileirao,24,47.3,39.0,8.3,0.24,L L L L D,YzTe5SUkSbah
+7,Cruzeiro,35,13,9,13,40,38,2,48,26316.0,2024,brasileirao,24,37.1,40.9,-3.8,-0.11,L L W L D,pnPoeRFJfcru
+8,Bahia,35,13,8,14,45,45,0,47,36034.0,2024,brasileirao,24,47.0,39.0,8.0,0.23,L L L L D,YzTe5SUkSbah
 9,Corinthians,35,12,11,12,44,43,1,47,43241.0,2024,brasileirao,24,42.7,41.1,1.6,0.05,W W W W W,RWQ_y-l4Tcor
-10,Atlético Mineiro,35,10,14,11,44,49,-5,44,28257.0,2024,brasileirao,24,40.8,42.9,-2.0,-0.06,L D L D D,fQ7mMg-4batl
-11,Vasco da Gama,35,12,7,16,37,53,-16,43,19545.0,2024,brasileirao,24,32.9,49.3,-16.4,-0.47,W L L L L,_R5cUPcDPvas
+10,Atlético Mineiro,36,10,14,12,46,52,-6,44,25117.0,2024,brasileirao,24,44.0,43.8,0.1,0.0,D L D D L,fQ7mMg-4batl
+11,Vasco da Gama,35,12,7,16,37,53,-16,43,19545.0,2024,brasileirao,24,32.7,49.0,-16.4,-0.47,W L L L L,_R5cUPcDPvas
 12,Vitória,35,12,6,17,40,49,-9,42,21382.0,2024,brasileirao,24,37.4,41.1,-3.7,-0.11,W W L W D,pfPPHBj5Fvit
-13,Ath Paranaense,35,11,8,16,38,42,-4,41,29852.0,2024,brasileirao,24,43.8,43.6,0.1,0.0,L L W W D,zyNlc89G7ath
-14,Grêmio,34,11,7,16,40,44,-4,40,15968.0,2024,brasileirao,24,39.4,43.9,-4.5,-0.13,L W D L D,0R7eCxRBKgre
-15,Juventude,35,9,12,14,43,55,-12,39,6889.0,2024,brasileirao,24,39.4,54.6,-15.1,-0.43,L L W D D,4FkarAJVAjuv
-16,Fluminense,34,10,8,16,30,38,-8,38,23649.0,2024,brasileirao,24,32.4,41.1,-8.8,-0.26,W L D L D,-CjxHDescflu
-17,Criciúma,34,9,10,15,39,49,-10,37,14826.0,2024,brasileirao,24,34.8,48.3,-13.5,-0.4,D D L L L,m4wmsWRBZcri
-18,Red Bull Bragantino,35,8,13,14,36,45,-9,37,6117.0,2024,brasileirao,24,35.2,44.5,-9.2,-0.26,L D D D L,wy3xLdjYxred
+13,Juventude,36,10,12,14,46,57,-11,42,6889.0,2024,brasileirao,24,40.4,57.7,-17.2,-0.48,L W D D W,4FkarAJVAjuv
+14,Grêmio,35,11,8,16,41,45,-4,41,15968.0,2024,brasileirao,24,40.2,45.4,-5.2,-0.15,W D L D D,0R7eCxRBKgre
+15,Ath Paranaense,35,11,8,16,38,42,-4,41,29852.0,2024,brasileirao,24,43.8,43.3,0.5,0.01,L L W W D,zyNlc89G7ath
+16,Fluminense,35,10,9,16,30,38,-8,39,23649.0,2024,brasileirao,24,33.4,42.0,-8.6,-0.24,L D L D D,-CjxHDescflu
+17,Criciúma,35,9,11,15,39,49,-10,38,14826.0,2024,brasileirao,24,35.6,49.4,-13.7,-0.39,D L L L D,m4wmsWRBZcri
+18,Red Bull Bragantino,35,8,13,14,36,45,-9,37,6117.0,2024,brasileirao,24,35.2,44.5,-9.3,-0.27,L D D D L,wy3xLdjYxred
 19,Cuiabá,35,6,12,17,27,44,-17,30,6481.0,2024,brasileirao,24,28.4,45.1,-16.6,-0.48,L D D L D,wsZMNede2cui
 20,Atl Goianiense,35,6,8,21,24,53,-29,26,10370.0,2024,brasileirao,24,36.5,46.4,-9.9,-0.28,L W D L L,hxX_gt5buatl
