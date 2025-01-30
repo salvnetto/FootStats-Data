@@ -1,0 +1,18 @@
+{
+    "brazil": {
+        "brasileirao_a": {"name": "Série A", "name_code": "Serie-A", "id": "24", "calendar": 1},
+        "brasileirao_b": {"name": "Série B", "name_code": "Serie-B", "id": "38", "calendar": 1}
+    },
+    "england": {
+        "premier_league": {"name": "Premier League", "name_code": "Premier-League", "id": "9", "calendar": 2}
+    },
+    "spain": {
+        "laliga": {"name": "La Liga", "name_code": "La-Liga", "id": "12", "calendar": 2}
+    },
+    "italy": {
+        "serie_a": {"name": "Serie A", "name_code": "Serie-A", "id": "11", "calendar": 2}
+    },
+    "germany": {
+        "bundesliga": {"name": "Bundesliga", "name_code": "Bundesliga", "id": "20", "calendar": 2}
+    }
+}
