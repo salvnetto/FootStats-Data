@@ -1,10 +1,17 @@
 import requests
+from dataclasses import dataclass
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 from exceptions import HTTPError
 
 
+
+@dataclass
+class ScraperConfig:
+    request_delay: float = 7.0
+    max_retries: int = 3
+    timeout: int = 30
 
 class HTTPClient:
     def __init__(self, retries: int = 3, backoff_factor: float = 0.3):

@@ -1,11 +1,13 @@
 import os
 
-from webscraping.leagues import League
 from webscraping.utils import create_hash_key, remove_numbers_from_string, change_opponent
 
 import pandas as pd
 
-
+NAME_CHANGES = {
+    "Ath Paranaense": "Athletico Paranaense",
+    "Atl Goianiense": "Atlético Goianiense"
+}
 
 class ProcessData:
     def __init__(self, countryCode, fileName):

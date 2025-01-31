@@ -1,20 +1,15 @@
 from typing import List, Tuple
 import time
 import pandas as pd
-from dataclasses import dataclass
 
-from http_client import HTTPClient
+from http_client import HTTPClient, ScraperConfig
 from webscrap.parser import DataParser
 from data_saver import DataSaver
 from exceptions import ScraperError
 from constants import URL_FBREF
 
 
-@dataclass
-class ScraperConfig:
-    request_delay: float = 7.0
-    max_retries: int = 3
-    timeout: int = 30
+
 
 class LeagueScraper:
     def __init__(
@@ -72,7 +67,7 @@ class LeagueScraper:
 
     def _build_league_url(self, season: str) -> str:
         """Build the league URL for a given season."""
-        return f"{URL_FBREF}/comps/{self.league_config.id}/{season}/{season}-{self.league_config.name_code}-Stats"
+        return f"{URL_FBREF}/en/comps/{self.league_config.id}/{season}/{season}-{self.league_config.name_code}-Stats"
 
     def _process_team(self, team_url: str, season: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
         """Process data for a single team."""

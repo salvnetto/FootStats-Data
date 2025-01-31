@@ -54,3 +54,6 @@ class LeagueDataManager:
             self.league_config
            )
         self.scraper.scrape()
+
+
+team = LeagueDataManager('england', 'premier_league')
