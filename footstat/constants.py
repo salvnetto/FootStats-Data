@@ -1,5 +1,9 @@
 URL_FBREF = 'https://fbref.com'
 
+NAME_CHANGES = {
+    "Ath Paranaense": "Athletico Paranaense",
+    "Atl Goianiense": "Atlético Goianiense"
+}
 
 STATISTICS = {
     'all_comps/shooting/': [

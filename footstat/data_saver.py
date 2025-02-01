@@ -12,3 +12,4 @@ class DataSaver:
         """Save season data to CSV files."""
         squad_df.to_csv(self.base_path / f"squad_{season}.csv", index=False)
         match_history_df.to_csv(self.base_path / f"match_history_{season}.csv", index=False)
+

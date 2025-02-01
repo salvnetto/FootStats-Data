@@ -11,7 +11,7 @@ from exceptions import HTTPError
 class ScraperConfig:
     request_delay: float = 7.0
     max_retries: int = 3
-    timeout: int = 30
+    timeout: int = 10
 
 class HTTPClient:
     def __init__(self, retries: int = 3, backoff_factor: float = 0.3):

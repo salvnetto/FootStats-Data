@@ -4,6 +4,7 @@ from config import ConfigManager, LeagueConfig
 from validators import LeagueValidator
 from season_manager import SeasonManager
 from league_scraper import LeagueScraper
+from processer import DataProcessor
 
 
 class LeagueDataManager:
@@ -55,5 +56,8 @@ class LeagueDataManager:
            )
         self.scraper.scrape()
 
-
-team = LeagueDataManager('england', 'premier_league')
+        # Processer
+        self.processer = DataProcessor(
+            league_config=self.league_config,
+            base_path="datasets"
+            )

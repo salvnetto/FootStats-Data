@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 from http_client import HTTPClient, ScraperConfig
-from webscrap.parser import DataParser
+from parser import DataParser
 from data_saver import DataSaver
 from exceptions import ScraperError
 from constants import URL_FBREF
