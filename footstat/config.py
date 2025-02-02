@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Dict, Optional
 from dataclasses import dataclass
 
-from exceptions import ConfigError
+from footstat.exceptions import ConfigError
 
 @dataclass
 class LeagueConfig:
@@ -22,7 +22,7 @@ class ConfigManager:
     def get_config(self) -> Dict:
         """Load and return the league configuration."""
         try:
-            return json.loads(self.config_path.read_text())
+            return json.loads(self.config_path.read_text(encoding="utf-8"))
         except FileNotFoundError:
             raise ConfigError(f"Config file not found: {self.config_path}")
         except json.JSONDecodeError:

@@ -1,3 +1,3 @@
-from league_manager import LeagueDataManager
+from footstat.league_manager import LeagueDataManager
 
 __all__ = ['LeagueDataManager']

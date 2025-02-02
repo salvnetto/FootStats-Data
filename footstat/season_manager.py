@@ -3,8 +3,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import List
 
-from exceptions import LeagueManagerError
-
+from footstat.exceptions import LeagueManagerError
 
 CURRENT_DATE = datetime.now()
 EARLIEST_SEASON = 2019
@@ -40,12 +39,13 @@ class SeasonManager:
             files = list(self.datasets_path.iterdir())
             
             match_files = [f.name for f in files if 'match_history' in f.name]
-            squad_files = [f.name for f in files if 'squads' in f.name]
+            squad_files = [f.name for f in files if 'squad' in f.name]
             
             match_seasons = self._get_missing_for_type(match_files)
             squad_seasons = self._get_missing_for_type(squad_files)
             
-            return list(set(match_seasons + squad_seasons))
+            missing_seasons = list(set(match_seasons + squad_seasons) - {CURRENT_SEASON[self.calendar_type-1]})
+            return missing_seasons + [CURRENT_SEASON[self.calendar_type-1]]
         except Exception as e:
             raise LeagueManagerError(f"Error processing seasons: {e}")
     

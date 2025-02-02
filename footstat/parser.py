@@ -3,12 +3,11 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from io import StringIO
 import time
-from dataclasses import dataclass
 
-from exceptions import ParsingError
-from constants import STATISTICS, URL_FBREF
-from http_client import HTTPClient
-from league_scraper import ScraperConfig
+from footstat.exceptions import ParsingError
+from footstat.constants import STATISTICS, URL_FBREF
+from footstat.http_client import HTTPClient
+from footstat.league_scraper import ScraperConfig
 
 
 
@@ -142,12 +141,11 @@ class StatisticsParser:
             table_df = self._fetch_and_process_table(relevant_links[0], columns[0])
             if table_df is None:
                 return df
-                
+            
             # Merge and rename columns if needed
             df = df.merge(table_df, on='Date', how='left')
             if columns[1]:  # If column renaming is specified
                 df = self._rename_columns(df, columns[1])
-                
             return df
             
         except Exception as e:
@@ -167,21 +165,21 @@ class StatisticsParser:
             # Read tables from HTML string
             tables = pd.read_html(StringIO(response.text))
             if not tables:
-                return None
+                raise ParsingError(f"No tables found in response from {url}")
                 
             table = tables[0]
             
             # Process table columns
             table.columns = table.columns.droplevel()
             table = table.loc[:, ~table.columns.duplicated()]
-            
+
             # Select only needed columns
             time.sleep(self.config.request_delay)
             return table[columns]
             
         except Exception as e:
             print(f"Warning: Failed to fetch table from {link}: {str(e)}")
-            return None
+            raise
     
     @staticmethod
     def _rename_columns(df: pd.DataFrame, rename_map: Dict[str, str]) -> pd.DataFrame:

@@ -1,6 +1,6 @@
 from typing import Dict
 
-from exceptions import ValidationError
+from footstat.exceptions import ValidationError
 
 
 class LeagueValidator:

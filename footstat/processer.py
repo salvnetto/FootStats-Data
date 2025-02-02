@@ -8,7 +8,7 @@ import base64
 import pandas as pd
 import re
 
-from constants import NAME_CHANGES
+from footstat.constants import NAME_CHANGES
 
 
 

@@ -2,11 +2,11 @@ from typing import List, Tuple
 import time
 import pandas as pd
 
-from http_client import HTTPClient, ScraperConfig
-from parser import DataParser
-from data_saver import DataSaver
-from exceptions import ScraperError
-from constants import URL_FBREF
+from footstat.http_client import HTTPClient, ScraperConfig
+from footstat.parser import DataParser
+from footstat.data_saver import DataSaver
+from footstat.exceptions import ScraperError
+from footstat.constants import URL_FBREF
 
 
 
@@ -41,11 +41,9 @@ class LeagueScraper:
         """Scrape data for a specific season."""
         # Get league URL
         league_url = self._build_league_url(season)
-        
         # Get team URLs
         response = self.http_client.get(league_url)
         team_urls = self.parser.parse_team_urls(response.text)
-        
         # Process each team
         squad_data = []
         match_history_data = []

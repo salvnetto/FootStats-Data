@@ -1,10 +1,10 @@
 from typing import Optional
 
-from config import ConfigManager, LeagueConfig
-from validators import LeagueValidator
-from season_manager import SeasonManager
-from league_scraper import LeagueScraper
-from processer import DataProcessor
+from footstat.config import ConfigManager, LeagueConfig
+from footstat.validators import LeagueValidator
+from footstat.season_manager import SeasonManager
+from footstat.league_scraper import LeagueScraper
+from footstat.processer import DataProcessor
 
 
 class LeagueDataManager:

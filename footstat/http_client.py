@@ -3,7 +3,7 @@ from dataclasses import dataclass
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-from exceptions import HTTPError
+from footstat.exceptions import HTTPError
 
 
 

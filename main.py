@@ -8,9 +8,14 @@ def main_function():
     with open(path, "r") as file:
         data = json.load(file)
 
+
+
+
     for country, leagues in data.items():
         for league, value in leagues.items():
             LeagueDataManager(country, league)
     
 if __name__ == "__main__":
     main_function()
+
+# Retry qnd failed to fetch
