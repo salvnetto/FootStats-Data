@@ -12,7 +12,8 @@ class LeagueDataManager:
         self,
         country: str,
         league_code: str,
-        config_path: Optional[str] = None
+        config_path: Optional[str] = None,
+        only_process: bool = False
     ) -> None:
         """
         Initialize the league data manager.
@@ -50,14 +51,15 @@ class LeagueDataManager:
         print(self.missing_seasons)
     
         # Scrape
-        self.scraper = LeagueScraper(
-            self.missing_seasons,
-            self.league_config
-           )
-        self.scraper.scrape()
+        if only_process is False:
+            self.scraper = LeagueScraper(
+                self.missing_seasons,
+                self.league_config
+            )
+            self.scraper.scrape()
 
         # Processer
         self.processer = DataProcessor(
             league_config=self.league_config,
             base_path="datasets"
-            )
+        )

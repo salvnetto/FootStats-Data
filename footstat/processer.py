@@ -139,6 +139,7 @@ class DataProcessor:
         # Process team names and create IDs
         df['team_name'] = df['team_name'].apply(self.transformer.remove_numbers_from_string)
         df['team_id'] = df['team_name'].apply(self.transformer.create_hash_key)
+        df = df.drop('matches_90', axis=1)
         
         return df
 

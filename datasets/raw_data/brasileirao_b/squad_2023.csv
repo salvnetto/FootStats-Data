@@ -1,0 +1,933 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,team_name,season
+Lucas Arcanjo,br BRA,GK,24.0,36,36,3195.0,35.5,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,vitoria,2023
+Wagner,br BRA,DF,23.0,35,35,3130.0,34.8,5.0,0.0,5.0,5.0,0.0,0.0,6.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,vitoria,2023
+Camutanga,br BRA,DF,29.0,33,33,2720.0,30.2,2.0,1.0,3.0,2.0,0.0,0.0,10.0,1.0,0.07,0.03,0.1,0.07,0.1,Matches,vitoria,2023
+Osvaldo,br BRA,"MF,FW",35.0,31,29,2351.0,26.1,5.0,9.0,14.0,5.0,0.0,0.0,0.0,0.0,0.19,0.34,0.54,0.19,0.54,Matches,vitoria,2023
+Rodrigo Andrade,br BRA,MF,25.0,25,23,2016.0,22.4,2.0,2.0,4.0,2.0,0.0,0.0,10.0,0.0,0.09,0.09,0.18,0.09,0.18,Matches,vitoria,2023
+Zeca,br BRA,"DF,MF",28.0,26,22,1990.0,22.1,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,0.05,0.09,0.14,0.05,0.14,Matches,vitoria,2023
+Matheusinho,br BRA,"MF,FW",25.0,26,20,1756.0,19.5,2.0,2.0,4.0,2.0,0.0,0.0,1.0,0.0,0.1,0.1,0.21,0.1,0.21,Matches,vitoria,2023
+Léo Gamalho,br BRA,FW,37.0,23,20,1604.0,17.8,10.0,0.0,10.0,6.0,4.0,4.0,3.0,0.0,0.56,0.0,0.56,0.34,0.34,Matches,vitoria,2023
+Dudu,br BRA,MF,23.0,20,19,1660.0,18.4,0.0,1.0,1.0,0.0,0.0,0.0,10.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,vitoria,2023
+Marcelo,br BRA,"DF,MF",24.0,19,16,1335.0,14.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Railan,br BRA,"DF,MF",22.0,24,15,1332.0,14.8,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,vitoria,2023
+Mateus Gonçalves Martins,br BRA,"MF,FW",28.0,19,14,1188.0,13.2,0.0,3.0,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.23,0.23,0.0,0.23,Matches,vitoria,2023
+Wellington Nem,br BRA,"MF,FW",30.0,25,12,1314.0,14.6,2.0,4.0,6.0,2.0,0.0,0.0,5.0,1.0,0.14,0.27,0.41,0.14,0.41,Matches,vitoria,2023
+José Hugo,br BRA,MF,23.0,34,12,1290.0,14.3,3.0,1.0,4.0,3.0,0.0,0.0,2.0,0.0,0.21,0.07,0.28,0.21,0.28,Matches,vitoria,2023
+Iury de Castilho,br BRA,"MF,FW",27.0,15,12,1027.0,11.4,3.0,0.0,3.0,3.0,0.0,0.0,5.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,vitoria,2023
+Yan Souto,br BRA,DF,21.0,14,11,901.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Giovanni Augusto,br BRA,MF,33.0,20,10,869.0,9.7,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.1,0.1,0.21,0.1,0.21,Matches,vitoria,2023
+Felipe,br BRA,"MF,DF",23.0,14,10,837.0,9.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Gegê,br BRA,MF,29.0,28,9,1064.0,11.8,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,0.17,0.08,0.25,0.17,0.25,Matches,vitoria,2023
+João Victor,br BRA,DF,25.0,16,9,979.0,10.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Matheus Trindade Gonçalves,br BRA,"MF,DF",26.0,12,8,617.0,6.9,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,vitoria,2023
+Welder,br BRA,FW,28.0,20,7,724.0,8.0,4.0,0.0,4.0,3.0,1.0,1.0,0.0,0.0,0.5,0.0,0.5,0.37,0.37,Matches,vitoria,2023
+Marco Carvalho,br BRA,MF,22.0,12,7,634.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Leo Gomes,br BRA,MF,25.0,13,7,506.0,5.6,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,vitoria,2023
+Santiago Tréllez,co COL,FW,33.0,13,6,624.0,6.9,4.0,1.0,5.0,3.0,1.0,1.0,1.0,0.0,0.58,0.14,0.72,0.43,0.58,Matches,vitoria,2023
+Edson Lucas,br BRA,DF,22.0,8,6,560.0,6.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,vitoria,2023
+Thiago Lopes,br BRA,"MF,FW",26.0,13,4,421.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Rafinha,br BRA,"MF,FW",30.0,7,2,235.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Thiago Rodrigues,br BRA,GK,34.0,2,2,176.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Diego Fumaca,br BRA,MF,28.0,5,1,167.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Jhonny Lucas,br BRA,MF,22.0,5,1,104.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Pablo Diogo,br BRA,"DF,FW",30.0,6,0,92.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Diego Fabián Torres,ar ARG,MF,32.0,5,0,69.0,0.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,1.3,0.0,1.3,Matches,vitoria,2023
+Dalton,br BRA,GK,36.0,2,0,49.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Dionisio John John,br BRA,MF,28.0,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vitoria,2023
+Felippe Borges,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,vitoria,2023
+Charlys,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,vitoria,2023
+Nicolás Dibble,uy URU,FW,28.0,0,0,,,,,,,,,,,,,,,,Matches,vitoria,2023
+Alan Pedro,br BRA,FW,20.0,0,0,,,,,,,,,,,,,,,,Matches,vitoria,2023
+Fábio Soares,br BRA,FW,18.0,0,0,,,,,,,,,,,,,,,,Matches,vitoria,2023
+Squad Total,,,27.2,38,418,3420.0,38.0,48.0,33.0,81.0,42.0,6.0,6.0,98.0,3.0,1.26,0.87,2.13,1.11,1.97,,vitoria,2023
+Opponent Total,,,27.7,38,418,3420.0,38.0,30.0,24.0,54.0,30.0,0.0,0.0,116.0,5.0,0.79,0.63,1.42,0.79,1.42,,vitoria,2023
+Danilo Boza,br BRA,DF,24.0,38,38,3388.0,37.6,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.05,0.03,0.08,0.05,0.08,Matches,juventude,2023
+Thiago,br BRA,GK,23.0,34,34,3005.0,33.4,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Jadson,br BRA,MF,29.0,34,33,2751.0,30.6,2.0,1.0,3.0,2.0,0.0,0.0,10.0,2.0,0.07,0.03,0.1,0.07,0.1,Matches,juventude,2023
+Reginaldo,br BRA,"DF,MF",29.0,33,32,2672.0,29.7,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Alan Ruschel,br BRA,DF,33.0,32,29,2484.0,27.6,3.0,1.0,4.0,3.0,0.0,0.0,5.0,0.0,0.11,0.04,0.14,0.11,0.14,Matches,juventude,2023
+Nenê,br BRA,"FW,MF",41.0,28,27,2190.0,24.3,7.0,7.0,14.0,6.0,1.0,2.0,8.0,0.0,0.29,0.29,0.58,0.25,0.53,Matches,juventude,2023
+David,br BRA,"MF,FW",23.0,30,27,2021.0,22.5,4.0,5.0,9.0,4.0,0.0,0.0,1.0,0.0,0.18,0.22,0.4,0.18,0.4,Matches,juventude,2023
+Zé Marcos,br BRA,DF,24.0,29,26,2363.0,26.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Vini Paulista,br BRA,MF,21.0,28,23,1942.0,21.6,1.0,3.0,4.0,1.0,0.0,0.0,2.0,0.0,0.05,0.14,0.19,0.05,0.19,Matches,juventude,2023
+Jean,br BRA,MF,28.0,26,22,1649.0,18.3,2.0,1.0,3.0,2.0,0.0,0.0,12.0,0.0,0.11,0.05,0.16,0.11,0.16,Matches,juventude,2023
+Rodrigo Rodrigues,br BRA,FW,26.0,20,20,1727.0,19.2,6.0,3.0,9.0,4.0,2.0,2.0,3.0,0.0,0.31,0.16,0.47,0.21,0.36,Matches,juventude,2023
+Luis Mandaca,br BRA,MF,21.0,23,13,1149.0,12.8,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,0.08,0.08,0.16,0.08,0.16,Matches,juventude,2023
+Gabriel Taliari,br BRA,FW,25.0,11,11,971.0,10.8,6.0,0.0,6.0,3.0,3.0,3.0,5.0,0.0,0.56,0.0,0.56,0.28,0.28,Matches,juventude,2023
+Romércio,br BRA,DF,25.0,10,9,788.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Dani Bolt,br BRA,"DF,MF",23.0,15,8,805.0,8.9,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Kelvyn,br BRA,"DF,MF",23.0,16,7,868.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Matheus de Vargas,br BRA,"MF,FW",26.0,17,7,696.0,7.7,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,juventude,2023
+Erick,br BRA,FW,26.0,13,7,633.0,7.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches,juventude,2023
+Tite,br BRA,"FW,MF",21.0,13,7,567.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Luiz Gustavo,br BRA,DF,28.0,8,5,470.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Victor Andrade,br BRA,"MF,FW",27.0,11,5,454.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Léo,br BRA,GK,32.0,5,4,415.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Guilherme Gehring,br BRA,MF,17.0,12,4,402.0,4.5,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.22,0.22,0.0,0.22,Matches,juventude,2023
+Romário,br BRA,"DF,MF",30.0,5,4,356.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Daniel Cruz,br BRA,"FW,MF",21.0,10,4,313.0,3.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.29,0.0,0.29,0.29,0.29,Matches,juventude,2023
+Ruan,br BRA,MF,17.0,33,2,885.0,9.8,2.0,1.0,3.0,2.0,0.0,0.0,4.0,0.0,0.2,0.1,0.31,0.2,0.31,Matches,juventude,2023
+Émerson Santos,br BRA,MF,30.0,8,2,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Kady,br BRA,MF,27.0,7,2,221.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Fábio,br BRA,"MF,FW",25.0,4,2,154.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Fernando Boldrin,br BRA,MF,33.0,5,1,147.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Gerardo Gordillo,gt GUA,DF,28.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Rafinha Rech,br BRA,FW,20.0,2,1,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Luis Otávio Echaporã,br BRA,FW,22.0,3,1,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Robertinho,br BRA,MF,23.0,10,0,247.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Rafael Furtado,br BRA,FW,23.0,4,0,96.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Élton Rodrigues Brandão,br BRA,FW,37.0,3,0,76.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Geuvânio,br BRA,"FW,MF",30.0,2,0,43.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Kelvi,br BRA,MF,20.0,1,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Vitinho,br BRA,MF,24.0,1,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Vitor Gonçalves,br BRA,FW,20.0,3,0,18.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,juventude,2023
+Abner,br BRA,DF,18.0,0,0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,,,,,Matches,juventude,2023
+Daniel Guedes,br BRA,DF,28.0,0,0,,,,,,,,,,,,,,,,Matches,juventude,2023
+Tomi Montefiori,ar ARG,FW,19.0,0,0,,,,,,,,,,,,,,,,Matches,juventude,2023
+Anderson Prestes,br BRA,DF,21.0,0,0,,,,,,,,,,,,,,,,Matches,juventude,2023
+Cauã da Rocha,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,juventude,2023
+Lucas Wingert,br BRA,GK,23.0,0,0,,,,,,,,,,,,,,,,Matches,juventude,2023
+Squad Total,,,26.9,38,418,3420.0,38.0,41.0,25.0,66.0,35.0,6.0,7.0,108.0,4.0,1.08,0.66,1.74,0.92,1.58,,juventude,2023
+Opponent Total,,,27.9,38,418,3420.0,38.0,30.0,19.0,49.0,30.0,0.0,2.0,132.0,12.0,0.79,0.5,1.29,0.79,1.29,,juventude,2023
+Fellipe Mateus,br BRA,"MF,FW",31.0,36,36,3188.0,35.4,5.0,9.0,14.0,4.0,1.0,1.0,4.0,0.0,0.14,0.25,0.4,0.11,0.37,Matches,criciuma,2023
+Rodrigo Fagundes,br BRA,DF,35.0,35,35,3136.0,34.8,0.0,3.0,3.0,0.0,0.0,0.0,7.0,1.0,0.0,0.09,0.09,0.0,0.09,Matches,criciuma,2023
+Marcelo Hermes,br BRA,DF,27.0,37,34,3083.0,34.3,1.0,3.0,4.0,1.0,0.0,0.0,4.0,0.0,0.03,0.09,0.12,0.03,0.12,Matches,criciuma,2023
+Gustavo,br BRA,GK,29.0,34,34,3058.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Arilson,br BRA,MF,29.0,33,33,2838.0,31.5,5.0,0.0,5.0,5.0,0.0,0.0,7.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,criciuma,2023
+Walisson Maia,br BRA,DF,31.0,31,30,2608.0,29.0,0.0,1.0,1.0,0.0,0.0,0.0,9.0,1.0,0.0,0.03,0.03,0.0,0.03,Matches,criciuma,2023
+Fabinho,br BRA,"FW,MF",23.0,32,27,2195.0,24.4,5.0,0.0,5.0,5.0,0.0,0.0,5.0,1.0,0.21,0.0,0.21,0.21,0.21,Matches,criciuma,2023
+Claudinho,br BRA,DF,22.0,32,23,1847.0,20.5,3.0,2.0,5.0,3.0,0.0,0.0,3.0,1.0,0.15,0.1,0.24,0.15,0.24,Matches,criciuma,2023
+Éder,it ITA,"FW,MF",36.0,26,22,1884.0,20.9,9.0,2.0,11.0,6.0,3.0,3.0,4.0,1.0,0.43,0.1,0.53,0.29,0.38,Matches,criciuma,2023
+Romulo,br BRA,MF,27.0,31,22,1654.0,18.4,2.0,2.0,4.0,2.0,0.0,0.0,7.0,0.0,0.11,0.11,0.22,0.11,0.22,Matches,criciuma,2023
+Felipe Vizeu,br BRA,FW,25.0,27,21,1634.0,18.2,6.0,1.0,7.0,6.0,0.0,0.0,6.0,0.0,0.33,0.06,0.39,0.33,0.39,Matches,criciuma,2023
+Cristovam da Silva,br BRA,DF,32.0,26,12,1196.0,13.3,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Marquinhos Gabriel,br BRA,"MF,FW",32.0,23,12,1179.0,13.1,1.0,3.0,4.0,0.0,1.0,1.0,2.0,0.0,0.08,0.23,0.31,0.0,0.23,Matches,criciuma,2023
+Miqueias,br BRA,MF,21.0,18,10,877.0,9.7,0.0,2.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,criciuma,2023
+Hygor,br BRA,"FW,MF",30.0,15,10,875.0,9.7,4.0,1.0,5.0,4.0,0.0,0.0,1.0,0.0,0.41,0.1,0.51,0.41,0.51,Matches,criciuma,2023
+Rayan,br BRA,DF,33.0,12,8,772.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Barreto,br BRA,"MF,FW",27.0,11,8,738.0,8.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Léo Costa,br BRA,MF,27.0,19,7,719.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Jonathan,br BRA,"DF,MF",30.0,18,7,667.0,7.4,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.13,0.13,0.0,0.13,Matches,criciuma,2023
+Hélder,br BRA,DF,34.0,15,6,551.0,6.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,criciuma,2023
+Crystopher,br BRA,MF,24.0,15,4,465.0,5.2,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.19,0.19,0.39,0.19,0.39,Matches,criciuma,2023
+Italo Melo,br BRA,"FW,MF",29.0,12,4,404.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Alisson,br BRA,GK,27.0,5,4,362.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Tiago Marques,br BRA,FW,34.0,12,3,347.0,3.9,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.52,0.0,0.52,0.52,0.52,Matches,criciuma,2023
+Lohan,br BRA,FW,27.0,10,2,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Matheus Mancini,br BRA,DF,28.0,5,2,233.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+João Carlos,br BRA,FW,21.0,16,1,304.0,3.4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.3,Matches,criciuma,2023
+Thiago Mina,br BRA,DF,20.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Welinton Torrão,br BRA,FW,23.0,11,0,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Fernando Canesin,br BRA,"FW,MF",30.0,7,0,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Neílton,br BRA,"FW,MF",28.0,3,0,35.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,criciuma,2023
+Léo Gonçalves,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,criciuma,2023
+Guilherme,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,criciuma,2023
+Eduardo Melo,br BRA,FW,21.0,0,0,,,,,,,,,,,,,,,,Matches,criciuma,2023
+Kauã Moroso,br BRA,GK,18.0,0,0,,,,,,,,,,,,,,,,Matches,criciuma,2023
+Vinícius Oliveira,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,criciuma,2023
+Alexandre Tam,br BRA,FW,23.0,0,0,,,,,,,,,,,,,,,,Matches,criciuma,2023
+Squad Total,,,29.6,38,418,3420.0,38.0,44.0,33.0,77.0,39.0,5.0,5.0,96.0,6.0,1.16,0.87,2.03,1.03,1.89,,criciuma,2023
+Opponent Total,,,27.6,38,418,3420.0,38.0,31.0,20.0,51.0,29.0,2.0,3.0,94.0,2.0,0.82,0.53,1.34,0.76,1.29,,criciuma,2023
+Ronaldo,br BRA,GK,26.0,36,35,3161.0,35.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Shaylon,br BRA,MF,25.0,36,35,2923.0,32.5,4.0,6.0,10.0,4.0,0.0,0.0,2.0,0.0,0.12,0.18,0.31,0.12,0.31,Matches,atletico_goianiense,2023
+Luiz Fernando,br BRA,"MF,FW",26.0,35,33,2561.0,28.5,9.0,3.0,12.0,9.0,0.0,1.0,5.0,0.0,0.32,0.11,0.42,0.32,0.42,Matches,atletico_goianiense,2023
+Gustavo Coutinho,br BRA,FW,24.0,31,31,2306.0,25.6,14.0,2.0,16.0,10.0,4.0,4.0,3.0,0.0,0.55,0.08,0.62,0.39,0.47,Matches,atletico_goianiense,2023
+Bruno Tubarão,br BRA,"DF,MF",27.0,34,29,2433.0,27.0,2.0,3.0,5.0,2.0,0.0,0.0,9.0,1.0,0.07,0.11,0.18,0.07,0.18,Matches,atletico_goianiense,2023
+Heron,br BRA,DF,22.0,30,26,2311.0,25.7,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Matheus Sales,br BRA,MF,27.0,28,26,1871.0,20.8,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Rhaldney,br BRA,MF,24.0,36,25,2236.0,24.8,2.0,0.0,2.0,2.0,0.0,0.0,8.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,atletico_goianiense,2023
+Kelvin,br BRA,MF,25.0,30,19,1702.0,18.9,3.0,4.0,7.0,3.0,0.0,0.0,3.0,0.0,0.16,0.21,0.37,0.16,0.37,Matches,atletico_goianiense,2023
+Rodrigo Alves Soares,br BRA,DF,30.0,21,17,1445.0,16.1,2.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.12,0.19,0.31,0.12,0.31,Matches,atletico_goianiense,2023
+Lucas Gazal,br BRA,DF,23.0,18,16,1452.0,16.1,1.0,1.0,2.0,1.0,0.0,0.0,7.0,0.0,0.06,0.06,0.12,0.06,0.12,Matches,atletico_goianiense,2023
+Luiz Felipe,br BRA,DF,29.0,16,16,1440.0,16.0,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.06,0.06,0.12,0.06,0.12,Matches,atletico_goianiense,2023
+Lucas Esteves,br BRA,DF,22.0,16,16,1316.0,14.6,0.0,2.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,atletico_goianiense,2023
+Gabriel Baralhas,br BRA,MF,24.0,16,15,1330.0,14.8,5.0,2.0,7.0,5.0,0.0,0.0,6.0,1.0,0.34,0.14,0.47,0.34,0.47,Matches,atletico_goianiense,2023
+Alix Vinicius,br BRA,DF,23.0,18,14,1217.0,13.5,2.0,0.0,2.0,2.0,0.0,0.0,3.0,1.0,0.15,0.0,0.15,0.15,0.15,Matches,atletico_goianiense,2023
+Renato,br BRA,MF,31.0,16,12,1137.0,12.6,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,atletico_goianiense,2023
+Jefferson,br BRA,DF,26.0,13,11,918.0,10.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Ramon Menezes Roma,br BRA,DF,27.0,7,7,619.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Dodô,br BRA,"MF,FW",28.0,14,6,692.0,7.7,2.0,3.0,5.0,2.0,0.0,0.0,3.0,0.0,0.26,0.39,0.65,0.26,0.65,Matches,atletico_goianiense,2023
+Emerson Santos,br BRA,DF,27.0,14,6,539.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Airton,br BRA,MF,23.0,29,5,1002.0,11.1,0.0,3.0,3.0,0.0,0.0,0.0,3.0,2.0,0.0,0.27,0.27,0.0,0.27,Matches,atletico_goianiense,2023
+Daniel Alves,br BRA,FW,18.0,14,3,424.0,4.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,atletico_goianiense,2023
+Diego,br BRA,GK,24.0,3,3,258.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Matheus Peixoto,br BRA,FW,27.0,16,2,449.0,5.0,4.0,3.0,7.0,3.0,1.0,1.0,1.0,0.0,0.8,0.6,1.4,0.6,1.2,Matches,atletico_goianiense,2023
+Igor Torres,br BRA,FW,22.0,5,2,201.0,2.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.45,0.0,0.45,Matches,atletico_goianiense,2023
+Renan Silva,br BRA,DF,19.0,3,2,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+David Braga,br BRA,MF,21.0,12,1,189.0,2.1,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.95,0.48,1.43,0.95,1.43,Matches,atletico_goianiense,2023
+Marco Antônio,br BRA,MF,25.0,7,1,171.0,1.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.53,0.53,0.0,0.53,Matches,atletico_goianiense,2023
+Sillas,br BRA,MF,27.0,2,1,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Matheus Gabriel,br BRA,DF,23.0,2,1,115.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Igor Ribeiro,br BRA,DF,21.0,2,1,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+João Maistro,br BRA,DF,22.0,2,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Matheus Régis,br BRA,FW,23.0,12,0,251.0,2.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.36,0.0,0.36,0.36,0.36,Matches,atletico_goianiense,2023
+Guilherme Bastos,br BRA,DF,19.0,2,0,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Moraes,br BRA,DF,25.0,1,0,72.0,0.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.25,1.25,0.0,1.25,Matches,atletico_goianiense,2023
+Luan Sales,br BRA,DF,21.0,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Leo Augusto Pereira,br BRA,MF,22.0,3,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Marcos Serrato,br BRA,MF,28.0,6,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Renan Cosenza,br BRA,DF,18.0,2,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,atletico_goianiense,2023
+Denivys,br BRA,GK,21.0,0,0,,,,,,,,,,,,,,,,Matches,atletico_goianiense,2023
+Gustavo,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,atletico_goianiense,2023
+Lucas Rocha,br BRA,DF,27.0,0,0,,,,,,,,,,,,,,,,Matches,atletico_goianiense,2023
+Sammuel,br BRA,DF,21.0,0,0,,,,,,,,,,,,,,,,Matches,atletico_goianiense,2023
+Squad Total,,,25.7,38,418,3420.0,38.0,56.0,40.0,96.0,51.0,5.0,6.0,96.0,7.0,1.47,1.05,2.53,1.34,2.39,,atletico_goianiense,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,44.0,33.0,77.0,41.0,3.0,8.0,90.0,8.0,1.16,0.87,2.03,1.08,1.95,,atletico_goianiense,2023
+Marlon,br BRA,MF,32.0,36,36,2571.0,28.6,4.0,5.0,9.0,3.0,1.0,2.0,7.0,0.0,0.14,0.18,0.32,0.11,0.28,Matches,novorizontino,2023
+Geovane,br BRA,MF,33.0,35,35,2869.0,31.9,5.0,2.0,7.0,5.0,0.0,0.0,7.0,0.0,0.16,0.06,0.22,0.16,0.22,Matches,novorizontino,2023
+Adriano Martins,br BRA,DF,25.0,35,34,3010.0,33.4,1.0,0.0,1.0,1.0,0.0,0.0,6.0,1.0,0.03,0.0,0.03,0.03,0.03,Matches,novorizontino,2023
+Jordi Almeida,br BRA,GK,29.0,33,33,2896.0,32.2,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Aylon,br BRA,"FW,MF",30.0,35,33,2268.0,25.2,6.0,3.0,9.0,6.0,0.0,0.0,7.0,0.0,0.24,0.12,0.36,0.24,0.36,Matches,novorizontino,2023
+Willean Lepo,br BRA,"MF,DF",26.0,33,30,2690.0,29.9,0.0,2.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,novorizontino,2023
+Douglas Baggio,br BRA,"FW,MF",27.0,36,28,2212.0,24.6,5.0,2.0,7.0,5.0,0.0,0.0,5.0,0.0,0.2,0.08,0.28,0.2,0.28,Matches,novorizontino,2023
+Ronaldo,br BRA,FW,31.0,36,28,2105.0,23.4,6.0,2.0,8.0,5.0,1.0,2.0,5.0,0.0,0.26,0.09,0.34,0.21,0.3,Matches,novorizontino,2023
+César,br BRA,DF,30.0,27,27,2278.0,25.3,5.0,0.0,5.0,5.0,0.0,0.0,4.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,novorizontino,2023
+Reverson,br BRA,"DF,MF",25.0,30,24,2283.0,25.4,1.0,1.0,2.0,1.0,0.0,0.0,4.0,1.0,0.04,0.04,0.08,0.04,0.08,Matches,novorizontino,2023
+Ligger,br BRA,DF,34.0,22,21,1644.0,18.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Renato Palma,br BRA,DF,31.0,20,18,1581.0,17.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Romulo,br BRA,"MF,FW",21.0,32,10,1436.0,16.0,7.0,4.0,11.0,7.0,0.0,0.0,1.0,0.0,0.44,0.25,0.69,0.44,0.69,Matches,novorizontino,2023
+Léo Tocantins,br BRA,MF,23.0,21,10,1035.0,11.5,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,novorizontino,2023
+Roberto Heuchayer,br BRA,"MF,DF",32.0,13,10,856.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Rodolfo,br BRA,FW,30.0,20,8,763.0,8.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,novorizontino,2023
+Raul Prata,br BRA,MF,35.0,10,7,631.0,7.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.29,0.29,0.0,0.29,Matches,novorizontino,2023
+Georgemy Gonçalves,br BRA,GK,27.0,6,5,524.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Felipe Marques,br BRA,"FW,MF",33.0,24,4,773.0,8.6,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.23,0.0,0.23,0.23,0.23,Matches,novorizontino,2023
+Zé Mateus,br BRA,"MF,FW",28.0,14,4,584.0,6.5,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.31,0.31,0.0,0.31,Matches,novorizontino,2023
+Jenison,br BRA,FW,31.0,31,3,805.0,8.9,0.0,4.0,4.0,0.0,0.0,0.0,2.0,1.0,0.0,0.45,0.45,0.0,0.45,Matches,novorizontino,2023
+Ricardinho,br BRA,MF,33.0,19,3,638.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Denner,br BRA,"FW,MF",23.0,4,3,197.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Paulo Eduardo,br BRA,"MF,FW",20.0,5,2,198.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Guilherme Matos,br BRA,DF,21.0,4,1,149.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+João Afonso Crispim,br BRA,MF,27.0,5,1,85.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Biel Fonseca,br BRA,MF,20.0,13,0,166.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Joãozinho,br BRA,"FW,MF",34.0,5,0,89.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Luisão,br BRA,DF,19.0,2,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Bruno Costa,br BRA,FW,22.0,1,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Bryan,br BRA,DF,26.0,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,novorizontino,2023
+Vinicius Almeida,br BRA,GK,23.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Arthur Barbosa,br BRA,DF,16.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Lucas Brune Café,br BRA,FW,19.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Kaique dos Santos,br BRA,FW,19.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Renan Gorne,br BRA,FW,26.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Hiago,br BRA,DF,22.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Daiki Matsuoka,jp JPN,MF,21.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Lucas Pereira,br BRA,GK,24.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Bryan Rabello,cl CHI,"FW,MF",28.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Pedro Rinaldi,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Bruno Silva,br BRA,"DF,MF",34.0,0,0,,,,,,,,,,,,,,,,Matches,novorizontino,2023
+Squad Total,,,29.5,38,418,3420.0,38.0,46.0,29.0,75.0,44.0,2.0,4.0,93.0,7.0,1.21,0.76,1.97,1.16,1.92,,novorizontino,2023
+Opponent Total,,,27.3,38,418,3420.0,38.0,28.0,20.0,48.0,26.0,2.0,2.0,96.0,3.0,0.74,0.53,1.26,0.68,1.21,,novorizontino,2023
+Alex Muralha,br BRA,GK,33.0,38,38,3420.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Chico,br BRA,MF,31.0,37,37,2722.0,30.2,6.0,3.0,9.0,6.0,0.0,0.0,4.0,0.0,0.2,0.1,0.3,0.2,0.3,Matches,mirassol,2023
+Luiz Otávio,br BRA,DF,30.0,36,36,3195.0,35.5,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.03,0.03,0.06,0.03,0.06,Matches,mirassol,2023
+Gabriel,br BRA,"MF,FW",33.0,36,36,2733.0,30.4,6.0,2.0,8.0,4.0,2.0,3.0,7.0,0.0,0.2,0.07,0.26,0.13,0.2,Matches,mirassol,2023
+Lucas Ramon,br BRA,DF,28.0,35,35,2913.0,32.4,2.0,2.0,4.0,2.0,0.0,0.0,7.0,0.0,0.06,0.06,0.12,0.06,0.12,Matches,mirassol,2023
+Negueba,br BRA,"MF,FW",23.0,35,35,2771.0,30.8,4.0,5.0,9.0,4.0,0.0,0.0,8.0,0.0,0.13,0.16,0.29,0.13,0.29,Matches,mirassol,2023
+Danielzinho,br BRA,MF,28.0,33,31,2715.0,30.2,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.03,0.07,0.1,0.03,0.1,Matches,mirassol,2023
+Guilherme Biro,br BRA,DF,22.0,29,26,2238.0,24.9,2.0,3.0,5.0,2.0,0.0,0.0,4.0,0.0,0.08,0.12,0.2,0.08,0.2,Matches,mirassol,2023
+Thalisson Kelven,br BRA,DF,24.0,27,24,2198.0,24.4,3.0,1.0,4.0,3.0,0.0,0.0,4.0,1.0,0.12,0.04,0.16,0.12,0.16,Matches,mirassol,2023
+Zé Roberto,br BRA,"FW,MF",29.0,19,19,1366.0,15.2,8.0,3.0,11.0,4.0,4.0,5.0,6.0,1.0,0.53,0.2,0.72,0.26,0.46,Matches,mirassol,2023
+Yuri Oliveira Lima,br BRA,MF,28.0,22,16,1340.0,14.9,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Rodrigo Sam,br BRA,DF,27.0,23,14,1404.0,15.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Neto Moura,br BRA,MF,26.0,14,12,1044.0,11.6,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Manoel Neto,br BRA,DF,26.0,18,11,1039.0,11.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Reinaldo Kauan,br BRA,FW,20.0,16,10,808.0,9.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,mirassol,2023
+Fernandinho,br BRA,"MF,FW",25.0,31,9,1252.0,13.9,1.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.07,0.14,0.22,0.07,0.22,Matches,mirassol,2023
+Cristian Renato,br BRA,FW,22.0,32,8,1028.0,11.4,3.0,0.0,3.0,3.0,0.0,0.0,7.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,mirassol,2023
+Leandro Vilela,br BRA,MF,27.0,13,8,652.0,7.2,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,mirassol,2023
+Fernando Camilo Farias,br BRA,"MF,FW",36.0,32,4,791.0,8.8,2.0,3.0,5.0,2.0,0.0,0.0,3.0,0.0,0.23,0.34,0.57,0.23,0.57,Matches,mirassol,2023
+Heitor,br BRA,DF,22.0,9,2,298.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Reniê,br BRA,DF,33.0,3,2,187.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Julimar,br BRA,MF,22.0,19,1,531.0,5.9,1.0,0.0,1.0,1.0,0.0,0.0,4.0,1.0,0.17,0.0,0.17,0.17,0.17,Matches,mirassol,2023
+Flávio,br BRA,MF,22.0,11,1,277.0,3.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.32,0.0,0.32,Matches,mirassol,2023
+Rodrigo Ferreira,br BRA,DF,27.0,5,1,141.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Cedric,br BRA,DF,24.0,5,1,133.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Silvio Junior,br BRA,MF,32.0,6,1,114.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Vico Duarte,br BRA,FW,26.0,8,0,112.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Matheusinho,br BRA,FW,24.0,3,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Juninho,br BRA,MF,19.0,2,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Paulinho,br BRA,MF,33.0,1,0,20.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+Bruno Cortez,br BRA,DF,35.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,mirassol,2023
+César Reis,br BRA,GK,27.0,0,0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,,,,,Matches,mirassol,2023
+Darley Ramon Torres,br BRA,GK,33.0,0,0,,,,,,,,,,,,,,,,Matches,mirassol,2023
+Breno Roma,br BRA,DF,22.0,0,0,,,,,,,,,,,,,,,,Matches,mirassol,2023
+Wesley Santos,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,mirassol,2023
+Miguel Silva,br BRA,MF,19.0,0,0,,,,,,,,,,,,,,,,Matches,mirassol,2023
+Squad Total,,,28.2,38,418,3420.0,38.0,42.0,28.0,70.0,36.0,6.0,8.0,93.0,5.0,1.11,0.74,1.84,0.95,1.68,,mirassol,2023
+Opponent Total,,,27.6,38,418,3420.0,38.0,30.0,20.0,50.0,28.0,2.0,3.0,116.0,5.0,0.79,0.53,1.32,0.74,1.26,,mirassol,2023
+Rafael Thyere,br BRA,DF,29.0,31,31,2752.0,30.6,2.0,1.0,3.0,2.0,0.0,0.0,4.0,0.0,0.07,0.03,0.1,0.07,0.1,Matches,sport_recife,2023
+Vágner Love,br BRA,FW,38.0,33,31,2584.0,28.7,11.0,4.0,15.0,11.0,0.0,1.0,2.0,0.0,0.38,0.14,0.52,0.38,0.52,Matches,sport_recife,2023
+José Sabino,br BRA,DF,26.0,30,30,2613.0,29.0,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,sport_recife,2023
+Jorginho,br BRA,"MF,FW",32.0,27,25,2099.0,23.3,7.0,5.0,12.0,7.0,0.0,0.0,6.0,0.0,0.3,0.21,0.51,0.3,0.51,Matches,sport_recife,2023
+Ronaldo Henrique,br BRA,MF,28.0,28,25,2039.0,22.7,4.0,2.0,6.0,1.0,3.0,4.0,8.0,1.0,0.18,0.09,0.26,0.04,0.13,Matches,sport_recife,2023
+Renan dos Santos,br BRA,GK,33.0,24,24,2115.0,23.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+André Filipinho,br BRA,DF,26.0,33,23,2175.0,24.2,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,0.12,0.04,0.17,0.12,0.17,Matches,sport_recife,2023
+Luciano Juba,br BRA,MF,23.0,23,23,1991.0,22.1,7.0,5.0,12.0,7.0,0.0,0.0,2.0,0.0,0.32,0.23,0.54,0.32,0.54,Matches,sport_recife,2023
+Fábio Gonçalves,br BRA,MF,36.0,27,21,1815.0,20.2,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,sport_recife,2023
+Fábio Matheus,br BRA,MF,19.0,27,18,1701.0,18.9,3.0,1.0,4.0,3.0,0.0,0.0,6.0,0.0,0.16,0.05,0.21,0.16,0.21,Matches,sport_recife,2023
+Ewerton,br BRA,DF,22.0,27,17,1648.0,18.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,sport_recife,2023
+Edinho,br BRA,"MF,FW",28.0,34,17,1627.0,18.1,2.0,4.0,6.0,2.0,0.0,0.0,1.0,0.0,0.11,0.22,0.33,0.11,0.33,Matches,sport_recife,2023
+Eduardo,br BRA,DF,36.0,17,15,1026.0,11.4,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,sport_recife,2023
+Igor Cariús,br BRA,DF,29.0,15,12,1028.0,11.4,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.18,0.18,0.0,0.18,Matches,sport_recife,2023
+Facundo Labandeira,uy URU,"FW,MF",26.0,20,12,991.0,11.0,1.0,3.0,4.0,1.0,0.0,0.0,3.0,0.0,0.09,0.27,0.36,0.09,0.36,Matches,sport_recife,2023
+Fabrício,br BRA,"MF,FW",25.0,23,11,946.0,10.5,4.0,2.0,6.0,3.0,1.0,1.0,0.0,0.0,0.38,0.19,0.57,0.29,0.48,Matches,sport_recife,2023
+Denis,br BRA,GK,35.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Chico,br BRA,DF,24.0,11,9,897.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Felipe,br BRA,MF,28.0,15,9,855.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Alan Ruiz,ar ARG,"FW,MF",29.0,17,9,816.0,9.1,2.0,1.0,3.0,2.0,0.0,0.0,4.0,0.0,0.22,0.11,0.33,0.22,0.33,Matches,sport_recife,2023
+Alisson Cassiano,br BRA,DF,28.0,10,6,597.0,6.6,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Peglow,br BRA,"FW,MF",21.0,12,6,557.0,6.2,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.32,0.16,0.48,0.32,0.48,Matches,sport_recife,2023
+Roberto Rosales,ve VEN,DF,34.0,9,4,523.0,5.8,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,sport_recife,2023
+Pedro Victor,br BRA,MF,22.0,11,4,422.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Jordan,br BRA,GK,24.0,5,4,405.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Diego Souza,br BRA,"FW,MF",37.0,11,3,490.0,5.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,sport_recife,2023
+Wanderson,bg BUL,"MF,FW",35.0,13,3,351.0,3.9,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.51,0.0,0.51,0.51,0.51,Matches,sport_recife,2023
+Edison Negueba,br BRA,FW,22.0,4,3,223.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Matheus de Vargas,br BRA,MF,26.0,5,3,209.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Gabriel Santos,br BRA,FW,23.0,13,2,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Helber Italo,br BRA,MF,20.0,7,2,241.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Renzo,br BRA,DF,21.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Juan Xavier,br BRA,MF,20.0,5,1,134.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Nathan,br BRA,DF,24.0,3,1,78.0,0.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.15,1.15,0.0,1.15,Matches,sport_recife,2023
+Victor Gabriel,br BRA,DF,18.0,4,1,55.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Lucas André,br BRA,MF,20.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Michel,br BRA,MF,25.0,7,0,124.0,1.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.73,0.0,0.73,0.73,0.73,Matches,sport_recife,2023
+Paulinho,br BRA,FW,20.0,1,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Kayke Rodrigues,br BRA,FW,34.0,5,0,43.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Deyvson,br BRA,MF,20.0,1,0,18.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Gean Carlos,br BRA,FW,19.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sport_recife,2023
+Matheus Baraka,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,sport_recife,2023
+Denival,br BRA,GK,22.0,0,0,,,,,,,,,,,,,,,,Matches,sport_recife,2023
+João Igor,br BRA,MF,26.0,0,0,,,,,,,,,,,,,,,,Matches,sport_recife,2023
+Squad Total,,,29.0,38,418,3420.0,38.0,55.0,36.0,91.0,51.0,4.0,6.0,69.0,2.0,1.45,0.95,2.39,1.34,2.29,,sport_recife,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,36.0,23.0,59.0,30.0,6.0,6.0,99.0,4.0,0.95,0.61,1.55,0.79,1.39,,sport_recife,2023
+Júnior Dênis,br BRA,GK,24.0,37,37,3330.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Rafael Donato,br BRA,DF,33.0,37,37,3330.0,37.0,6.0,0.0,6.0,6.0,0.0,0.0,7.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,vila_nova,2023
+Eduardo Doma,br BRA,DF,24.0,35,35,3053.0,33.9,2.0,0.0,2.0,2.0,0.0,0.0,11.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,vila_nova,2023
+Rodrigo,br BRA,DF,19.0,35,35,3016.0,33.5,1.0,4.0,5.0,1.0,0.0,0.0,7.0,0.0,0.03,0.12,0.15,0.03,0.15,Matches,vila_nova,2023
+Guilherme Parede,br BRA,"MF,FW",27.0,34,34,2886.0,32.1,6.0,5.0,11.0,6.0,0.0,1.0,4.0,0.0,0.19,0.16,0.34,0.19,0.34,Matches,vila_nova,2023
+Lourenço,br BRA,MF,25.0,34,33,2559.0,28.4,3.0,3.0,6.0,3.0,0.0,0.0,9.0,0.0,0.11,0.11,0.21,0.11,0.21,Matches,vila_nova,2023
+Ralf,br BRA,MF,38.0,31,29,2481.0,27.6,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,vila_nova,2023
+Caio Dantas,br BRA,"FW,MF",29.0,32,29,2202.0,24.5,10.0,2.0,12.0,10.0,0.0,0.0,0.0,0.0,0.41,0.08,0.49,0.41,0.49,Matches,vila_nova,2023
+Léo Duarte,br BRA,DF,23.0,29,27,2089.0,23.2,0.0,1.0,1.0,0.0,0.0,0.0,9.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,vila_nova,2023
+Neto Pessoa,br BRA,FW,28.0,31,23,1905.0,21.2,3.0,4.0,7.0,3.0,0.0,1.0,6.0,0.0,0.14,0.19,0.33,0.14,0.33,Matches,vila_nova,2023
+Igor Henrique,br BRA,"MF,FW",31.0,28,15,1495.0,16.6,7.0,1.0,8.0,6.0,1.0,1.0,9.0,0.0,0.42,0.06,0.48,0.36,0.42,Matches,vila_nova,2023
+Everton Brito,br BRA,"MF,FW",27.0,26,15,1285.0,14.3,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,vila_nova,2023
+Juan,br BRA,"MF,FW",21.0,16,12,990.0,11.0,4.0,2.0,6.0,4.0,0.0,0.0,2.0,0.0,0.36,0.18,0.55,0.36,0.55,Matches,vila_nova,2023
+Van Basty Sousa,br BRA,MF,28.0,28,11,1220.0,13.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Marcelinho,br BRA,DF,36.0,21,9,921.0,10.2,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,vila_nova,2023
+Cristiano Japa,br BRA,MF,22.0,18,9,878.0,9.8,0.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,vila_nova,2023
+Ronald,br BRA,MF,25.0,22,7,792.0,8.8,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.11,0.11,0.23,0.11,0.23,Matches,vila_nova,2023
+Henrique Almeida,br BRA,"FW,MF",31.0,15,5,541.0,6.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.17,0.17,0.33,0.17,0.33,Matches,vila_nova,2023
+Matheus Carvalho,br BRA,"MF,FW",22.0,9,4,327.0,3.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches,vila_nova,2023
+Marcondes,br BRA,DF,29.0,7,3,265.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Luciano Naninho,br BRA,"MF,FW",30.0,23,2,575.0,6.4,1.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.16,0.31,0.47,0.16,0.47,Matches,vila_nova,2023
+Rian,br BRA,DF,19.0,7,2,298.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Marquinhos Pedroso,br BRA,DF,29.0,4,2,187.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Diego Renan,br BRA,DF,33.0,9,1,242.0,2.7,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.37,0.37,0.0,0.37,Matches,vila_nova,2023
+Jean Pierre,br BRA,DF,29.0,2,1,114.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Vanderlei,br BRA,GK,38.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Marlone,br BRA,MF,30.0,15,0,191.0,2.1,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.94,0.0,0.94,0.94,0.94,Matches,vila_nova,2023
+João Lucas,br BRA,MF,22.0,3,0,98.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Hiago,br BRA,DF,25.0,1,0,79.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Gustavo Maia,br BRA,FW,22.0,5,0,68.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Victor Andrade,br BRA,"FW,MF",27.0,4,0,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Romarinho,br BRA,MF,26.0,2,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+João Celeri,br BRA,FW,23.0,2,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,vila_nova,2023
+Christofer Alves,br BRA,GK,26.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+José Daniel,me MNE,MF,22.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+Vitor Hugo,br BRA,GK,21.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+Jordan,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+Iago Mendonça,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+Rickson,br BRA,MF,24.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+Ulisses,br BRA,DF,23.0,0,0,,,,,,,,,,,,,,,,Matches,vila_nova,2023
+Squad Total,,,27.7,38,418,3420.0,38.0,48.0,33.0,81.0,47.0,1.0,3.0,100.0,1.0,1.26,0.87,2.13,1.24,2.11,,vila_nova,2023
+Opponent Total,,,27.6,38,418,3420.0,38.0,29.0,21.0,50.0,25.0,4.0,5.0,121.0,11.0,0.76,0.55,1.32,0.66,1.21,,vila_nova,2023
+João Paulo Alves,br BRA,MF,32.0,35,35,2779.0,30.9,5.0,2.0,7.0,5.0,0.0,0.0,7.0,0.0,0.16,0.06,0.23,0.16,0.23,Matches,crb,2023
+Diogo Silva,br BRA,GK,36.0,34,34,3060.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Lucas Lima,br BRA,MF,22.0,35,33,2540.0,28.2,2.0,1.0,3.0,2.0,0.0,0.0,4.0,1.0,0.07,0.04,0.11,0.07,0.11,Matches,crb,2023
+Anselmo Ramon,br BRA,FW,34.0,31,30,2493.0,27.7,9.0,3.0,12.0,9.0,0.0,1.0,3.0,1.0,0.32,0.11,0.43,0.32,0.43,Matches,crb,2023
+Falcão,br BRA,MF,24.0,33,28,2383.0,26.5,1.0,0.0,1.0,1.0,0.0,0.0,6.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,crb,2023
+Renato,br BRA,"MF,FW",33.0,30,25,2084.0,23.2,7.0,3.0,10.0,7.0,0.0,0.0,6.0,0.0,0.3,0.13,0.43,0.3,0.43,Matches,crb,2023
+Matheus Ribeiro,br BRA,DF,29.0,30,24,2189.0,24.3,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,crb,2023
+Fabio Alemao,br BRA,DF,26.0,24,23,1939.0,21.5,1.0,1.0,2.0,1.0,0.0,0.0,10.0,1.0,0.05,0.05,0.09,0.05,0.09,Matches,crb,2023
+Guilherme Romão,br BRA,DF,25.0,24,23,1836.0,20.4,1.0,1.0,2.0,1.0,0.0,0.0,7.0,1.0,0.05,0.05,0.1,0.05,0.1,Matches,crb,2023
+Diogo Hereda,br BRA,DF,24.0,28,20,1897.0,21.1,0.0,5.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.24,0.24,0.0,0.24,Matches,crb,2023
+Anderson Conceição,br BRA,DF,33.0,20,18,1553.0,17.3,1.0,1.0,2.0,1.0,0.0,0.0,5.0,1.0,0.06,0.06,0.12,0.06,0.12,Matches,crb,2023
+Juninho,br BRA,MF,36.0,31,17,1534.0,17.0,1.0,4.0,5.0,1.0,0.0,0.0,3.0,0.0,0.06,0.23,0.29,0.06,0.29,Matches,crb,2023
+Leo Augusto Pereira,br BRA,"FW,MF",22.0,19,16,1341.0,14.9,4.0,1.0,5.0,4.0,0.0,0.0,1.0,0.0,0.27,0.07,0.34,0.27,0.34,Matches,crb,2023
+Ramon Menezes Roma,br BRA,DF,27.0,15,14,1314.0,14.6,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Saimon Tormen,br BRA,DF,31.0,18,11,1028.0,11.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Rômulo,br BRA,"FW,MF",27.0,25,11,981.0,10.9,2.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.18,0.28,0.46,0.18,0.46,Matches,crb,2023
+Edimar Fraga,br BRA,DF,36.0,17,10,985.0,10.9,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Gum,br BRA,DF,37.0,15,8,831.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Mike,br BRA,"FW,MF",29.0,10,8,586.0,6.5,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,crb,2023
+Anderson Leite,br BRA,"MF,FW",29.0,16,7,572.0,6.4,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,crb,2023
+Rafael Longuine,br BRA,MF,32.0,26,5,769.0,8.5,1.0,3.0,4.0,1.0,0.0,0.0,1.0,0.0,0.12,0.35,0.47,0.12,0.47,Matches,crb,2023
+Auremir,br BRA,MF,31.0,18,4,509.0,5.7,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Jonathan Copete,co COL,"FW,MF",35.0,9,3,350.0,3.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.26,0.26,0.51,0.26,0.51,Matches,crb,2023
+Vitor Caetano,br BRA,GK,23.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Bruno Costa,br BRA,FW,22.0,18,2,538.0,6.0,4.0,1.0,5.0,4.0,0.0,0.0,2.0,0.0,0.67,0.17,0.84,0.67,0.84,Matches,crb,2023
+Hyuri,br BRA,FW,31.0,16,2,267.0,3.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.67,0.0,0.67,0.67,0.67,Matches,crb,2023
+Matheus Mega,br BRA,DF,23.0,3,2,190.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Júlio César,br BRA,GK,36.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Gilvan,br BRA,DF,33.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Jailson,br BRA,FW,19.0,3,0,108.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+David Brall,br BRA,FW,19.0,4,0,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Everson,br BRA,MF,21.0,3,0,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Christian Eto'o,br BRA,FW,20.0,4,0,49.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Léo Silva,br BRA,MF,20.0,3,0,38.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Riquelme,br BRA,MF,19.0,1,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Tata Baiano,br BRA,FW,26.0,1,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Octavio,br BRA,DF,21.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crb,2023
+Baranhas,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,crb,2023
+Squad Total,,,29.9,38,418,3420.0,38.0,44.0,32.0,76.0,44.0,0.0,1.0,95.0,7.0,1.16,0.84,2.0,1.16,2.0,,crb,2023
+Opponent Total,,,27.4,38,418,3420.0,38.0,39.0,26.0,65.0,34.0,5.0,6.0,85.0,3.0,1.03,0.68,1.71,0.89,1.58,,crb,2023
+Lucão,br BRA,DF,26.0,36,36,3183.0,35.4,0.0,1.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.03,0.03,0.0,0.03,Matches,guarani,2023
+Diogo Mateus,br BRA,DF,29.0,35,35,3074.0,34.2,1.0,1.0,2.0,0.0,1.0,1.0,11.0,0.0,0.03,0.03,0.06,0.0,0.03,Matches,guarani,2023
+Mayk,br BRA,DF,23.0,36,35,2976.0,33.1,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,guarani,2023
+Bruno José,br BRA,"MF,FW",24.0,32,29,2416.0,26.8,4.0,7.0,11.0,4.0,0.0,0.0,8.0,0.0,0.15,0.26,0.41,0.15,0.41,Matches,guarani,2023
+Matheus Barbosa,br BRA,MF,28.0,30,29,2252.0,25.0,3.0,2.0,5.0,3.0,0.0,0.0,10.0,0.0,0.12,0.08,0.2,0.12,0.2,Matches,guarani,2023
+Matheus Bueno,br BRA,MF,24.0,29,27,2223.0,24.7,1.0,0.0,1.0,1.0,0.0,0.0,10.0,2.0,0.04,0.0,0.04,0.04,0.04,Matches,guarani,2023
+Bruninho,br BRA,"MF,FW",22.0,33,27,2112.0,23.5,7.0,2.0,9.0,7.0,0.0,0.0,6.0,0.0,0.3,0.09,0.38,0.3,0.38,Matches,guarani,2023
+Pegorari,br BRA,GK,31.0,26,25,2214.0,24.6,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Alan Santos,br BRA,DF,31.0,24,24,2094.0,23.3,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Derek,br BRA,FW,25.0,34,23,2020.0,22.4,10.0,1.0,11.0,10.0,0.0,0.0,6.0,0.0,0.45,0.04,0.49,0.45,0.49,Matches,guarani,2023
+João Victor,br BRA,"MF,FW",23.0,33,22,1838.0,20.4,3.0,4.0,7.0,3.0,0.0,0.0,6.0,1.0,0.15,0.2,0.34,0.15,0.34,Matches,guarani,2023
+Isaque,br BRA,MF,25.0,30,15,1334.0,14.8,2.0,2.0,4.0,2.0,0.0,1.0,3.0,0.0,0.13,0.13,0.27,0.13,0.27,Matches,guarani,2023
+Bruno Mendes,br BRA,FW,28.0,33,14,1354.0,15.0,7.0,0.0,7.0,6.0,1.0,1.0,2.0,0.0,0.47,0.0,0.47,0.4,0.4,Matches,guarani,2023
+Régis,br BRA,MF,30.0,27,12,1153.0,12.8,1.0,2.0,3.0,0.0,1.0,2.0,3.0,0.0,0.08,0.16,0.23,0.0,0.16,Matches,guarani,2023
+Mota,br BRA,DF,25.0,13,11,1028.0,11.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Wenderson,br BRA,"MF,DF",24.0,22,10,976.0,10.8,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Iván Alvariño,ar ARG,"DF,MF",21.0,13,10,955.0,10.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Tony Batista,br BRA,GK,30.0,8,8,695.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Lucas Araujo,br BRA,MF,23.0,25,7,914.0,10.2,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,guarani,2023
+Douglas Borges,br BRA,GK,32.0,5,5,450.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Gustavo França,br BRA,"MF,FW",24.0,7,3,326.0,3.6,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.55,0.55,0.0,0.55,Matches,guarani,2023
+Iago Teles,br BRA,FW,22.0,8,3,222.0,2.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.41,0.0,0.41,0.41,0.41,Matches,guarani,2023
+Pablo Thomaz,br BRA,"MF,FW",23.0,13,2,380.0,4.2,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.24,0.0,0.24,0.24,0.24,Matches,guarani,2023
+Caique,br BRA,DF,24.0,10,2,224.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Lucas Silva,br BRA,FW,25.0,14,1,259.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Neílton,br BRA,MF,28.0,8,1,160.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Diego Porfirio,br BRA,DF,23.0,5,1,131.0,1.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.69,0.69,0.0,0.69,Matches,guarani,2023
+Yan Henrique,br BRA,DF,17.0,1,1,81.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Bernardo Lemes,br BRA,MF,21.0,13,0,221.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Alvaro Jose,br BRA,GK,19.0,1,0,61.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Eliel,br BRA,DF,21.0,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Robinho,br BRA,FW,23.0,2,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,guarani,2023
+Lucas Adell,br BRA,DF,22.0,0,0,,,,,,,,,,,,,,,,Matches,guarani,2023
+Filipe Chrysman,br BRA,FW,20.0,0,0,,,,,,,,,,,,,,,,Matches,guarani,2023
+Rafael Freitas,br BRA,FW,17.0,0,0,,,,,,,,,,,,,,,,Matches,guarani,2023
+Lima,br BRA,MF,23.0,0,0,,,,,,,,,,,,,,,,Matches,guarani,2023
+Arthur Motta,br BRA,GK,21.0,0,0,,,,,,,,,,,,,,,,Matches,guarani,2023
+Titi,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,guarani,2023
+Squad Total,,,26.5,38,418,3420.0,38.0,41.0,29.0,70.0,38.0,3.0,5.0,108.0,7.0,1.08,0.76,1.84,1.0,1.76,,guarani,2023
+Opponent Total,,,27.7,38,418,3420.0,38.0,33.0,24.0,57.0,32.0,1.0,1.0,103.0,5.0,0.87,0.63,1.5,0.84,1.47,,guarani,2023
+Erick,br BRA,"MF,FW",25.0,31,30,2531.0,28.1,10.0,4.0,14.0,9.0,1.0,3.0,6.0,0.0,0.36,0.14,0.5,0.32,0.46,Matches,ceara,2023
+Jean Carlos Vicente,br BRA,MF,30.0,36,26,2317.0,25.7,3.0,4.0,7.0,3.0,0.0,0.0,3.0,0.0,0.12,0.16,0.27,0.12,0.27,Matches,ceara,2023
+Luiz Otávio,br BRA,DF,34.0,23,23,2051.0,22.8,2.0,0.0,2.0,2.0,0.0,0.0,7.0,1.0,0.09,0.0,0.09,0.09,0.09,Matches,ceara,2023
+David Loiola,br BRA,DF,20.0,30,23,2003.0,22.3,1.0,1.0,2.0,1.0,0.0,0.0,5.0,1.0,0.04,0.04,0.09,0.04,0.09,Matches,ceara,2023
+Warley,br BRA,DF,23.0,28,22,2021.0,22.5,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,ceara,2023
+Bruno Ferreira,br BRA,GK,28.0,20,20,1746.0,19.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Tiago Pagnussat,br BRA,DF,32.0,20,18,1677.0,18.6,1.0,1.0,2.0,1.0,0.0,0.0,2.0,1.0,0.05,0.05,0.11,0.05,0.11,Matches,ceara,2023
+Richardson,br BRA,MF,31.0,25,17,1532.0,17.0,0.0,1.0,1.0,0.0,0.0,0.0,9.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,ceara,2023
+Willian Maranhão,br BRA,MF,27.0,18,17,1396.0,15.5,1.0,0.0,1.0,1.0,0.0,0.0,7.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,ceara,2023
+Chayene Santos,br BRA,MF,32.0,22,17,1338.0,14.9,2.0,2.0,4.0,2.0,0.0,0.0,3.0,0.0,0.13,0.13,0.27,0.13,0.27,Matches,ceara,2023
+Caíque de Jesus Gonçalves,br BRA,"DF,MF",27.0,20,14,1307.0,14.5,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Nicolas,br BRA,FW,33.0,31,14,1256.0,14.0,3.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,ceara,2023
+Léo Santos,br BRA,"MF,DF",24.0,19,14,1183.0,13.1,2.0,2.0,4.0,2.0,0.0,0.0,6.0,0.0,0.15,0.15,0.3,0.15,0.3,Matches,ceara,2023
+Janderson,br BRA,"MF,FW",23.0,33,13,1407.0,15.6,2.0,1.0,3.0,2.0,0.0,0.0,5.0,0.0,0.13,0.06,0.19,0.13,0.19,Matches,ceara,2023
+Richard,br BRA,GK,31.0,13,13,1170.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Guilherme Carvalho,br BRA,"MF,DF",23.0,26,12,1177.0,13.1,1.0,2.0,3.0,0.0,1.0,1.0,3.0,0.0,0.08,0.15,0.23,0.0,0.15,Matches,ceara,2023
+Paulo Victor,br BRA,DF,21.0,12,12,890.0,9.9,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Danilo Barcelos,br BRA,DF,31.0,15,11,969.0,10.8,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,ceara,2023
+Guilherme Bissoli,br BRA,FW,25.0,17,10,885.0,9.8,3.0,2.0,5.0,1.0,2.0,2.0,2.0,0.0,0.31,0.2,0.51,0.1,0.31,Matches,ceara,2023
+Gabriel Lacerda,br BRA,DF,23.0,10,10,840.0,9.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Saulo da Silva,br BRA,"FW,MF",25.0,14,9,779.0,8.7,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,ceara,2023
+Chrystian Barletta,br BRA,"MF,FW",21.0,11,9,648.0,7.2,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.42,0.0,0.42,0.42,0.42,Matches,ceara,2023
+Zé Ricardo,br BRA,MF,26.0,17,8,890.0,9.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Erick Pulga,br BRA,"FW,MF",22.0,18,8,862.0,9.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,ceara,2023
+Vitor Gabriel,br BRA,FW,23.0,10,7,620.0,6.9,4.0,1.0,5.0,4.0,0.0,0.0,2.0,0.0,0.58,0.15,0.73,0.58,0.73,Matches,ceara,2023
+Willian Formiga,br BRA,DF,28.0,14,6,739.0,8.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Breno,br BRA,MF,22.0,9,6,460.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+André Luiz,br BRA,GK,22.0,6,5,495.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Lucas Ribeiro,br BRA,DF,24.0,6,4,380.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Arthur,br BRA,MF,28.0,6,3,254.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Paulo Victor,br BRA,DF,21.0,3,3,251.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Pedro Lucas,br BRA,MF,20.0,6,3,249.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Hygor,br BRA,MF,30.0,4,3,198.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Michel,br BRA,DF,32.0,5,2,145.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Pedrinho,br BRA,FW,20.0,12,1,275.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Cléber,br BRA,FW,26.0,6,1,224.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Jonathan,br BRA,DF,18.0,2,1,100.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Sidnei,br BRA,DF,33.0,2,1,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+João Victor,br BRA,DF,18.0,1,1,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Alvaro,br BRA,FW,25.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Henrique Luvannor,md MDA,"DF,FW",32.0,5,0,127.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Ezequiel,br BRA,FW,19.0,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ceara,2023
+Alfredo Aguilar,py PAR,GK,34.0,0,0,,,,,,,,,,,,,,,,Matches,ceara,2023
+Cesar,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,ceara,2023
+Cristian,br BRA,GK,20.0,0,0,,,,,,,,,,,,,,,,Matches,ceara,2023
+Yago Lincoln,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,ceara,2023
+Luis Manuel Orejuela,co COL,DF,27.0,0,0,,,,,,,,,,,,,,,,Matches,ceara,2023
+Léo Rafael,br BRA,MF,21.0,0,0,,,,,,,,,,,,,,,,Matches,ceara,2023
+Squad Total,,,27.1,38,418,3420.0,38.0,40.0,23.0,63.0,36.0,4.0,6.0,123.0,5.0,1.05,0.61,1.66,0.95,1.55,,ceara,2023
+Opponent Total,,,27.6,38,418,3420.0,38.0,43.0,24.0,67.0,37.0,6.0,8.0,108.0,8.0,1.13,0.63,1.76,0.97,1.61,,ceara,2023
+Guilherme Madruga,br BRA,MF,22.0,32,32,2702.0,30.0,2.0,3.0,5.0,2.0,0.0,0.0,11.0,0.0,0.07,0.1,0.17,0.07,0.17,Matches,botafogo_sp,2023
+Matheus Albino,br BRA,GK,27.0,31,30,2715.0,30.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Márcio Silva,br BRA,DF,21.0,32,30,2696.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Tarik,br BRA,MF,29.0,31,28,2417.0,26.9,2.0,2.0,4.0,2.0,0.0,0.0,10.0,0.0,0.07,0.07,0.15,0.07,0.15,Matches,botafogo_sp,2023
+Osman Júnior,br BRA,"FW,MF",30.0,32,28,2324.0,25.8,5.0,0.0,5.0,4.0,1.0,1.0,8.0,0.0,0.19,0.0,0.19,0.15,0.15,Matches,botafogo_sp,2023
+Patrick,br BRA,"DF,MF",25.0,30,26,2356.0,26.2,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,0.04,0.04,0.08,0.04,0.08,Matches,botafogo_sp,2023
+Thassio,br BRA,"DF,MF",22.0,30,25,2136.0,23.7,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.04,0.04,0.08,0.04,0.08,Matches,botafogo_sp,2023
+Diogo Silva,br BRA,DF,28.0,25,23,2077.0,23.1,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,botafogo_sp,2023
+Salatiel,br BRA,FW,30.0,23,22,1781.0,19.8,4.0,1.0,5.0,4.0,0.0,0.0,2.0,0.0,0.2,0.05,0.25,0.2,0.25,Matches,botafogo_sp,2023
+Luiz Henrique,br BRA,"MF,FW",23.0,27,20,1452.0,16.1,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,botafogo_sp,2023
+Lucas Moreira,br BRA,"MF,FW",22.0,29,16,1394.0,15.5,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.19,0.19,0.0,0.19,Matches,botafogo_sp,2023
+Lucas Dias,br BRA,DF,27.0,17,14,1217.0,13.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Jean,br BRA,"DF,MF",28.0,17,12,1011.0,11.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,botafogo_sp,2023
+Carlos Manuel,br BRA,MF,22.0,26,10,1177.0,13.1,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,botafogo_sp,2023
+Vidal,br BRA,"DF,MF",26.0,16,10,881.0,9.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Ericson,br BRA,DF,23.0,12,10,853.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Edson Caríus,br BRA,FW,34.0,19,9,927.0,10.3,1.0,2.0,3.0,1.0,0.0,0.0,0.0,1.0,0.1,0.19,0.29,0.1,0.29,Matches,botafogo_sp,2023
+Guilherme Mantuan,br BRA,"MF,FW",25.0,13,9,760.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Ivonei,br BRA,"FW,MF",20.0,17,9,648.0,7.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Carlinhos,br BRA,DF,27.0,9,8,765.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Robinho,br BRA,MF,28.0,11,8,746.0,8.3,2.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.24,0.12,0.36,0.12,0.24,Matches,botafogo_sp,2023
+Victor Souza,br BRA,GK,30.0,8,8,705.0,7.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Jonas,br BRA,"FW,MF",23.0,16,8,681.0,7.6,1.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,0.13,0.13,0.26,0.13,0.26,Matches,botafogo_sp,2023
+Edson Carioca,br BRA,MF,25.0,29,4,844.0,9.4,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,botafogo_sp,2023
+Pedro Rodrigues,br BRA,"MF,FW",24.0,14,4,429.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Luis Felipe,br BRA,DF,26.0,7,4,311.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Gustavo Xuxa,br BRA,MF,29.0,17,3,418.0,4.6,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.22,0.0,0.22,0.22,0.22,Matches,botafogo_sp,2023
+Fillipe Soutto,br BRA,MF,31.0,3,3,223.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Tomás Andrade,ar ARG,"MF,FW",26.0,9,2,320.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Juan Martínez,mx MEX,DF,23.0,1,1,89.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Zé Lúcio,br BRA,DF,18.0,1,1,82.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Tortello,br BRA,FW,18.0,1,1,61.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Willian,br BRA,FW,18.0,3,0,101.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+João Veras,br BRA,FW,22.0,5,0,57.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Pedro Severino,br BRA,FW,17.0,1,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+João Maraninir,br BRA,DF,20.0,1,0,18.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Lucas Parente,br BRA,MF,22.0,2,0,14.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Ruan Carlos,br BRA,MF,19.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Marcos,br BRA,DF,23.0,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,botafogo_sp,2023
+Gustavo Cipriano,br BRA,DF,21.0,0,0,,,,,,,,,,,,,,,,Matches,botafogo_sp,2023
+Gabriel Gasparotto,br BRA,GK,29.0,0,0,,,,,,,,,,,,,,,,Matches,botafogo_sp,2023
+Brenno Klippel,br BRA,GK,19.0,0,0,,,,,,,,,,,,,,,,Matches,botafogo_sp,2023
+Levy,br BRA,GK,21.0,0,0,,,,,,,,,,,,,,,,Matches,botafogo_sp,2023
+Lucas Lourenço,br BRA,MF,22.0,0,0,,,,,,,,,,,,,,,,Matches,botafogo_sp,2023
+Squad Total,,,26.1,38,418,3420.0,38.0,25.0,16.0,41.0,23.0,2.0,2.0,82.0,5.0,0.66,0.42,1.08,0.61,1.03,,botafogo_sp,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,40.0,29.0,69.0,38.0,2.0,2.0,103.0,4.0,1.05,0.76,1.82,1.0,1.76,,botafogo_sp,2023
+Rafael Gava,br BRA,MF,29.0,30,30,2409.0,26.8,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,0.07,0.07,0.0,0.07,Matches,avai,2023
+Wellington Martins,br BRA,MF,32.0,30,29,2468.0,27.4,0.0,2.0,2.0,0.0,0.0,0.0,10.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,avai,2023
+Natanael,br BRA,"DF,FW",32.0,31,29,2450.0,27.2,1.0,2.0,3.0,1.0,0.0,0.0,8.0,1.0,0.04,0.07,0.11,0.04,0.11,Matches,avai,2023
+Igor Bohn,br BRA,GK,26.0,22,21,1974.0,21.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Thales Oleques,br BRA,DF,28.0,26,21,1817.0,20.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Igor Inocêncio,br BRA,"DF,MF",24.0,25,20,1813.0,20.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Roberto,br BRA,DF,24.0,24,19,1949.0,21.7,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Alan Costa,br BRA,DF,32.0,22,19,1793.0,19.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Eduardo de Biasi,br BRA,MF,26.0,19,18,1404.0,15.6,2.0,0.0,2.0,2.0,0.0,0.0,8.0,1.0,0.13,0.0,0.13,0.13,0.13,Matches,avai,2023
+Waguinho,br BRA,"FW,MF",33.0,22,16,1336.0,14.8,4.0,1.0,5.0,3.0,1.0,1.0,2.0,0.0,0.27,0.07,0.34,0.2,0.27,Matches,avai,2023
+Felipe Silva Lipe,br BRA,DF,20.0,15,15,1264.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Bruno Cortez,br BRA,DF,35.0,18,14,1251.0,13.9,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Gabriel Poveda,br BRA,FW,24.0,19,14,1190.0,13.2,3.0,1.0,4.0,2.0,1.0,1.0,2.0,0.0,0.23,0.08,0.3,0.15,0.23,Matches,avai,2023
+William Pottker,br BRA,FW,29.0,12,12,1059.0,11.8,2.0,1.0,3.0,0.0,2.0,2.0,6.0,0.0,0.17,0.08,0.25,0.0,0.08,Matches,avai,2023
+Ygor Vinhas,br BRA,GK,28.0,11,11,990.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Felipe Rocha,br BRA,"FW,DF",20.0,24,10,908.0,10.1,2.0,1.0,3.0,2.0,0.0,0.0,6.0,1.0,0.2,0.1,0.3,0.2,0.3,Matches,avai,2023
+Jean Cléber,br BRA,MF,32.0,19,10,869.0,9.7,0.0,2.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,avai,2023
+Jonathan Costa,br BRA,DF,27.0,11,10,769.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Denílson,br BRA,FW,27.0,9,9,738.0,8.2,4.0,0.0,4.0,4.0,0.0,0.0,2.0,1.0,0.49,0.0,0.49,0.49,0.49,Matches,avai,2023
+Jean Lucas,br BRA,FW,27.0,9,9,724.0,8.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,avai,2023
+Douglas,br BRA,DF,32.0,13,9,721.0,8.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,avai,2023
+Giovanni Piccolomo,br BRA,MF,28.0,13,8,532.0,5.9,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.17,0.17,0.34,0.17,0.34,Matches,avai,2023
+Dentinho,br BRA,"FW,MF",25.0,14,7,641.0,7.1,1.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,0.14,0.0,0.14,0.14,0.14,Matches,avai,2023
+Xavier,br BRA,"MF,FW",22.0,17,7,569.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Santiago Patiño,us USA,FW,25.0,12,6,554.0,6.2,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.32,0.0,0.32,0.32,0.32,Matches,avai,2023
+Giva Santos,br BRA,MF,23.0,10,5,475.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Vinicius José Ignácio,br BRA,DF,31.0,6,5,421.0,4.7,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.21,0.21,0.0,0.21,Matches,avai,2023
+Alexander,br BRA,GK,23.0,5,5,363.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Marquinhos Cipriano,br BRA,"MF,FW",23.0,6,5,303.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Fellipe Bastos,br BRA,MF,32.0,15,4,520.0,5.8,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,avai,2023
+Andrey,br BRA,"MF,FW",20.0,11,4,400.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Gustavo Modesto,br BRA,FW,21.0,14,3,368.0,4.1,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.24,0.24,0.49,0.24,0.49,Matches,avai,2023
+Gustavo Santos,br BRA,"FW,MF",20.0,10,3,327.0,3.6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.28,0.28,0.0,0.28,Matches,avai,2023
+Ricardo Bueno,br BRA,FW,35.0,6,3,295.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Júlio César,br BRA,FW,28.0,8,2,327.0,3.6,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.28,0.28,0.55,0.28,0.55,Matches,avai,2023
+Robinho,br BRA,MF,35.0,6,2,256.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.35,0.35,0.0,0.35,Matches,avai,2023
+Vitinho,br BRA,FW,22.0,7,2,215.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Igor Dutra,br BRA,FW,21.0,4,1,136.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Douglas Friedrich,br BRA,GK,34.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Edinho,br BRA,MF,21.0,4,0,147.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Gaspar,br BRA,FW,20.0,5,0,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Jael Ferreira,br BRA,FW,34.0,6,0,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Denilson,br BRA,DF,19.0,3,0,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Felipe Camargo,br BRA,DF,24.0,2,0,48.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Leandro Carvalho,br BRA,"FW,MF",27.0,2,0,36.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Gazão,br BRA,MF,21.0,2,0,18.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Rafael Forster,br BRA,DF,32.0,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,avai,2023
+Nação Avaiana,,MF,,0,0,,,,,,,,,,,,,,,,Matches,avai,2023
+Bila,br BRA,,24.0,0,0,,,,,,,,,,,,,,,,Matches,avai,2023
+Arthur Macaé,br BRA,MF,22.0,0,0,,,,,,,,,,,,,,,,Matches,avai,2023
+Otávio Passos,br BRA,GK,30.0,0,0,,,,,,,,,,,,,,,,Matches,avai,2023
+Ronaldy,br BRA,,18.0,0,0,,,,,,,,,,,,,,,,Matches,avai,2023
+Guilherme Santos,br BRA,FW,21.0,0,0,,,,,,,,,,,,,,,,Matches,avai,2023
+Squad Total,,,28.2,38,418,3420.0,38.0,27.0,18.0,45.0,23.0,4.0,4.0,116.0,13.0,0.71,0.47,1.18,0.61,1.08,,avai,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,48.0,27.0,75.0,43.0,5.0,7.0,98.0,5.0,1.26,0.71,1.97,1.13,1.84,,avai,2023
+Jefferson Paulino,br BRA,GK,31.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Claudinho,br BRA,DF,32.0,29,29,2453.0,27.3,0.0,1.0,1.0,0.0,0.0,0.0,5.0,2.0,0.0,0.04,0.04,0.0,0.04,Matches,ituano,2023
+Mario Sergio,br BRA,DF,28.0,31,28,2493.0,27.7,2.0,2.0,4.0,2.0,0.0,0.0,5.0,0.0,0.07,0.07,0.14,0.07,0.14,Matches,ituano,2023
+José Aldo,br BRA,MF,24.0,27,24,2087.0,23.2,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Marcel Afonso,br BRA,DF,26.0,27,22,2081.0,23.1,1.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,ituano,2023
+Hélio Borges,br BRA,MF,22.0,33,21,1962.0,21.8,0.0,3.0,3.0,0.0,0.0,0.0,6.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,ituano,2023
+Pacheco,br BRA,DF,31.0,28,20,1948.0,21.6,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,ituano,2023
+Felipe Saraiva,br BRA,MF,24.0,28,20,1816.0,20.2,2.0,2.0,4.0,2.0,0.0,0.0,4.0,0.0,0.1,0.1,0.2,0.1,0.2,Matches,ituano,2023
+Rafael Carvalheira,br BRA,MF,23.0,29,18,1775.0,19.7,2.0,1.0,3.0,2.0,0.0,0.0,6.0,1.0,0.1,0.05,0.15,0.1,0.15,Matches,ituano,2023
+Yann Rolim,br BRA,"MF,FW",27.0,26,17,1398.0,15.5,3.0,2.0,5.0,3.0,0.0,0.0,3.0,0.0,0.19,0.13,0.32,0.19,0.32,Matches,ituano,2023
+Eduardo Person,br BRA,"MF,FW",26.0,21,17,1390.0,15.4,2.0,3.0,5.0,2.0,0.0,0.0,4.0,0.0,0.13,0.19,0.32,0.13,0.32,Matches,ituano,2023
+Iury,br BRA,DF,30.0,19,16,1289.0,14.3,0.0,2.0,2.0,0.0,0.0,0.0,9.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,ituano,2023
+Wesley Pombo,br BRA,MF,20.0,18,16,1157.0,12.9,3.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,0.23,0.0,0.23,0.23,0.23,Matches,ituano,2023
+Paulo Victor,br BRA,"FW,MF",21.0,15,14,1152.0,12.8,4.0,0.0,4.0,4.0,0.0,0.0,5.0,0.0,0.31,0.0,0.31,0.31,0.31,Matches,ituano,2023
+Rafael Pereira,br BRA,DF,38.0,19,13,1292.0,14.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Marthã,br BRA,MF,25.0,17,13,1068.0,11.9,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,ituano,2023
+Matheus Cadorini,br BRA,FW,20.0,18,13,983.0,10.9,4.0,1.0,5.0,3.0,1.0,1.0,1.0,0.0,0.37,0.09,0.46,0.27,0.37,Matches,ituano,2023
+Quirino,br BRA,FW,29.0,30,12,1444.0,16.0,5.0,0.0,5.0,5.0,0.0,1.0,3.0,0.0,0.31,0.0,0.31,0.31,0.31,Matches,ituano,2023
+Thiaguinho,br BRA,MF,25.0,18,12,1009.0,11.2,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.18,0.18,0.0,0.18,Matches,ituano,2023
+Richard,br BRA,DF,18.0,12,9,849.0,9.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Frazan,br BRA,DF,26.0,9,6,542.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Carlão,br BRA,DF,37.0,6,6,495.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Bruno Xavier,br BRA,MF,26.0,7,6,341.0,3.8,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.53,0.0,0.53,0.53,0.53,Matches,ituano,2023
+Lucas,br BRA,MF,34.0,18,4,554.0,6.2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,ituano,2023
+Alejandro,br BRA,MF,20.0,9,4,361.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Emerson Urso,br BRA,MF,21.0,12,3,377.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Felipe Fonseca,br BRA,MF,19.0,14,3,359.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.25,0.25,0.0,0.25,Matches,ituano,2023
+Marcelo Freitas,br BRA,MF,28.0,3,3,236.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Vinicius,br BRA,MF,23.0,7,2,229.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Davi Araújo,br BRA,MF,23.0,5,2,191.0,2.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.47,0.47,0.0,0.47,Matches,ituano,2023
+Deivity,br BRA,GK,31.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Neto Berola,br BRA,MF,35.0,6,2,179.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Matheus Aluísio,br BRA,DF,19.0,8,1,143.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Brayan,br BRA,FW,21.0,3,1,114.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Rhuan,br BRA,DF,23.0,2,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Rafael Silva,br BRA,FW,32.0,3,1,67.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Jonathan,br BRA,DF,24.0,2,1,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+José Carlos,br BRA,FW,19.0,4,0,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Kaíque,br BRA,MF,18.0,2,0,36.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Stevanato,br BRA,MF,19.0,2,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Vinicius,br BRA,MF,16.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ituano,2023
+Erik,br BRA,DF,17.0,0,0,,,,,,,,,,,,,,,,Matches,ituano,2023
+Vinícius Faria,br BRA,FW,23.0,0,0,,,,,,,,,,,,,,,,Matches,ituano,2023
+Madison,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,ituano,2023
+João Pedro,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,ituano,2023
+Vinicius Poz,br BRA,DF,19.0,0,0,,,,,,,,,,,,,,,,Matches,ituano,2023
+Wesley,br BRA,GK,20.0,0,0,,,,,,,,,,,,,,,,Matches,ituano,2023
+Squad Total,,,27.3,38,418,3420.0,38.0,31.0,23.0,54.0,30.0,1.0,2.0,110.0,4.0,0.82,0.61,1.42,0.79,1.39,,ituano,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,38.0,25.0,63.0,34.0,4.0,5.0,80.0,2.0,1.0,0.66,1.66,0.89,1.55,,ituano,2023
+Caíque França,br BRA,GK,27.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Artur,br BRA,DF,28.0,34,34,3034.0,33.7,0.0,3.0,3.0,0.0,0.0,0.0,13.0,1.0,0.0,0.09,0.09,0.0,0.09,Matches,ponte_preta,2023
+Fábio Sanches,br BRA,DF,32.0,27,27,2200.0,24.4,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Amaral,br BRA,MF,19.0,30,27,2001.0,22.2,1.0,0.0,1.0,1.0,0.0,0.0,8.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,ponte_preta,2023
+Filipinho,br BRA,MF,21.0,30,26,2291.0,25.5,1.0,0.0,1.0,1.0,0.0,0.0,10.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,ponte_preta,2023
+Mateus Ferreira da Silva,br BRA,DF,27.0,24,24,2051.0,22.8,0.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Eliel Chrystian,br BRA,"FW,MF",20.0,31,24,1952.0,21.7,4.0,1.0,5.0,4.0,0.0,0.0,1.0,0.0,0.18,0.05,0.23,0.18,0.23,Matches,ponte_preta,2023
+Luiz Oliveira,br BRA,"DF,MF",25.0,26,24,1888.0,21.0,0.0,2.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,ponte_preta,2023
+Léo Naldi,br BRA,MF,21.0,28,22,1845.0,20.5,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.05,0.1,0.15,0.05,0.15,Matches,ponte_preta,2023
+Elvis Vieira Araújo,br BRA,"MF,FW",32.0,23,20,1620.0,18.0,1.0,1.0,2.0,1.0,0.0,1.0,6.0,0.0,0.06,0.06,0.11,0.06,0.11,Matches,ponte_preta,2023
+Jeferson,br BRA,FW,23.0,18,17,1364.0,15.2,2.0,1.0,3.0,2.0,0.0,0.0,10.0,2.0,0.13,0.07,0.2,0.13,0.2,Matches,ponte_preta,2023
+Matheus Jesus,br BRA,MF,25.0,16,16,1277.0,14.2,1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.07,0.0,0.07,0.07,0.07,Matches,ponte_preta,2023
+Edson,br BRA,DF,20.0,16,14,1205.0,13.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Ramon,br BRA,MF,25.0,25,13,1275.0,14.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Pablo Dyego,br BRA,"MF,FW",28.0,16,13,1101.0,12.2,5.0,0.0,5.0,4.0,1.0,1.0,2.0,0.0,0.41,0.0,0.41,0.33,0.33,Matches,ponte_preta,2023
+Weverton,br BRA,DF,23.0,21,11,1229.0,13.7,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,ponte_preta,2023
+Mailton dos Santos,br BRA,"DF,FW",24.0,28,11,1167.0,13.0,3.0,2.0,5.0,2.0,1.0,1.0,3.0,0.0,0.23,0.15,0.39,0.15,0.31,Matches,ponte_preta,2023
+Paulo Baya,br BRA,"FW,MF",23.0,24,8,952.0,10.6,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.19,0.0,0.19,0.19,0.19,Matches,ponte_preta,2023
+Tales,br BRA,"MF,FW",24.0,15,7,740.0,8.2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,ponte_preta,2023
+André,br BRA,FW,32.0,10,7,586.0,6.5,1.0,0.0,1.0,1.0,0.0,1.0,3.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,ponte_preta,2023
+Dudu Hatamoto,br BRA,"MF,FW",19.0,11,5,399.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Thomas,br BRA,DF,27.0,13,4,671.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Cassinho,br BRA,MF,30.0,10,4,405.0,4.5,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.22,0.22,0.0,0.22,Matches,ponte_preta,2023
+Felipe Castro,br BRA,DF,27.0,6,4,397.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Júnior Tavares,br BRA,DF,26.0,5,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Souza,br BRA,MF,34.0,3,3,159.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Igor Torres,br BRA,"MF,FW",22.0,15,2,450.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Paul Villero,co COL,MF,24.0,8,2,213.0,2.4,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.42,0.0,0.42,0.42,0.42,Matches,ponte_preta,2023
+Thiago Lopes,br BRA,DF,20.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Pedro,br BRA,GK,24.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Gabriel Santiago,br BRA,FW,22.0,2,2,131.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Gabriel Silva,br BRA,DF,31.0,2,2,106.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Lucas Veloso,br BRA,MF,24.0,6,1,215.0,2.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.42,0.0,0.42,0.42,0.42,Matches,ponte_preta,2023
+Éverton,br BRA,MF,34.0,4,1,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Samuel Andrade,br BRA,MF,22.0,17,0,295.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Guilherme Pira,br BRA,FW,22.0,5,0,93.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Jean Carlos,br BRA,MF,20.0,3,0,78.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Wesley Fraga,br BRA,MF,26.0,2,0,31.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,ponte_preta,2023
+Euller,br BRA,DF,20.0,0,0,,,,,,,,,,,,,,,,Matches,ponte_preta,2023
+João Gabriel,br BRA,DF,17.0,0,0,,,,,,,,,,,,,,,,Matches,ponte_preta,2023
+André Henrique,br BRA,FW,19.0,0,0,,,,,,,,,,,,,,,,Matches,ponte_preta,2023
+Luan,br BRA,GK,25.0,0,0,,,,,,,,,,,,,,,,Matches,ponte_preta,2023
+Eduardo Processo,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,ponte_preta,2023
+Nicolas Silva,br BRA,MF,17.0,0,0,,,,,,,,,,,,,,,,Matches,ponte_preta,2023
+Squad Total,,,25.5,38,418,3420.0,38.0,24.0,15.0,39.0,22.0,2.0,4.0,121.0,9.0,0.63,0.39,1.03,0.58,0.97,,ponte_preta,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,35.0,19.0,54.0,30.0,5.0,5.0,88.0,4.0,0.92,0.5,1.42,0.79,1.29,,ponte_preta,2023
+Airton Moraes,br BRA,GK,28.0,31,31,2745.0,30.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Bruno Nazário,br BRA,"MF,FW",27.0,31,28,2392.0,26.6,8.0,6.0,14.0,6.0,2.0,2.0,4.0,0.0,0.3,0.23,0.53,0.23,0.45,Matches,chapecoense,2023
+Gustavo Cazonatti,br BRA,MF,26.0,29,26,2189.0,24.3,3.0,1.0,4.0,3.0,0.0,0.0,14.0,2.0,0.12,0.04,0.16,0.12,0.16,Matches,chapecoense,2023
+Lucas Freitas,br BRA,DF,22.0,23,23,2049.0,22.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Giovanni Pavani,br BRA,"MF,FW",26.0,32,22,2246.0,25.0,2.0,2.0,4.0,2.0,0.0,0.0,5.0,0.0,0.08,0.08,0.16,0.08,0.16,Matches,chapecoense,2023
+Bruno Leonardo,br BRA,DF,26.0,24,21,1897.0,21.1,2.0,0.0,2.0,2.0,0.0,0.0,7.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,chapecoense,2023
+Cristiano da Silva Leite,br BRA,DF,29.0,27,21,1793.0,19.9,1.0,2.0,3.0,1.0,0.0,0.0,6.0,1.0,0.05,0.1,0.15,0.05,0.15,Matches,chapecoense,2023
+Rodrigo Freitas,br BRA,DF,24.0,19,19,1658.0,18.4,2.0,0.0,2.0,2.0,0.0,0.0,3.0,1.0,0.11,0.0,0.11,0.11,0.11,Matches,chapecoense,2023
+Alisson Farias,br BRA,"MF,FW",26.0,24,19,1558.0,17.3,4.0,0.0,4.0,3.0,1.0,1.0,2.0,0.0,0.23,0.0,0.23,0.17,0.17,Matches,chapecoense,2023
+Ronei,br BRA,DF,24.0,19,17,1348.0,15.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,chapecoense,2023
+Marcinho,br BRA,"MF,FW",27.0,21,17,1337.0,14.9,3.0,2.0,5.0,3.0,0.0,0.0,3.0,0.0,0.2,0.13,0.34,0.2,0.34,Matches,chapecoense,2023
+Mancha,br BRA,DF,21.0,19,16,1499.0,16.7,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,0.12,0.06,0.18,0.12,0.18,Matches,chapecoense,2023
+Kayke Rodrigues,br BRA,"FW,MF",34.0,19,15,1225.0,13.6,3.0,3.0,6.0,2.0,1.0,1.0,3.0,0.0,0.22,0.22,0.44,0.15,0.37,Matches,chapecoense,2023
+Bruno,br BRA,MF,20.0,26,14,1289.0,14.3,0.0,1.0,1.0,0.0,0.0,0.0,10.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,chapecoense,2023
+Felipe Albuquerque,br BRA,DF,23.0,22,14,1246.0,13.8,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,chapecoense,2023
+Victor Ferraz,br BRA,MF,35.0,11,11,756.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Felipe Ferreira,br BRA,"MF,FW",28.0,26,9,1016.0,11.3,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,chapecoense,2023
+Dudu Vieira,br BRA,MF,28.0,16,9,846.0,9.4,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,chapecoense,2023
+Victor Ramos Ferreira,br BRA,DF,33.0,9,9,810.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Henrique Dourado,br BRA,FW,33.0,13,8,668.0,7.4,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Ribamar,br BRA,FW,25.0,11,8,632.0,7.0,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.14,0.14,0.28,0.14,0.28,Matches,chapecoense,2023
+Rafael Ribeiro,br BRA,DF,27.0,9,7,609.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Richard,br BRA,"MF,FW",23.0,12,7,541.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Pablo Siles,uy URU,MF,25.0,12,7,519.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+João Paulo,br BRA,GK,21.0,7,6,585.0,6.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,0.0,0.15,Matches,chapecoense,2023
+Kaio Mendes,br BRA,"MF,FW",27.0,12,6,529.0,5.9,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,chapecoense,2023
+Marco Antônio,br BRA,MF,25.0,19,5,578.0,6.4,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.31,0.0,0.31,0.31,0.31,Matches,chapecoense,2023
+Douglas Borel,br BRA,"DF,MF",20.0,12,5,576.0,6.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,chapecoense,2023
+Pablo de Oliveira,br BRA,MF,27.0,8,4,389.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Maxwell,br BRA,MF,27.0,12,3,463.0,5.1,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,0.19,0.39,0.58,0.19,0.58,Matches,chapecoense,2023
+Danrlei,br BRA,FW,27.0,14,3,438.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Fabiano,br BRA,DF,32.0,5,2,217.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Neto,br BRA,"MF,FW",20.0,8,2,210.0,2.3,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.43,0.0,0.43,0.43,0.43,Matches,chapecoense,2023
+Gabriel Xavier,br BRA,MF,29.0,9,1,203.0,2.3,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.44,0.0,0.44,0.44,0.44,Matches,chapecoense,2023
+Murilo Oliveira de Freitas,br BRA,MF,26.0,6,1,192.0,2.1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.47,0.47,0.0,0.47,Matches,chapecoense,2023
+Tomas Bastos,br BRA,DF,30.0,4,1,113.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Tiepo,br BRA,GK,24.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Lucas Alves,br BRA,MF,20.0,2,0,44.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+João Igor,br BRA,MF,26.0,2,0,39.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Cleylton Santos,br BRA,DF,29.0,1,0,21.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Diego Coser,br BRA,FW,17.0,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,chapecoense,2023
+Carlos Eduardo,br BRA,GK,30.0,0,0,,,,,,,,,,,,,,,,Matches,chapecoense,2023
+Maurício,br BRA,DF,34.0,0,0,,,,,,,,,,,,,,,,Matches,chapecoense,2023
+Igor Pavan,br BRA,GK,22.0,0,0,,,,,,,,,,,,,,,,Matches,chapecoense,2023
+Squad Total,,,26.7,38,418,3420.0,38.0,38.0,27.0,65.0,34.0,4.0,5.0,115.0,6.0,1.0,0.71,1.71,0.89,1.61,,chapecoense,2023
+Opponent Total,,,27.7,38,418,3420.0,38.0,41.0,26.0,67.0,37.0,4.0,7.0,120.0,8.0,1.08,0.68,1.76,0.97,1.66,,chapecoense,2023
+Luiz Daniel,br BRA,GK,29.0,33,33,2932.0,32.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Ytalo,br BRA,FW,35.0,32,32,2500.0,27.8,13.0,2.0,15.0,12.0,1.0,2.0,4.0,0.0,0.47,0.07,0.54,0.43,0.5,Matches,sampaio_correa,2023
+Gustavo Henrique,br BRA,DF,23.0,29,29,2509.0,27.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Neto Paraíba,br BRA,MF,30.0,33,29,2459.0,27.3,5.0,3.0,8.0,5.0,0.0,0.0,8.0,0.0,0.18,0.11,0.29,0.18,0.29,Matches,sampaio_correa,2023
+Mateus Pivô,br BRA,DF,25.0,28,25,2005.0,22.3,1.0,0.0,1.0,1.0,0.0,0.0,8.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,sampaio_correa,2023
+Vitinho,br BRA,"MF,DF",21.0,29,24,1931.0,21.5,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,sampaio_correa,2023
+Pimentinha,br BRA,"MF,FW",35.0,23,20,1687.0,18.7,1.0,4.0,5.0,1.0,0.0,0.0,0.0,0.0,0.05,0.21,0.27,0.05,0.27,Matches,sampaio_correa,2023
+Marcinho,br BRA,"MF,FW",27.0,19,18,1538.0,17.1,2.0,2.0,4.0,2.0,0.0,1.0,6.0,0.0,0.12,0.12,0.23,0.12,0.23,Matches,sampaio_correa,2023
+Alyson Neves,br BRA,DF,26.0,24,15,1458.0,16.2,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,sampaio_correa,2023
+Robinho,br BRA,MF,29.0,18,15,1327.0,14.7,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.07,0.14,0.2,0.07,0.2,Matches,sampaio_correa,2023
+Leandro Ferreira,br BRA,MF,36.0,17,15,1219.0,13.5,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Pará,br BRA,DF,35.0,15,14,1106.0,12.3,0.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,0.08,0.08,0.0,0.08,Matches,sampaio_correa,2023
+Gabriel Furtado,br BRA,DF,23.0,16,13,1208.0,13.4,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Mauricio,br BRA,MF,24.0,23,11,1158.0,12.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Jhony Santiago,br BRA,MF,25.0,15,11,819.0,9.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Vinicius Alves,br BRA,"FW,MF",23.0,23,10,1181.0,13.1,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.08,0.08,0.15,0.08,0.15,Matches,sampaio_correa,2023
+Ícaro,br BRA,DF,29.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Rafael Jansen,br BRA,DF,34.0,10,10,832.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Mikael,br BRA,MF,29.0,12,10,752.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Joecio,br BRA,DF,37.0,11,9,834.0,9.3,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,sampaio_correa,2023
+Henrique,br BRA,"MF,FW",29.0,12,9,581.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Luiz Otavio,br BRA,MF,25.0,14,6,593.0,6.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Fábio Aguiar,br BRA,DF,33.0,8,6,530.0,5.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,sampaio_correa,2023
+Samuel Santos,br BRA,DF,32.0,12,6,457.0,5.1,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,sampaio_correa,2023
+Eloir,br BRA,"MF,FW",35.0,18,5,570.0,6.3,1.0,0.0,1.0,0.0,1.0,1.0,3.0,0.0,0.16,0.0,0.16,0.0,0.0,Matches,sampaio_correa,2023
+Thiago Braga de Souza,br BRA,GK,38.0,6,5,488.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Lucas Mota,br BRA,"DF,MF",27.0,6,5,419.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Claudinei,br BRA,MF,34.0,9,4,429.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Thiaguinho,br BRA,"MF,FW",21.0,7,3,369.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Leo,br BRA,DF,22.0,6,3,330.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Bill,br BRA,MF,23.0,7,3,262.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Robinho,br BRA,"MF,FW",37.0,3,2,225.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Riquelmo,br BRA,MF,20.0,6,2,196.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Matheus Martins,br BRA,FW,24.0,12,1,349.0,3.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.26,0.26,0.52,0.26,0.52,Matches,sampaio_correa,2023
+Venicius,br BRA,MF,24.0,4,1,171.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Marcos Ytalo,br BRA,MF,26.0,4,1,157.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Cláudio Cebolinha,br BRA,MF,20.0,5,1,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Patrick Carvalho,br BRA,FW,25.0,5,1,112.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Emerson Souza,br BRA,MF,25.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Rafael Vila,br BRA,MF,34.0,8,0,155.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Patrick Allan,br BRA,MF,28.0,4,0,142.0,1.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.63,0.0,0.63,0.63,0.63,Matches,sampaio_correa,2023
+Getterson,br BRA,FW,31.0,5,0,72.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+João Diogo,br BRA,FW,24.0,2,0,57.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Nadson Mesquita,br BRA,MF,23.0,2,0,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Jô,br BRA,MF,23.0,4,0,50.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Emerson Carioca,br BRA,FW,27.0,5,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Rodrigo Souza,br BRA,MF,20.0,6,0,46.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Alexandre Tam,br BRA,FW,23.0,3,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Leonan,br BRA,DF,22.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Gabriel Silva,br BRA,MF,23.0,1,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,sampaio_correa,2023
+Felipe Cauã,br BRA,DF,18.0,0,0,,,,,,,,,,,,,,,,Matches,sampaio_correa,2023
+Carlos Eduardo,br BRA,GK,21.0,0,0,,,,,,,,,,,,,,,,Matches,sampaio_correa,2023
+Jailson,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,sampaio_correa,2023
+Wendell,br BRA,MF,20.0,0,0,,,,,,,,,,,,,,,,Matches,sampaio_correa,2023
+Squad Total,,,29.0,38,418,3420.0,38.0,30.0,19.0,49.0,28.0,2.0,4.0,101.0,6.0,0.79,0.5,1.29,0.74,1.24,,sampaio_correa,2023
+Opponent Total,,,27.5,38,418,3420.0,38.0,42.0,29.0,71.0,38.0,4.0,6.0,130.0,6.0,1.11,0.76,1.87,1.0,1.76,,sampaio_correa,2023
+Felipe Garcia,br BRA,GK,35.0,37,37,3330.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Matheus Frizzo,br BRA,"MF,FW",24.0,34,33,2790.0,31.0,5.0,5.0,10.0,5.0,0.0,0.0,7.0,0.0,0.16,0.16,0.32,0.16,0.32,Matches,tombense_futebol_clube,2023
+Pedro Costa,br BRA,"DF,MF",29.0,34,29,2529.0,28.1,1.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.04,0.04,0.07,0.04,0.07,Matches,tombense_futebol_clube,2023
+Fernandão,br BRA,FW,35.0,31,27,2006.0,22.3,9.0,1.0,10.0,7.0,2.0,4.0,6.0,0.0,0.4,0.04,0.45,0.31,0.36,Matches,tombense_futebol_clube,2023
+João Pedro Mendes,br BRA,MF,23.0,28,26,2089.0,23.2,1.0,1.0,2.0,1.0,0.0,0.0,10.0,1.0,0.04,0.04,0.09,0.04,0.09,Matches,tombense_futebol_clube,2023
+Egídio Pereira Júnior,br BRA,"DF,MF",36.0,33,25,2385.0,26.5,1.0,5.0,6.0,1.0,0.0,0.0,8.0,0.0,0.04,0.19,0.23,0.04,0.23,Matches,tombense_futebol_clube,2023
+Roger Carvalho,br BRA,DF,36.0,24,24,2075.0,23.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Bruno Silva,br BRA,MF,36.0,25,24,2047.0,22.7,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Augusto Silva,br BRA,DF,25.0,23,22,2023.0,22.5,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Guilherme Santos,br BRA,"DF,MF",34.0,23,18,1355.0,15.1,0.0,1.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,tombense_futebol_clube,2023
+Marcelinho,br BRA,"MF,FW",20.0,35,14,1632.0,18.1,4.0,1.0,5.0,4.0,0.0,0.0,4.0,0.0,0.22,0.06,0.28,0.22,0.28,Matches,tombense_futebol_clube,2023
+Kevin,br BRA,"DF,MF",25.0,26,14,1316.0,14.6,0.0,2.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,tombense_futebol_clube,2023
+Kleiton,br BRA,"FW,MF",23.0,20,14,1156.0,12.8,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.08,0.08,0.16,0.08,0.16,Matches,tombense_futebol_clube,2023
+Paulo Keke,br BRA,"FW,MF",27.0,22,13,1021.0,11.3,1.0,1.0,2.0,1.0,0.0,0.0,6.0,0.0,0.09,0.09,0.18,0.09,0.18,Matches,tombense_futebol_clube,2023
+Bruno Matias,br BRA,MF,23.0,12,12,1061.0,11.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Jáderson,br BRA,"MF,FW",22.0,26,12,981.0,10.9,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,tombense_futebol_clube,2023
+Alex Sandro,br BRA,"FW,MF",27.0,27,10,1239.0,13.8,6.0,5.0,11.0,6.0,0.0,0.0,3.0,0.0,0.44,0.36,0.8,0.44,0.8,Matches,tombense_futebol_clube,2023
+Wesley,br BRA,DF,22.0,13,10,973.0,10.8,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Ednei,br BRA,DF,32.0,8,8,655.0,7.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,tombense_futebol_clube,2023
+Zé Vitor,br BRA,DF,21.0,13,8,653.0,7.3,2.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,0.28,0.0,0.28,0.28,0.28,Matches,tombense_futebol_clube,2023
+Alexandre Jesus,br BRA,"MF,FW",21.0,12,7,628.0,7.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,tombense_futebol_clube,2023
+Pierre,br BRA,MF,20.0,15,6,592.0,6.6,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.15,0.15,0.0,0.15,Matches,tombense_futebol_clube,2023
+Emerson,br BRA,DF,24.0,8,5,471.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Zé Ricardo,br BRA,MF,23.0,5,5,335.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Mateus Buiate Buga,br BRA,DF,21.0,4,4,308.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Daniel Amorim,br BRA,FW,33.0,19,3,596.0,6.6,3.0,0.0,3.0,2.0,1.0,1.0,1.0,0.0,0.45,0.0,0.45,0.3,0.3,Matches,tombense_futebol_clube,2023
+Luís Hungria,br BRA,DF,21.0,5,2,300.0,3.3,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.3,0.0,0.3,0.3,0.3,Matches,tombense_futebol_clube,2023
+Rafinha,br BRA,FW,22.0,9,1,253.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Luiz Fernando,br BRA,FW,23.0,9,1,223.0,2.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.4,0.0,0.4,Matches,tombense_futebol_clube,2023
+Djalma,br BRA,MF,22.0,4,1,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Leonardo,br BRA,GK,23.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Elton,br BRA,MF,32.0,2,1,75.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Robert Geannine,br BRA,FW,31.0,3,1,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Felipe Cruz,br BRA,MF,22.0,5,0,51.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Ruan Levine,br BRA,FW,24.0,1,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Rhayner,br BRA,"FW,MF",32.0,1,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Lucas Marques,br BRA,MF,24.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Wisney,br BRA,DF,23.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Franco Mederos,uy URU,MF,21.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,tombense_futebol_clube,2023
+Keylon Batiz,ni NCA,FW,27.0,0,0,,,,,,,,,,,,,,,,Matches,tombense_futebol_clube,2023
+Patricio Gregorio,uy URU,MF,23.0,0,0,,,,,,,,,,,,,,,,Matches,tombense_futebol_clube,2023
+Jean,br BRA,GK,22.0,0,0,,,,,,,,,,,,,,,,Matches,tombense_futebol_clube,2023
+Paulo Vitor Freitas Souza,br BRA,GK,32.0,0,0,,,,,,,,,,,,,,,,Matches,tombense_futebol_clube,2023
+Squad Total,,,28.8,38,418,3420.0,38.0,36.0,28.0,64.0,33.0,3.0,5.0,118.0,3.0,0.95,0.74,1.68,0.87,1.61,,tombense_futebol_clube,2023
+Opponent Total,,,27.7,38,418,3420.0,38.0,49.0,32.0,81.0,42.0,7.0,7.0,98.0,5.0,1.29,0.84,2.13,1.11,1.95,,tombense_futebol_clube,2023
+João Paulo,br BRA,MF,37.0,33,33,2849.0,31.7,7.0,3.0,10.0,2.0,5.0,5.0,10.0,0.0,0.22,0.09,0.32,0.06,0.16,Matches,londrina,2023
+Gabriel Knesowitsch,br BRA,DF,19.0,32,30,2762.0,30.7,4.0,0.0,4.0,4.0,0.0,0.0,6.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,londrina,2023
+Paulinho Moccelin,br BRA,"MF,FW",28.0,31,30,2466.0,27.4,5.0,2.0,7.0,5.0,0.0,0.0,9.0,2.0,0.18,0.07,0.26,0.18,0.26,Matches,londrina,2023
+Iago Dias,br BRA,"MF,FW",29.0,30,25,2023.0,22.5,4.0,3.0,7.0,4.0,0.0,0.0,5.0,0.0,0.18,0.13,0.31,0.18,0.31,Matches,londrina,2023
+Neneca,br BRA,GK,19.0,21,21,1890.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Gustavo Salomão,br BRA,"DF,MF",25.0,20,19,1646.0,18.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.05,0.05,0.0,0.05,Matches,londrina,2023
+Rafael Vaz,br BRA,DF,34.0,17,17,1530.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Lucas Frigeri,br BRA,GK,33.0,17,17,1506.0,16.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Ezequiel,br BRA,DF,29.0,22,17,1463.0,16.3,0.0,0.0,0.0,0.0,0.0,0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Moisés Wolschick,br BRA,MF,28.0,24,17,1412.0,15.7,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Higor,br BRA,MF,29.0,21,17,1248.0,13.9,1.0,3.0,4.0,1.0,0.0,0.0,1.0,0.0,0.07,0.22,0.29,0.07,0.29,Matches,londrina,2023
+Patrick Marcelino,br BRA,DF,28.0,16,16,1421.0,15.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Marcos Pedro,br BRA,DF,21.0,17,13,1226.0,13.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Ariel Palacio,br BRA,"MF,FW",24.0,17,12,1032.0,11.5,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,londrina,2023
+William Barbio,br BRA,"FW,MF",30.0,12,12,943.0,10.5,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.1,0.1,0.19,0.1,0.19,Matches,londrina,2023
+Rodrigo Alves,br BRA,MF,20.0,16,11,942.0,10.5,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Leonardo Morais,br BRA,"DF,MF",31.0,10,9,765.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Diego Jardel,br BRA,"MF,FW",33.0,15,9,729.0,8.1,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,londrina,2023
+Jatoba,br BRA,MF,27.0,11,9,684.0,7.6,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,londrina,2023
+Peu,br BRA,"MF,FW",20.0,17,7,634.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Zé Vitor,br BRA,FW,24.0,12,7,598.0,6.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Lucas Mendes,br BRA,DF,31.0,7,7,556.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Da Silva,br BRA,DF,21.0,7,6,475.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Luan Freitas,br BRA,DF,22.0,7,5,411.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Guilherme Lacerda,br BRA,DF,22.0,6,5,405.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Fabrício Baiano,br BRA,"MF,DF",30.0,10,5,349.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Caio Mancha,br BRA,FW,30.0,14,4,524.0,5.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,londrina,2023
+Matheus Lucas,br BRA,FW,24.0,9,4,417.0,4.6,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.43,0.0,0.43,0.43,0.43,Matches,londrina,2023
+Vinícius Barata,br BRA,MF,23.0,8,4,352.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Hugo,br BRA,"FW,MF",34.0,5,4,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Victor Hugo,br BRA,MF,18.0,10,3,426.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Igor França,br BRA,DF,19.0,10,3,355.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Alexandre Rodrigues Soares,br BRA,DF,32.0,4,3,299.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Nicolas Schulz,br BRA,DF,22.0,6,3,282.0,3.1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.32,0.32,0.0,0.32,Matches,londrina,2023
+Lucas Coelho,br BRA,FW,28.0,8,3,276.0,3.1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.33,0.33,0.0,0.33,Matches,londrina,2023
+Vitor Feijão,br BRA,MF,26.0,6,3,232.0,2.6,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.39,0.39,0.0,0.39,Matches,londrina,2023
+Udeh Clinton,ng NGA,"MF,FW",20.0,18,2,658.0,7.3,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.27,0.14,0.41,0.27,0.41,Matches,londrina,2023
+Natham,br BRA,MF,24.0,7,2,284.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Everton Moraes,br BRA,FW,20.0,8,2,269.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Brandão,br BRA,FW,18.0,8,1,167.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Jonas,br BRA,MF,19.0,3,1,102.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Garraty,br BRA,FW,24.0,13,0,330.0,3.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.27,0.0,0.27,0.27,0.27,Matches,londrina,2023
+Vinícius Jaú,br BRA,FW,24.0,10,0,178.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Junior Dutra,br BRA,"FW,MF",34.0,3,0,60.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Mauro Bravo,us USA,FW,23.0,2,0,38.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Pedro Cacho,br BRA,MF,23.0,2,0,37.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Pablo,br BRA,FW,19.0,2,0,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Saulo,br BRA,GK,27.0,1,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,londrina,2023
+Cirilo,br BRA,FW,20.0,0,0,,,,,,,,,,,,,,,,Matches,londrina,2023
+Arthur Felix,br BRA,DF,32.0,0,0,,,,,,,,,,,,,,,,Matches,londrina,2023
+Danilo Jordan,br BRA,FW,23.0,0,0,,,,,,,,,,,,,,,,Matches,londrina,2023
+Lauan,br BRA,MF,18.0,0,0,,,,,,,,,,,,,,,,Matches,londrina,2023
+Yvan Tiwa,cm CMR,GK,18.0,0,0,,,,,,,,,,,,,,,,Matches,londrina,2023
+Squad Total,,,27.3,38,418,3420.0,38.0,31.0,17.0,48.0,26.0,5.0,5.0,107.0,4.0,0.82,0.45,1.26,0.68,1.13,,londrina,2023
+Opponent Total,,,27.8,38,418,3420.0,38.0,58.0,42.0,100.0,54.0,4.0,5.0,78.0,6.0,1.53,1.11,2.63,1.42,2.53,,londrina,2023
+Ramon,br BRA,MF,22.0,30,22,2094.0,23.3,1.0,0.0,1.0,1.0,0.0,0.0,8.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,abc,2023
+Fábio Lima,br BRA,"MF,FW",26.0,24,22,1664.0,18.5,2.0,1.0,3.0,2.0,0.0,0.0,2.0,0.0,0.11,0.05,0.16,0.11,0.16,Matches,abc,2023
+Matheus Anjos,br BRA,"MF,FW",24.0,26,20,1695.0,18.8,2.0,1.0,3.0,1.0,1.0,1.0,2.0,0.0,0.11,0.05,0.16,0.05,0.11,Matches,abc,2023
+Simão Bertelli,br BRA,GK,29.0,19,19,1710.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Habraão,br BRA,DF,21.0,22,19,1703.0,18.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Gedeilson,br BRA,DF,30.0,26,17,1750.0,19.4,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,abc,2023
+Michael,br BRA,GK,27.0,17,17,1530.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Thonny Anderson,br BRA,"MF,FW",25.0,23,17,1487.0,16.5,5.0,3.0,8.0,2.0,3.0,3.0,7.0,0.0,0.3,0.18,0.48,0.12,0.3,Matches,abc,2023
+Afonso,br BRA,DF,29.0,16,16,1348.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Nathan Melo,br BRA,MF,21.0,16,15,1066.0,11.8,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,abc,2023
+Fabrício,br BRA,DF,32.0,16,14,1242.0,13.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Wallace,br BRA,MF,21.0,19,14,1160.0,12.9,0.0,3.0,3.0,0.0,0.0,0.0,3.0,1.0,0.0,0.23,0.23,0.0,0.23,Matches,abc,2023
+Romário,br BRA,DF,30.0,15,13,1133.0,12.6,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Jhonnathan,br BRA,DF,21.0,15,13,1125.0,12.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Paulo Sérgio,br BRA,"FW,MF",33.0,18,12,1102.0,12.2,4.0,0.0,4.0,4.0,0.0,0.0,3.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches,abc,2023
+Richardson,br BRA,DF,30.0,14,12,1070.0,11.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.08,0.08,0.0,0.08,Matches,abc,2023
+Felipe Garcia,br BRA,FW,32.0,13,12,1006.0,11.2,2.0,0.0,2.0,2.0,0.0,0.0,4.0,2.0,0.18,0.0,0.18,0.18,0.18,Matches,abc,2023
+Wellington Reis,br BRA,MF,31.0,20,11,1005.0,11.2,0.0,1.0,1.0,0.0,0.0,0.0,10.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,abc,2023
+Alemão,br BRA,DF,32.0,12,11,799.0,8.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Wallyson,br BRA,"MF,FW",34.0,15,9,898.0,10.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.1,0.0,0.1,0.0,0.0,Matches,abc,2023
+Alex Silva,br BRA,DF,28.0,10,9,792.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Welliton,br BRA,"FW,MF",22.0,20,8,981.0,10.9,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,abc,2023
+Todinho Júnior,br BRA,"FW,MF",29.0,10,8,552.0,6.1,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.33,0.16,0.49,0.33,0.49,Matches,abc,2023
+Geovane,br BRA,"DF,MF",26.0,10,7,654.0,7.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Genilson,br BRA,DF,32.0,8,7,615.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Anderson,br BRA,"MF,FW",24.0,14,6,617.0,6.9,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,abc,2023
+Luiz Gustavo,br BRA,DF,28.0,6,6,517.0,5.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,abc,2023
+Evandro da Silva,br BRA,"MF,FW",26.0,12,6,512.0,5.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Léo Ceará,br BRA,MF,23.0,7,6,407.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Maycon Douglas,br BRA,"MF,FW",26.0,22,5,691.0,7.7,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,0.39,0.0,0.39,0.39,0.39,Matches,abc,2023
+Jean Patrick,br BRA,MF,30.0,8,5,379.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Daniel,br BRA,MF,26.0,11,4,607.0,6.7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,0.0,0.15,Matches,abc,2023
+Márcio Azevedo,br BRA,"DF,MF",36.0,4,4,339.0,3.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.27,0.0,0.27,Matches,abc,2023
+Lucas Tocantins,br BRA,MF,28.0,7,4,302.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Thallyson,br BRA,"MF,DF",26.0,5,4,291.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Andrey,br BRA,"MF,FW",18.0,4,4,280.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Randerson,br BRA,"MF,DF",18.0,5,3,294.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Bruninho,br BRA,MF,30.0,4,3,280.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Jean Martim,br BRA,MF,23.0,7,2,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Raphael Luz Pessoa,br BRA,MF,33.0,5,2,246.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Renan Bardini Bressan,by BLR,FW,34.0,8,2,240.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Daniel Vançan,br BRA,"MF,DF",26.0,3,2,201.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Wellington Lima,br BRA,GK,32.0,2,2,153.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Andrey,br BRA,MF,20.0,2,1,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Rafael Silva,br BRA,FW,27.0,1,1,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Agustín Rodríguez,uy URU,MF,22.0,1,1,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Allan Monteiro Dias,br BRA,FW,34.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Romário Moura,br BRA,FW,19.0,6,0,158.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Gustavo Hebling,br BRA,MF,26.0,5,0,148.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+De Paula,br BRA,FW,23.0,3,0,79.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Caíque,br BRA,MF,21.0,3,0,47.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Jefinho,br BRA,DF,21.0,3,0,32.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Matheus Refundini,br BRA,GK,23.0,1,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Gustavo Daniel,br BRA,DF,17.0,1,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,abc,2023
+Gil,br BRA,FW,17.0,0,0,,,,,,,,,,,,,,,,Matches,abc,2023
+Carlos Henrique,br BRA,GK,16.0,0,0,,,,,,,,,,,,,,,,Matches,abc,2023
+Mike,br BRA,FW,17.0,0,0,,,,,,,,,,,,,,,,Matches,abc,2023
+Yuri,br BRA,GK,18.0,0,0,,,,,,,,,,,,,,,,Matches,abc,2023
+Squad Total,,,27.4,38,418,3420.0,38.0,26.0,15.0,41.0,21.0,5.0,5.0,112.0,6.0,0.68,0.39,1.08,0.55,0.95,,abc,2023
+Opponent Total,,,27.7,38,418,3420.0,38.0,49.0,36.0,85.0,45.0,4.0,5.0,106.0,4.0,1.29,0.95,2.24,1.18,2.13,,abc,2023
