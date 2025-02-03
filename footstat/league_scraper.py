@@ -7,8 +7,7 @@ from footstat.parser import DataParser
 from footstat.data_saver import DataSaver
 from footstat.exceptions import ScraperError
 from footstat.constants import URL_FBREF
-
-
+from footstat.season_manager import CURRENT_SEASON
 
 
 class LeagueScraper:
@@ -35,6 +34,8 @@ class LeagueScraper:
                 self._scrape_season(season)
             except ScraperError as e:
                 print(f"Error scraping season {season}: {e}")
+                if season != CURRENT_SEASON[self.league_config.calendar - 1]:
+                    self.missing_seasons.append(season)
                 continue
 
     def _scrape_season(self, season: str) -> None:
@@ -56,6 +57,7 @@ class LeagueScraper:
                 time.sleep(self.config.request_delay)
             except ScraperError as e:
                 print(f"Error processing team {team_url}: {e}")
+                team_urls.append(team_url)
                 continue
         
         # Combine and save data

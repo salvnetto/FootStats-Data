@@ -48,6 +48,7 @@ class LeagueDataManager:
         
         # Get missing seasons
         self.missing_seasons = self.season_manager.get_missing_seasons()
+        print(f'**{self.league_config.name}**')
         print(self.missing_seasons)
     
         # Scrape

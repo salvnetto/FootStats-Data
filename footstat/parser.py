@@ -30,7 +30,7 @@ class DataParser:
             ]
             return team_links
         except Exception as e:
-            raise ParsingError(f"Failed to parse team URLs: {str(e)}")
+            raise ParsingError(f"Failed to parse team URLs: {e}")
 
     def parse_team_data(
         self, 
@@ -59,7 +59,7 @@ class DataParser:
             return squad_df, match_history_df
             
         except Exception as e:
-            raise ParsingError(f"Failed to parse team data: {str(e)}")
+            raise ParsingError(f"Failed to parse team data: {e}")
     
     def _process_squad_data(
         self, 
@@ -149,7 +149,7 @@ class StatisticsParser:
             return df
             
         except Exception as e:
-            print(f"Warning: Failed to process {tab} statistics: {str(e)}")
+            print(f"Warning: Failed to process {tab} statistics: {e}")
             return df
     
     def _fetch_and_process_table(
@@ -157,29 +157,36 @@ class StatisticsParser:
         link: str, 
         columns: List[str]
     ) -> Optional[pd.DataFrame]:
-        """Fetch and process a single statistics table using HTTPClient."""
-        try:
-            url = f"{URL_FBREF}{link}"
-            response = self.http_client.get(url)
-            
-            # Read tables from HTML string
-            tables = pd.read_html(StringIO(response.text))
-            if not tables:
-                raise ParsingError(f"No tables found in response from {url}")
-                
-            table = tables[0]
-            
-            # Process table columns
-            table.columns = table.columns.droplevel()
-            table = table.loc[:, ~table.columns.duplicated()]
+        """Fetch and process a single statistics table using HTTPClient with retries."""
+        attempt = 0
+        retries = 3
+        while attempt < retries:
+            try:
+                url = f"{URL_FBREF}{link}"
+                response = self.http_client.get(url)
 
-            # Select only needed columns
-            time.sleep(self.config.request_delay)
-            return table[columns]
-            
-        except Exception as e:
-            print(f"Warning: Failed to fetch table from {link}: {str(e)}")
-            raise
+                # Read tables from HTML string
+                tables = pd.read_html(StringIO(response.text))
+                if not tables:
+                    raise ParsingError(f"No tables found in response from {url}")
+
+                table = tables[0]
+
+                # Process table columns
+                table.columns = table.columns.droplevel()
+                table = table.loc[:, ~table.columns.duplicated()]
+
+                # Select only needed columns
+                time.sleep(self.config.request_delay)
+                return table[columns]
+
+            except Exception as e:
+                print(f"Warning: Failed to fetch table from {link} (Attempt {attempt + 1}/{retries}): {e}")
+                attempt += 1
+                time.sleep(2)  # Optional delay before retrying
+
+        print(f"Error: All {retries} attempts failed for {link}")
+        return None  # Return None after exhausting all attempts
     
     @staticmethod
     def _rename_columns(df: pd.DataFrame, rename_map: Dict[str, str]) -> pd.DataFrame:
@@ -187,5 +194,5 @@ class StatisticsParser:
         try:
             return df.rename(columns=rename_map)
         except Exception as e:
-            print(f"Warning: Failed to rename columns: {str(e)}")
+            print(f"Warning: Failed to rename columns: {e}")
             return df

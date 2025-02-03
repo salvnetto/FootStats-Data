@@ -9,8 +9,6 @@ def main_function():
         data = json.load(file)
 
 
-
-
     for country, leagues in data.items():
         for league, value in leagues.items():
             LeagueDataManager(country, league)
