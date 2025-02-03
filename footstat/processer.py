@@ -23,7 +23,7 @@ class ProcessingConfig:
     def __post_init__(self):
         if self.columns_to_drop is None:
             self.columns_to_drop = {
-                'match_history': ['match report'],
+                'match_history': ['match report', 'notes'],
                 'squads': ['matches_90']
             }
 
@@ -158,5 +158,8 @@ class DataProcessor:
         df['team_name'] = df['team_name'].apply(self.transformer.remove_numbers_from_string)
         df['team_opp_id'] = df['opponent'].apply(self.transformer.create_hash_key)
         df['team_id'] = df['team_name'].apply(self.transformer.create_hash_key)
-        
+        desired_columns = ['comp', 'season', 'date', 'time', 'day', 'round', 'venue', 'attendance', 'result', 'team_name', 'gf', 'ga', 'opponent']
+        remaining_columns = [col for col in df.columns if col not in desired_columns]
+        df = df[desired_columns + remaining_columns]
+
         return df
