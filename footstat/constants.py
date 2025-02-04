@@ -2,7 +2,9 @@ URL_FBREF = 'https://fbref.com'
 
 NAME_CHANGES = {
     "Ath Paranaense": "Athletico Paranaense",
-    "Atl Goianiense": "Atlético Goianiense"
+    "Atl Goianiense": "Atlético Goianiense",
+    "Eint Frankfurt": "eintracht_frankfurt",
+    "Gladbach": "monchengladbach"
 }
 
 STATISTICS = {

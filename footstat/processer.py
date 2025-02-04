@@ -58,6 +58,16 @@ class DataTransformer:
     def change_opponent(team_name: str) -> str:
         """Map team names to their standardized versions."""
         return NAME_CHANGES.get(team_name, team_name)
+    
+    @staticmethod
+    def padronize_opponent(team_name: str) -> str:
+        """Remove accents, convert to lowercase, and replace spaces with underscores."""
+        team_name = ''.join(
+            c for c in unicodedata.normalize('NFKD', team_name)
+            if not unicodedata.combining(c)
+        )
+        team_name = team_name.lower().replace(" ", "_")
+        return team_name.replace("(", "").replace(")", "")
 
 class DataFileManager:
     """Handles file operations for data processing."""
@@ -155,6 +165,8 @@ class DataProcessor:
         
         # Process team names and create IDs
         df['opponent'] = df['opponent'].apply(self.transformer.change_opponent)
+        df['opponent'] = df['opponent'].apply(self.transformer.padronize_opponent)
+        df['opponent'] = df['opponent'].apply(self.transformer.remove_numbers_from_string)
         df['team_name'] = df['team_name'].apply(self.transformer.remove_numbers_from_string)
         df['team_opp_id'] = df['opponent'].apply(self.transformer.create_hash_key)
         df['team_id'] = df['team_name'].apply(self.transformer.create_hash_key)
