@@ -43,7 +43,7 @@ class DataParser:
         try:
             soup = BeautifulSoup(html_content, features='lxml')
             tables = pd.read_html(StringIO(html_content))
-            
+            print(tables)
             # Process squad data
             squad_df = self._process_squad_data(tables[0], team_name, season)
             

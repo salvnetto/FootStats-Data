@@ -28,7 +28,7 @@ class HTTPError(ScraperError):
         self.url = url
         self.status_code = status_code
         super().__init__(f"Failed to fetch {url}" + 
-                        f" (Status: {status_code})" if status_code else "")
+                        (f" (Status: {status_code})" if status_code else ""))
 
 class ParsingError(ScraperError):
     """Raised when parsing operations fail."""
