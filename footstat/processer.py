@@ -160,6 +160,7 @@ class DataProcessor:
         df = df[df['comp'] == self.league_config.name]
         
         # Process round numbers
+        df = df[df['round'] != 'Relegation tie-breaker']
         df['round'] = df['round'].str.replace("Matchweek ", "", regex=False)
         df['round'] = df['round'].astype(int)
         
