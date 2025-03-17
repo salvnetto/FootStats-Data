@@ -56,6 +56,7 @@ class LeagueScraper:
                 match_history_data.append(mh_df)
                 time.sleep(self.config.request_delay)
             except ScraperError as e:
+                time.sleep(self.config.request_delay)
                 print(f"Error processing team {team_url}: {e}")
                 team_urls.append(team_url)
                 continue

@@ -10,8 +10,9 @@ def main_function():
 
 
     for country, leagues in data.items():
-        for league, value in leagues.items():
-            LeagueDataManager(country, league)
-    
+        if country != 'brazil':
+            for league, value in leagues.items():
+                LeagueDataManager(country, league)
+        
 if __name__ == "__main__":
     main_function()

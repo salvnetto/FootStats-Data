@@ -30,6 +30,7 @@ class DataParser:
             ]
             return team_links
         except Exception as e:
+            time.sleep(6)
             raise ParsingError(f"Failed to parse team URLs: {e}")
 
     def parse_team_data(
@@ -43,7 +44,6 @@ class DataParser:
         try:
             soup = BeautifulSoup(html_content, features='lxml')
             tables = pd.read_html(StringIO(html_content))
-            print(tables)
             # Process squad data
             squad_df = self._process_squad_data(tables[0], team_name, season)
             
@@ -59,6 +59,7 @@ class DataParser:
             return squad_df, match_history_df
             
         except Exception as e:
+            time.sleep(6)
             raise ParsingError(f"Failed to parse team data: {e}")
     
     def _process_squad_data(
@@ -149,6 +150,7 @@ class StatisticsParser:
             return df
             
         except Exception as e:
+            time.sleep(6)
             print(f"Warning: Failed to process {tab} statistics: {e}")
             return df
     
@@ -183,7 +185,7 @@ class StatisticsParser:
             except Exception as e:
                 print(f"Warning: Failed to fetch table from {link} (Attempt {attempt + 1}/{retries}): {e}")
                 attempt += 1
-                time.sleep(2)  # Optional delay before retrying
+                time.sleep(6)  # Optional delay before retrying
 
         print(f"Error: All {retries} attempts failed for {link}")
         return None  # Return None after exhausting all attempts
