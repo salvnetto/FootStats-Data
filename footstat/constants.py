@@ -18,7 +18,7 @@ NAME_CHANGES = {
     "Wolves": "wolverhampton_wanderers",
     "Sheffield Utd": "sheffield_united",
     "Newcastle Utd": "newcastle_united",
-    "Brighton": "brighton_hove_albion",
+    "Brighton": "brighton_and_hove_albion",
     "West Ham": "west_ham_united",
     "Nott'ham Forest": "nottingham_forest",
     "West Brom": "west_bromwich_albion"

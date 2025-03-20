@@ -320,7 +320,7 @@ Michał Karbownik,pl POL,"DF,MF",20.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,bri
 Marc Leonard,sct SCO,MF,19.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
 Thomas Mcgill,eng ENG,GK,21.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
 Odeluga Offiah,eng ENG,DF,18.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
-Haydon Roberts,eng ENG,DF,19.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
+Haydon Roberts,eng ENG,"DF,MF",19.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
 Kjell Scherpen,nl NED,GK,21.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
 Ed Turns,wls WAL,DF,18.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
 Andi Zeqiri,ch SUI,FW,22.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,brighton_and_hove_albion,2021-2022
@@ -421,7 +421,7 @@ James Tomkins,eng ENG,DF,32.0,8,6,547.0,6.1,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.5,
 Jaïro Riedewald,nl NED,MF,24.0,3,1,118.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,1.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,crystal_palace,2021-2022
 Jesurun Rak Sakyi,eng ENG,"FW,MF",18.0,2,1,80.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crystal_palace,2021-2022
 Nathan Ferguson,eng ENG,DF,20.0,1,0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,crystal_palace,2021-2022
-Tayo Adaramola,ie IRL,DF,17.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,crystal_palace,2021-2022
+Tayo Adaramola,ie IRL,"DF,MF",17.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,crystal_palace,2021-2022
 Scott Banks,sct SCO,MF,19.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,crystal_palace,2021-2022
 Reece Hannam,eng ENG,DF,20.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,crystal_palace,2021-2022
 Martin Kelly,eng ENG,"DF,MF",31.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,crystal_palace,2021-2022
@@ -581,7 +581,7 @@ Niels Nkounkou,fr FRA,"DF,MF",20.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,everto
 Nathan Patterson,sct SCO,DF,19.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,everton,2021-2022
 Harry Tyrer,eng ENG,GK,19.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,everton,2021-2022
 Reece Welch,eng ENG,DF,17.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,everton,2021-2022
-Charlie Whitaker,eng ENG,MF,17.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,everton,2021-2022
+Charlie Whitaker,eng ENG,"FW,MF",17.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,everton,2021-2022
 Squad Total,,,26.7,38,418,3420.0,38.0,42.0,29.0,71.0,36.0,6.0,7.0,82.0,6.0,41.2,35.8,28.5,64.3,512.0,1100.0,1086.0,1.11,0.76,1.87,0.95,1.71,1.09,0.75,1.83,0.94,1.69,,everton,2021-2022
 Opponent Total,,,26.8,38,418,3420.0,38.0,61.0,46.0,107.0,59.0,2.0,2.0,72.0,0.0,55.4,53.9,41.8,95.8,735.0,1799.0,1782.0,1.61,1.21,2.82,1.55,2.76,1.46,1.1,2.56,1.42,2.52,,everton,2021-2022
 Illan Meslier,fr FRA,GK,21.0,38,38,3384.0,37.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,leeds_united,2021-2022
